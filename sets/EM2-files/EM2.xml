@@ -1,0 +1,4499 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>EM2</name>
+			<longname>Extended Multiverse Core 2</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-08-01</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Teferi, Temporal Mender</name>
+			<text>If an permanent entering the battlefield from exile causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/0.png" num="225">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glorymaker</name>
+			<text>Whenever another creature enters the battlefield under your control, Glorymaker and that creature each get +1/+0 and gain haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/1.png" num="210">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sacred Grove</name>
+			<text>Whenever Sacred Grove or another enchantment enters the battlefield under your control, choose one—
+• You gain 2 life.
+• Put a +1/+1 counter on target creature.
+• Create a 1/1 white Cleric creature token.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/2.png" num="222">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pull from the Subconscious</name>
+			<text>Return target creature card from your graveyard to the battlefield.
+Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.)
+When you cycle Pull from the Subconscious, look at the top three cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order. (Do this before you draw.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/3.png" num="108">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Agonizing Extraction</name>
+			<text>Draw two cards. Then, Agonizing Extraction damage to any target equal to the number of cards you&apos;ve drawn this turn.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/4.png" num="201">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Potent Brew</name>
+			<text>When Potent Brew enters the battlefield and at the beginning of your upkeep, each opponent loses 1 life and you gain 1 life.
+Whenever you gain life, target creature gets +1/+1 until end of turn for each 1 life you gained.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/5.png" num="219">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Furybringer</name>
+			<text>Whenever a land enters the battlefield under your control, put a +1/+1 counter on target creature.
+Each creature you control with the greatest power or tied for the greatest power among creatures on the battlefield has menace.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/6.png" num="209">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Centaur Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Predatory Scourge</name>
+			<text>Flash
+Cycling {G}{U} ({G}{U}, Discard this card: Draw a card.)
+When you cycle Predatory Scourge, you may put a land card from your hand onto the battlefield tapped. (Do this before you draw.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/7.png" num="220">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Leviathan</type>
+				<maintype>Creature</maintype>
+				<manacost>6GU</manacost>
+				<cmc>8</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soul&apos;s Attendant</name>
+			<text>Whenever another creature enters the battlefield, you may gain 1 life.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/8.png" num="37">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pilgrimage party</name>
+			<text>When Pilgrimage party enters the battlefield, enters the battlefield, create a 1/1 white Cleric creature token.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/9.png" num="32">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arashin Cleric</name>
+			<text>When Arashin Cleric enters the battlefield, you gain 3 life.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/10.png" num="11">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whitemane Lion</name>
+			<text>Flash
+When Whitemane Lion enters the battlefield, return a creature you control to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/11.png" num="42">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inspired Battlepirest</name>
+			<text></text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/12.png" num="24">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Monk Idealist</name>
+			<text>When Monk Idealist enters the battlefield, return target enchantment card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/13.png" num="29">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sanctum Swan</name>
+			<text>Flying
+Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/14.png" num="35">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Outcaster of the Abhorrent</name>
+			<text>{1}{W}, Exile Outcaster of the Abhorrent: Exile target tapped creature. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/15.png" num="30">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Winged Shepherd</name>
+			<text>Flying, vigilance
+Cycling {W} ({W}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/16.png" num="43">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Impeccable Timing</name>
+			<text>Impeccable Timing deals 3 damage to target attacking or blocking creature.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/17.png" num="23">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Temporal Fluctuation</name>
+			<text>Exile target creature you control, then return it to the battlefield under its owner&apos;s control.
+Cycling {1}` ({1}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/18.png" num="39">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Full Faith</name>
+			<text>When Full Faith enters the battlefield, create a 1/1 white Cleric creature token.
+Enchanted creature gets +1/+1 for each creature you control.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/19.png" num="21">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ancient Shallowkeepers</name>
+			<text>{5}{U}, Sacrifice Ancient Shallowkeepers: Draw two cards.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/20.png" num="45">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Trilobite</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kraken Hatchling</name>
+			<text></text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/21.png" num="60">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kraken</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crafty Plunderer</name>
+			<text>When Crafty Plunderer enters the battlefield, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/22.png" num="52">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frost Lynx</name>
+			<text>When Frost Lynx enters the battlefield, tap target creature an opponent controls. That creature doesn&apos;t untap during its controller&apos;s next untap step.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/23.png" num="56">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Adept Octopod</name>
+			<text>{2}{U}, {T}: Draw a card, then discard a card.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/24.png" num="44">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Octopus</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shimmerscale Drake</name>
+			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/25.png" num="73">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Striped Riverwinder</name>
+			<text>Hexproof (This creature can&apos;t be the target of spells or abilities your opponents control.)
+Cycling {U} ({U}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/26.png" num="75">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>6U</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Steady Shieldmage</name>
+			<text>Defender
+Whenever you draw your second card each turn, Steady Shieldmage can attack this turn as though it didn&apos;t have defender.
+Cycling {U} ({U}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/27.png" num="74">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dreamweft Mount</name>
+			<text>Enchant creature
+Enchanted creature gets +3/+3 and has flying.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/28.png" num="55">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Countervailing Winds</name>
+			<text>Counter target spell unless its controller pays {1} for each card in your graveyard.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/29.png" num="51">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Honored Tribute</name>
+			<text>When Honored Tribute dies, create a 1/1 red Dragon creature token named Dragon Whelp. It has flying.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/30.png" num="98">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Insanity Drinker</name>
+			<text>Discard a card: Insanity Drinker gains lifelink until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/31.png" num="100">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sanguine Regent</name>
+			<text>Flying, lifelink
+Ward—Pay 2 life (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/32.png" num="111">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Malevolent Warlord</name>
+			<text></text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/33.png" num="102">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>7/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Call the Blood Skies</name>
+			<text>Each opponent loses 3 life and you gain 3 life.
+Cycling {1} ({1}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/34.png" num="87">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sleep Eternal</name>
+			<text>Choose one—
+• Destroy target tapped creature.
+• Remove three loyalty counters from target planeswalker.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/35.png" num="114">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bitter Revelation</name>
+			<text>Look at the top four cards of your library. Put two of them into your hand and the rest into your graveyard. You lose 2 life.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/36.png" num="83">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wander in Death</name>
+			<text>Return up to two target creature cards from your graveyard to your hand.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/37.png" num="121">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nest Keeper</name>
+			<text>When Nest Keeper enters the battlefield, create a 1/1 red Dragon creature token named Dragon Whelp. It has flying.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/38.png" num="144">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brimstone Kite</name>
+			<text>{R}, Discard a card: Brimstone Kite gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/39.png" num="127">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lava Serpent</name>
+			<text>Haste
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/40.png" num="142">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Limits of Solidarity</name>
+			<text>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/41.png" num="143">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Flameforged Blade</name>
+			<text>Equipped creature gets +1/+0 and has trample.
+Whenever equipped creature deals combat damage to a player you may discard a card. If you do, draw a card.
+Equip {2}</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/42.png" num="134">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Unexpected Prowess</name>
+			<text>Put a +1/+1 counter on target creature you control. It gains first strike until end of turn.
+Cycling {1} ({1}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/43.png" num="158">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Earthcraft Sage</name>
+			<text>When Earthcraft Sage enters the battlefield, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/44.png" num="174">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clearing Keeper</name>
+			<text>{T}: Untap target land.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/45.png" num="169">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Druid of Vitality</name>
+			<text>{T}: You gain life equal to Druid of Vitality&apos;s power.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/46.png" num="173">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Craterhub Miner</name>
+			<text>Whenever a land enters the battlefield under your control, put a +1/+1 counter on Craterhub Miner.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/47.png" num="172">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Greater Sandwurm</name>
+			<text>Greater Sandwurm can&apos;t be blocked by creatures with power 2 or less.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/48.png" num="180">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fell from the Skies</name>
+			<text>Enchant creature
+When Fell from the Skies enters the battlefield, you may destroy target creature with flying.
+Enchanted creature gets +1/+1 and has vigilance and reach.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/49.png" num="177">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Beneath the Sands</name>
+			<text>Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/50.png" num="165">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wilt</name>
+			<text>Destroy target artifact or enchantment.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/51.png" num="200">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shredmite</name>
+			<text>{T}, Sacrifice a permanent: You gain 1 life.
+{1}, {T}, Sacrifice a permanent: Put a +1/+1 counter on Shredmite.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/52.png" num="238">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ruin Guard</name>
+			<text>Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/53.png" num="237">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dragon Hunter</name>
+			<text>Protection from Dragons (This creature can&apos;t be blocked, targeted or dealt damage by Dragons.)
+Dragon Hunter can block Dragons as though it had reach.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/54.png" num="16">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Battlefield Medic</name>
+			<text>{T}: Prevent the next X damage that would be dealt to target creature this turn, where X is the number of Clerics on the battlefield (both yours and your opponents&apos;).</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/55.png" num="14">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ageless Voyager</name>
+			<text>At the beginning of your upkeep, you may exile another target permanent you control. If you do, return it to the battlefield under its owner&apos;s control at the beginning of the next end step.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/56.png" num="6">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stonehorn Dignitary</name>
+			<text>When Stonehorn Dignitary enters the battlefield, target opponent skips their next combat phase.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/57.png" num="38">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rhino Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Exalted Priest</name>
+			<text>When Exalted Priest enters the battlefield, create two 1/1 white Cleric creature tokens, then you gain life equal to the number of creatures you control.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/58.png" num="19">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Solace of the Faithful</name>
+			<text>Choose target opponent. Create X 1/1 white Cleric creature tokens, where X is the number of creatures that opponent controls.
+Cycling {1} ({1}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/59.png" num="36">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Intangible Virtue</name>
+			<text>Creature tokens you control get +1/+1 and have vigilance.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/60.png" num="27">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Astral Suspension</name>
+			<text>Whenever you cycle Astral Suspension or cycle or discard another card, exile target creature you control. Return that card to the battlefield under its owner&apos;s control at the beginning of the next end step.
+Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/61.png" num="13">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nephalia Smuggler</name>
+			<text>{3}{U}, {T}: Exile another target creature you control, then return that card to the battlefield under your control.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/62.png" num="69">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thought Strangler</name>
+			<text>Whenever you draw a card, each opponent mills two cards and you put a +1/+1 counter on Thought Strangler.
+Cycling {U} ({U}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/63.png" num="77">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Octopus</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thoughtdrifter</name>
+			<text>Flying
+When Thoughtdrifter enters the battlefield, draw two cards.
+Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/64.png" num="78">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mindfeaster Serpent</name>
+			<text>This spell costs {2} less to cast for each card you&apos;ve drawn this turn.
+{4}: Mindfeaster Serpent can&apos;t be blocked this turn. This ability costs {2} less to active for each card you&apos;ve drawn this turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/65.png" num="65">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>6UU</manacost>
+				<cmc>8</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mindscour Dragon</name>
+			<text>Flying
+Whenever Mindscour Dragon deals combat damage to an opponent, target player mills four cards.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/66.png" num="66">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Azure Mage</name>
+			<text>{3}{U}: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/67.png" num="47">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Complicate</name>
+			<text>Counter target spell unless its controller pays {3}.
+Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.)
+When you cycle Complicate, you may counter target spell unless its controller pays {1}.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/68.png" num="50">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ominous Seas</name>
+			<text>Whenever you draw a card, put a foreshadow counter on Ominous Seas.
+Remove eight foreshadow counters from Ominous Seas: Create an 8/8 blue Kraken creature token.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/69.png" num="70">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lay Claim</name>
+			<text>Enchant permanent
+You control enchanted permanent.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/70.png" num="62">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vessel of Fiends</name>
+			<text>Lifelink
+Sacrifice Vessel of Fiends: You lose X life. Create an X/X black demon creature token. X is the amount of life you gained this turn. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/71.png" num="120">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Undertaker</name>
+			<text>{B}, {T}, Discard a card: Return target creature card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/72.png" num="118">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Spellshaper</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodrite Invoker</name>
+			<text>When Bloodrite Invoker enters the battlefield, sacrifice any number of other nonland permanents. For each permanent sacrificed this way, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/73.png" num="85">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Noxious Dragon</name>
+			<text>Flying
+When Noxious Dragon dies, you may destroy target creature with mana value 3 or less.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/74.png" num="104">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ceremonial Slaughter</name>
+			<text>Create a 1/1 white Cleric creature token, then each player sacrifices a creature or planeswalker.
+Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)
+When you cycle Ceremonial Slaughter, create a 1/1 white Cleric creature token.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/75.png" num="88">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stubborn Revival</name>
+			<text>Return to the battlefield target creature card in your graveyard that was put there from anywhere this turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/76.png" num="116">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Flameblade Adept</name>
+			<text>Menace
+Whenever you cycle or discard a card, Flameblade Adept gets +1/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/77.png" num="133">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Jackal Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Snarlsturm Shaman</name>
+			<text>Haste
+Whenever Snarlsturm Shaman attacks, you may discard a card. If you do, create a 1/1 red Dragon creature token named Dragon Whelp that&apos;s tapped and attacking. It has flying.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/78.png" num="154">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Viscous Hatchling</name>
+			<text>Flying, haste
+Whenever Viscous Hatchling attacks, put a +1/+1 counter on it.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/79.png" num="159">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dragon Mage</name>
+			<text>Flying
+Whenever Dragon Mage deals combat damage to a player, each player discards their hand, then draws seven cards.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/80.png" num="130">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fleetbreaker</name>
+			<text>Flying, haste
+When Fleetbreaker enters the battlefield, it deals 1 damage to each of up to three targets. Creatures dealt damage this way can&apos;t block this turn.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/81.png" num="135">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Winds of Change</name>
+			<text>Each player shuffles the cards from their hand into their library, then draws that many cards.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/82.png" num="161">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Active Nest</name>
+			<text>Whenever you draw your second card each turn, create a 1/1 red Dragon creature token named Dragon Whelp. It has flying.
+Cycling {R} ({R}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/83.png" num="124">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sakura-Tribe Scout</name>
+			<text>{T}: You may put a land card from your hand onto the battlefield.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/84.png" num="190">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snake Shaman Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Adapted Packmate</name>
+			<text>Adapted Packmate enters the battlefield with a +1/+1 counter on it.
+When Adapted Packmate dies, put its counters on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/85.png" num="162">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vigorgrowth Treefolk</name>
+			<text>Whenever Vigorgrowth Treefolk deals damage, if it&apos;s attacking, blocking, or fighting, you gain that much life.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/86.png" num="198">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ridgescale Tusker</name>
+			<text>When Ridgescale Tusker enters the battlefield, put a +1/+1 counter on each other creature you control.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/87.png" num="188">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Pangolin Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shefet Monitor</name>
+			<text>Cycling {3}{G} ({3}{G}, Discard this card: Draw a card.)
+When you cycle Shefet Monitor you may search your library for a basic land card or a Desert card, put it onto the battlefield, then shuffle. (Do this before you draw.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/88.png" num="193">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sifter Wurm</name>
+			<text>Trample
+When Sifter Wurm enters the battlefield, scry 3, then reveal the top card of your library. You gain life equal to that card&apos;s mana value.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/89.png" num="195">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Enigmatic Hydra</name>
+			<text>Enigmatic Hydra enters the battlefield with X +1/+1 counters on it.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/90.png" num="176">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hydra</type>
+				<maintype>Creature</maintype>
+				<manacost>XG</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shimmering Grotto</name>
+			<text>Enchant land
+Whenever enchanted land becomes tapped, add one mana of any color.
+Enchanted land has &quot;{T}: You gain 1 life.&quot;</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/91.png" num="194">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Elemental Bond</name>
+			<text>Whenever a creature with power 3 or greater enters the battlefield under your control, draw a card.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/92.png" num="175">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Verdant Amplification</name>
+			<text>At the beginning of your upkeep, target creature gets +1/+1 until end of turn.
+Other enchantments you control have &quot;At the beginning of your upkeep, target creature gets +1/+1 until end of turn.&quot;</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/93.png" num="197">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Angel of the God-Pharaoh</name>
+			<text>Flying
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/94.png" num="10">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Merchant Scroll</name>
+			<text>Search your library for a blue instant card, reveal that card, put it into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/95.png" num="64">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unseal Evils</name>
+			<text>Non-Cleric creatures get -2/-2 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/96.png" num="119">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Kaleidobird</name>
+			<text>Flying
+Kaleidobird enters the battlefield with a +1/+1 counter on it for each type of mana spent to cast it. (The types of mana are white, blue, black, red, green, and colorless.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/97.png" num="1">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>X</manacost>
+				<cmc>0</cmc>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alms Collector</name>
+			<text>Flash
+If an opponent would draw two or more cards, instead you and that player each draw a card.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/98.png" num="9">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Restoration Angel</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
+When Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/99.png" num="33">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Weathered Wayfarer</name>
+			<text>{W}, {T}: Search your library for a land card, reveal it, put it into your hand, then shuffle. Activate only if an opponent controls more lands than you.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/100.png" num="41">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Nomad Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Safekeeper</name>
+			<text>Flash
+When Safekeeper enters the battlefield, prevent the next 3 damage that would be dealt to any target this turn.
+Whenever damage that would be dealt to you or permanents you control is prevented, draw a card.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/101.png" num="34">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Training Mage</name>
+			<text>Abilities you activate that aren&apos;t mana abilities cost {2} less to activate (including cycling abilities). This effect can&apos;t reduce the mana in that cost to less than one mana.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/102.png" num="79">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Murkdepth Caller</name>
+			<text>When Murkdepth Caller enters the battlefield, create an 8/8 blue Kraken creature token.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/103.png" num="67">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Laboratory Maniac</name>
+			<text>If you would draw a card while your library has no cards in it, you win the game instead.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/104.png" num="61">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whelming Wave</name>
+			<text>Return all creatures to their owners&apos; hands except for Krakens, Leviathans, Octopuses, and Serpents.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/105.png" num="82">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Invoke the Ancestors</name>
+			<text>This spell costs {3} less to cast if it targets a creature card in a graveyard that shares a creature type with a creature you control.
+Put target creature card with mana value X or less from a graveyard onto the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/106.png" num="101">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XB</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stormmind Giant</name>
+			<text>Each nonland card in your hand has cycling {X}{R}, where X is 6 minus that card&apos;s mana value.
+Cycling {R} ({R}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/107.png" num="155">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Connected Worldmage</name>
+			<text>As Connected Worldmage enters the battlefield, choose a land you control.
+Connected Worldmage has all activated abilities of the chosen land.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/108.png" num="171">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Realms Uncharted</name>
+			<text>Search your library for up to four land cards with different names and reveal them. An opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/109.png" num="187">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gust Shield</name>
+			<text>Flash
+Enchant creature
+Enchanted creature has hexproof and reach.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/110.png" num="181">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Apex Tyrano</name>
+			<text>Trample
+Apex Tyrano enters the battlefield with X +1/+1 counters on it, where X is the greatest power among other creatures on the battlefield.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/111.png" num="163">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rot Dredger</name>
+			<text>Whenever Rot Dredger or another nontoken creature you control dies, return a creature card with lesser mana value than the creature that died from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/112.png" num="189">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chromium, the Observer</name>
+			<text>Flying
+When Chromium, the Observer enters the battlefield, if you cast it, create X 1/1 white Human creature tokens, where X is the amount of mana spent to cast Chromium minus 4.
+{3}: Until end of turn, Chromium, the Observer becomes a copy of target Human creature you control, except it has hexproof.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/113.png" num="204">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2WUB</manacost>
+				<cmc>5</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arcades, Enforcer of Peace</name>
+			<text>Defender, flying
+Prevent all combat damage that would be dealt to other creatures you control.
+If a source you control would deal damage, prevent that damage, draw a card, and you gain that much life.
+At the beginning of your upkeep, if your life total is greater than or equal to five times your starting life total, you win the game.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/114.png" num="202">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>1GWU</manacost>
+				<cmc>4</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nicol Bolas, Power Hungry</name>
+			<text>Nicol Bolas, Power Hungry enters the battlefield with a number of loyalty counters on him equal to the amount of mana spent to cast him.
+[+1]: You draw a card and you lose 2 life. Add {U}, {B}, or {R}. 
+[-4]: Nicol Bolas, Power Hungry deals X damage to target creature or planeswalker and you gain X life, where X is the number of lands you control.
+[-7]: For each land you don&apos;t control, add one mana of any type that land could produce. Tap those lands. They don&apos;t untap during their controller&apos;s next untap step.
+Nicol Bolas, Power Hungry can be your commander.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/115.png" num="215">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Bolas</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>XUBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<loyalty>0</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Palladia-Mors, Savage Hunter</name>
+			<text>Flying, trample
+When Palladia-Mors, Savage Hunter enters the battlefield, it fights up to one target creature you don&apos;t control.
+Whenever a creature you control wins a fight, you gain life equal to its power and you draw a card. (A creature wins a fight if it doesn&apos;t die during the fight and the creature it fights dies during the fight.)</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/116.png" num="217">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3RGW</manacost>
+				<cmc>6</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vaevictis Asmadi, the Hunted</name>
+			<text>Flying, haste
+Creatures your opponents control attack each combat if able.
+Other attacking creatures you control get +1/+1.
+Whenever a creature attacks you or a planeswalker you control, it gets -1/-1 until end of turn.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/117.png" num="227">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3BRG</manacost>
+				<cmc>6</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tetsuo Umezawa, Usurper</name>
+			<text>Protection from everything noncreature (This creature can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything noncreature.)
+Cycling {2}{U}{B}{R} ({2}{U}{B}{R}, Discard this card: Draw a card.)
+When you cycle Tetsuo Umezawa, Usurper, destroy target artifact, creature, or planeswalker.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/118.png" num="226">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1UBR</manacost>
+				<cmc>4</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sanctum of the Renowned</name>
+			<text>{T}: Add {C}.
+{1}, {T}: Add two mana in any combination of colors. Spend this mana only to cast legendary spells or activate abilities of legendary permanents.
+{W}{U}{B}{R}{G}, {T}, Sacrifice Sanctum of the Renowned: Search your library for any number of legendary nonland permanent cards with total mana value 7 or less, put them onto the battlefield, then shuffle.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/119.png" num="247">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Rings of Brighthearth</name>
+			<text>Whenever you activate an ability, if it isn&apos;t a mana ability, you may pay {2}. If you do, copy that ability. You may choose new targets for the copy.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/120.png" num="236">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ajani, Defender of Honor</name>
+			<text>[+1]: Put a +1/+1 counter on up to one target creature. Creatures you control gain vigilance until end of turn. 
+[-1]: Until your next turn, whenever an opponent draws a card, create a 1/1 white Cat creature token with lifelink.
+[-4]: Exile target creature or planeswalker.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/121.png" num="7">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Ajani</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tezzeret, Supreme Mechanist</name>
+			<text>[+1]: Draw a card. If you control no artifacts, discard a card.
+[-1]: Until your next turn, target artifact you control becomes a 5/5 creature in addition to its other types.
+[-4]: Target player mills two cards for each artifact you control.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/122.png" num="76">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Tezzeret</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sorin, Ancient Bloodlord</name>
+			<text>[+1]: You may sacrifice a creature. If you do, each opponent sacrifices a creature.
+[-3]: Put target creature or planeswalker card from a graveyard onto the battlefield under your control.
+[-X]: Sorin, Ancient Bloodlord deals half X damage to each creature, rounded down. You gain life equal to the damage dealt this way.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/123.png" num="115">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Sorin</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sarkhan, Fireblood</name>
+			<text>[+1]: You may discard a card. If you do, draw a card.
+[+1]: Add two mana in any combination of colors. Spend this mana only to cast Dragon spells.
+[-7]: Create four 5/5 red Dragon creature tokens with flying.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/124.png" num="150">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Sarkhan</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vivien, Invoker of the Wilds</name>
+			<text>[+1]: Put a +1/+1 counter on up to one target creature you control. Then if you control a creature with power 4 or greater, draw a card.
+[-3]: Target creature you control deals damage equal to its power to target creature or planeswalker.
+[-X]: Return target creature card with mana value X from your graveyard to your hand. Create a token that&apos;s a copy of it.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/125.png" num="199">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Vivien</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ugin, Ageless Scholar</name>
+			<text>[+1]: Put the top card of your library onto the battlefield face down. (It&apos;s a 2/2 creature.) If that creature would leave the battlefield, put it into your hand instead.
+[-3]: Ugin, Ageless Scholar deals 3 damage to any target.
+[-7]: You may put a permanent card from your hand onto the battlefield. Take an extra turn after this one.
+Ugin, Ageless Scholar can be your commander.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/126.png" num="3">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Ugin</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Progenitus</name>
+			<text>Protection from everything (This creature can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything.)
+If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner&apos;s library instead.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/127.png" num="221">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Hydra Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>WWUUBBRRGG</manacost>
+				<cmc>10</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>10/10</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodfell Caves</name>
+			<text>Bloodfell Caves enters the battlefield tapped.
+When Bloodfell Caves enters the battlefield, you gain 1 life.
+{T}: Add {B} or {R}.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/128.png" num="250">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Blossoming Sands</name>
+			<text>Blossoming Sands enters the battlefield tapped.
+When Blossoming Sands enters the battlefield, you gain 1 life.
+{T}: Add {G} or {W}.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/129.png" num="251">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dismal Backwater</name>
+			<text>Dismal Backwater enters the battlefield tapped.
+When Dismal Backwater enters the battlefield, you gain 1 life.
+{T}: Add {U} or {B}.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/130.png" num="252">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Jungle Hollow</name>
+			<text>Jungle Hollow enters the battlefield tapped.
+When Jungle Hollow enters the battlefield, you gain 1 life.
+{T}: Add {B} or {G}.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/131.png" num="253">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Rugged Highlands</name>
+			<text>Rugged Highlands enters the battlefield tapped.
+When Rugged Highlands enters the battlefield, you gain 1 life.
+{T}: Add {R} or {G}.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/132.png" num="254">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Scoured Barrens</name>
+			<text>Scoured Barrens enters the battlefield tapped.
+When Scoured Barrens enters the battlefield, you gain 1 life.
+{T}: Add {W} or {B}.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/133.png" num="255">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swiftwater Cliffs</name>
+			<text>Swiftwater Cliffs enters the battlefield tapped.
+When Swiftwater Cliffs enters the battlefield, you gain 1 life.
+{T}: Add {U} or {R}.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/134.png" num="256">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Thornwood Falls</name>
+			<text>Thornwood Falls enters the battlefield tapped.
+When Thornwood Falls enters the battlefield, you gain 1 life.
+{T}: Add {G} or {U}.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/135.png" num="257">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Tranquil Cove</name>
+			<text>Tranquil Cove enters the battlefield tapped.
+When Tranquil Cove enters the battlefield, you gain 1 life.
+{T}: Add {W} or {U}.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/136.png" num="258">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Wind-Scarred Crag</name>
+			<text>Wind-Scarred Crag enters the battlefield tapped.
+When Wind-Scarred Crag enters the battlefield, you gain 1 life.
+{T}: Add {R} or {W}.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/137.png" num="259">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dragonskull Summit</name>
+			<text>Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.
+{T}: Add {B} or {R}.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/138.png" num="242">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Glacial Fortress</name>
+			<text>Glacial Fortress enters the battlefield tapped unless you control a Plains or an Island.
+{T}: Add {W} or {U}.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/139.png" num="245">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Rootbound Crag</name>
+			<text>Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.
+{T}: Add {R} or {G}.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/140.png" num="246">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sunpetal Grove</name>
+			<text>Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains.
+{T}: Add {G} or {W}.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/141.png" num="248">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Drowned Catacomb</name>
+			<text>Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.
+{T}: Add {U} or {B}.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/142.png" num="243">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Crucible of the Spirit Dragon</name>
+			<text>{T}: Add {C}.
+{1}, {T}: Put a storage counter on Crucible of the Spirit Dragon.
+{T}, Remove X storage counters from Crucible of the Spirit Dragon: Add X mana in any combination of colors. Spend this mana only to cast Dragon spells or activate abilities of Dragons.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/143.png" num="241">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Tomb of the Spirit Dragon</name>
+			<text>{T}: Add {C}.
+{2}, {T}: You gain 1 life for each colorless creature you control.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/144.png" num="249">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Pithing Needle</name>
+			<text>As Pithing Needle enters the battlefield, choose a card name.
+Activated abilities of sources with the chosen name can&apos;t be activated unless they&apos;re mana abilities.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/145.png" num="235">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Throne of the God-Pharaoh</name>
+			<text>At the beginning of your end step, each opponent loses life equal to the number of tapped creatures you control.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/146.png" num="239">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Edgewalker</name>
+			<text>Cleric spells you cast cost {W}{B} less to cast. This effect reduces only the amount of colored mana you pay. (For example, if you cast a Cleric spell with mana cost {1}{W}, it costs {1} to cast.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/147.png" num="208">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Malfegor the Ruthless</name>
+			<text>Flying, haste
+Whenever you attack with one or more Dragon creatures, you may discard a card. If you do, Malfegor the Ruthless deals damage to target creature or planeswalker equal to the discarded card&apos;s mana value.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/148.png" num="214">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4BR</manacost>
+				<cmc>6</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dark Intimations</name>
+			<text>Each opponent sacrifices a creature or planeswalker, then discards a card. You return a creature or planeswalker card from your graveyard to your hand, then draw a card.
+When you cast a Bolas planeswalker spell, exile Dark Intimations from your graveyard. That planeswalker enters the battlefield with an additional loyalty counter on it.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/149.png" num="207">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UBR</manacost>
+				<cmc>5</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Conflux</name>
+			<text>Search your library for a white card, a blue card, a black card, a red card, and a green card. Reveal those cards and put them into your hand. Then shuffle your library.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/150.png" num="206">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WUBRG</manacost>
+				<cmc>8</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Siege Dragon</name>
+			<text>Flying
+When Siege Dragon enters the battlefield, it deals 3 damage to any target and you gain 3 life.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/151.png" num="223">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scion of Ugin</name>
+			<text>Flying</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/152.png" num="2">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ugin&apos;s Insight</name>
+			<text>Scry X, where X is the highest mana value among permanents you control, then draw three cards.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/153.png" num="80">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ajani&apos;s Last Stand</name>
+			<text>Whenever a creature or planeswalker you control dies, you may sacrifice Ajani&apos;s Last Stand. If you do, create a 4/4 white Avatar creature token with flying.
+When a spell or ability an opponent controls causes you to discard this card, if you control a Plains, create a 4/4 white Avatar creature token with flying.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/154.png" num="8">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crux of Fate</name>
+			<text>Choose one —
+• Destroy all Dragon creatures.
+• Destroy all non-Dragon creatures.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/155.png" num="90">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Boneyard Scourge</name>
+			<text>Flying
+Whenever a Dragon you control dies while Boneyard Scourge is in your graveyard, you may pay {1}{B}. If you do, return Boneyard Scourge from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/156.png" num="86">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Disciple of Bolas</name>
+			<text>When Disciple of Bolas enters the battlefield, sacrifice another creature. You gain X life and draw X cards, where X is that creature&apos;s power.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/157.png" num="92">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dragon Tempest</name>
+			<text>Whenever a creature with flying enters the battlefield under your control, it gains haste until end of turn.
+Whenever a Dragon enters the battlefield under your control, it deals X damage to any target, where X is the number of Dragons you control.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/158.png" num="131">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sarkhan&apos;s Unsealing</name>
+			<text>Whenever you cast a creature spell with power 4, 5, or 6, Sarkhan&apos;s Unsealing deals 4 damage to any target.
+Whenever you cast a creature spell with power 7 or greater, Sarkhan&apos;s Unsealing deals 4 damage to each opponent and each creature and planeswalker they control.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/159.png" num="152">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blooming Monstrosity</name>
+			<text>This spell costs {1} less to cast for each nonland permanent you&apos;ve tapped for mana this turn.
+When Blooming Monstrosity enters the battlefield, put a +1/+1 counter on it for each untapped land you control.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/160.png" num="166">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>7G</manacost>
+				<cmc>8</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ugin&apos;s Nexus</name>
+			<text>If a player would begin an extra turn, that player skips that turn instead.
+If Ugin&apos;s Nexus would be put into a graveyard from the battlefield, instead exile it and take an extra turn after this one.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/161.png" num="240">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Evolving Wilds</name>
+			<text>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/162.png" num="244">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Gem of Becoming</name>
+			<text>{3}, {T}, Sacrifice Gem of Becoming: Search your library for an Island card, a Swamp card, and a Mountain card. Reveal those cards and put them into your hand. Then shuffle your library.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/163.png" num="230">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fate Forgotten</name>
+			<text>Exile target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/164.png" num="20">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>God-Pharaoh&apos;s Faithful</name>
+			<text>Whenever you cast a blue, black, or red spell, you gain 1 life.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/165.png" num="22">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dwarven Priest</name>
+			<text>When Dwarven Priest enters the battlefield, you gain 1 life for each creature you control.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/166.png" num="18">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inspired Charge</name>
+			<text>Creatures you control get +2/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/167.png" num="25">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Adamant Will</name>
+			<text>Target creature gets +2/+2 and gains indestructible until end of turn. (Damage and effects that say &quot;destroy&quot; don&apos;t destroy it.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/168.png" num="5">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pacifism</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t attack or block.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/169.png" num="31">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Unsummon</name>
+			<text>Return target creature to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/170.png" num="81">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Opt</name>
+			<text>Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Draw a card.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/171.png" num="71">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Negate</name>
+			<text>Counter target noncreature spell.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/172.png" num="68">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cancel</name>
+			<text>Counter target spell.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/173.png" num="49">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shadowborn Apostle</name>
+			<text>A deck can have any number of cards named Shadowborn Apostle.
+{B}, Sacrifice six creatures named Shadowborn Apostle: Search your library for a Demon creature card and put it onto the battlefield. Then shuffle your library.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/174.png" num="112">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fume Spitter</name>
+			<text>Flying
+When Fume Spitter enters the battlefield, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/175.png" num="95">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dead Weight</name>
+			<text>Enchant creature
+Enchanted creature gets -2/-2.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/176.png" num="91">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Supernatural Stamina</name>
+			<text>Until end of turn, target creature gets +2/+0 and gains &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/177.png" num="117">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Murder</name>
+			<text>Destroy target creature.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/178.png" num="103">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Duress</name>
+			<text>Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/179.png" num="93">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gravedigger</name>
+			<text>When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/180.png" num="97">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bladewing&apos;s Thrall</name>
+			<text>Bladewing&apos;s Thrall has flying as long as you control a Dragon.
+When a Dragon enters the battlefield, you may return Bladewing&apos;s Thrall from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/181.png" num="84">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Critical Wound</name>
+			<text>Destroy target creature or planeswalker if it has mana value X plus 2 or less.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/182.png" num="89">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XB</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fearsome Awakening</name>
+			<text>Return target creature card from your graveyard to the battlefield. If it&apos;s a Dragon, put two +1/+1 counters on it.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/183.png" num="94">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dragon Hatchling</name>
+			<text>Flying
+{R}: Dragon Hatchling gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/184.png" num="129">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dragonlord&apos;s Servant</name>
+			<text>Dragon spells you cast cost {1} less to cast.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/185.png" num="132">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Incite Riot</name>
+			<text>Creatures you control get +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/186.png" num="139">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tormenting Voice</name>
+			<text>As an additional cost to cast this spell, discard a card.
+Draw two cards.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/187.png" num="157">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shock</name>
+			<text>Shock deals 2 damage to any target.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/188.png" num="153">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Puncturing Blow</name>
+			<text>Puncturing Blow deals 5 damage to target creature. If that creature would die this turn, exile it instead.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/189.png" num="147">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ghostfire</name>
+			<text>Ghostfire is colorless.
+Ghostfire deals 3 damage to any target.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/190.png" num="136">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Volcanic Dragon</name>
+			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/191.png" num="160">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sarkhan&apos;s Triumph</name>
+			<text>Search your library for a Dragon creature card, reveal it, put it into your hand, then shuffle your library.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/192.png" num="151">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Brambleweft Behemoth</name>
+			<text>Trample (This creature can deal excess combat damage to the player or planeswalker it&apos;s attacking.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/193.png" num="168">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Giant Spider</name>
+			<text>Reach (This creature can block creatures with flying.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/194.png" num="179">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Colossapede</name>
+			<text></text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/195.png" num="170">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Giant Growth</name>
+			<text>Target creature gets +3/+3 until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/196.png" num="178">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hunt the Weak</name>
+			<text>Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don&apos;t control. (Each deals damage equal to its power to the other.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/197.png" num="182">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dragon Egg</name>
+			<text>Defender (This creature can&apos;t attack.)
+When Dragon Egg dies, create a 2/2 red Dragon creature token with flying and &quot;{R}: This creature gets +1/+0 until end of turn.&quot;</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/198.png" num="128">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Egg</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ghostfire Blade</name>
+			<text>Equipped creature gets +2/+2.
+Equip {3}
+Ghostfire Blade&apos;s equip ability costs {2} less to activate if it targets a colorless creature.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/199.png" num="231">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Abrade</name>
+			<text>Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/200.png" num="123">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bloodlust Inciter</name>
+			<text>{T}: Target creature gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/201.png" num="126">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rakka Mar</name>
+			<text>Haste
+{R}, {T}: Create a 3/1 red Elemental creature token with haste.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/202.png" num="149">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Naga Vitalist</name>
+			<text>{T}: Add one mana of any type that a land you control could produce.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/203.png" num="185">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Naga Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Honed Khopesh</name>
+			<text>Equipped creature gets +1/+1.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/204.png" num="232">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Manalith</name>
+			<text>{T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/205.png" num="234">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Raise the Restless</name>
+			<text>This spell costs {2} less to cat if it targets a creature card in your graveyard with mana value 4 or less.
+Return target creature card from your graveyard to the battlefield.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/206.png" num="109">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lurlie, the Starstruck</name>
+			<text>When Lurlie, the Starstruck enters the battlefield, create a four white Star enchantment tokens with &quot;Sacrifice this enchantment: Add {C}.&quot;
+Lurlie can&apos;t attack unless an enchantment you control has left the battlefield this turn.
+Whenever Lurlie deals combat damage to a player, put an awe counter on it. Then if Lurlie has four or more awe counters on it, you win the game.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/207.png" num="213">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Abandoned Sarcophagus</name>
+			<text>You may cast spells that have a cycling ability from your graveyard.
+If a card that has a cycling ability would be put into your graveyard from anywhere and it wasn&apos;t cycled, exile it instead.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/208.png" num="229">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gnarled Terror</name>
+			<text>Flying
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/209.png" num="96">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pitiless Vizier</name>
+			<text>Whenever you cycle or discard a card, Pitiless Vizier gains indestructible until end of turn. (Damage and effects that say &quot;destroy&quot; don&apos;t destroy it. If its toughness is 0 or less, it&apos;s still put into its owner&apos;s graveyard.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/210.png" num="106">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>It of Murky Depths</name>
+			<text>This spell costs {1} less to cast for each card in your graveyard.
+Ward—{2}, Discard a card (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2} and discards a card.)
+Exile three other cards from your graveyard: Return It of Murky Depths from your graveyard to your hand.
+Cycling {UB}{UB}</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/211.png" num="212">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kraken Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>10UB</manacost>
+				<cmc>12</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hekma Sentinels</name>
+			<text>Whenever you cycle or discard a card, Hekma Sentinels gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/212.png" num="57">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hieroglyphic Illumination</name>
+			<text>Draw two cards.
+Cycling {U} ({U}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/213.png" num="58">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sinister Shifter</name>
+			<text>Sinister Shifter is every creature type.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/214.png" num="113">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Infused Infuriation</name>
+			<text>Target creature you control fights target creature you don&apos;t control. If the creature you control deals excess damage during the fight, exile that many cards from the top of your library. You may play cards exiled this way until the end of your next turn.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/215.png" num="211">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Assertive Order</name>
+			<text>Cast this spell only if a player has cast two or more spells this turn.
+End the turn. (Exile all spells and abilities from the stack, including this card. The player whose turn it is discards down to their maximum hand size. Damage wears off, and &quot;this turn&quot; and &quot;until end of turn&quot; effects end.)</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/216.png" num="12">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Servant of the Scale</name>
+			<text>Servant of the Scale enters the battlefield with a +1/+1 counter on it.
+When Servant of the Scale dies, put X +1/+1 counters on target creature you control, where X is the number of +1/+1 counters on Servant of the Scale.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/217.png" num="192">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Boon of Savagery</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+When Boon of Savagery enters the battlefield, enchanted creature gains hexproof until end of turn. (It can&apos;t be the target of spells or abilities your opponents control.)
+Enchanted creature gets +1/+1.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/218.png" num="167">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Raid Bombardment</name>
+			<text>Whenever a creature you control with power 2 or less attacks, Raid Bombardment deals 1 damage to the player or planeswalker that creature is attacking.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/219.png" num="148">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hatchlings&apos; Fury</name>
+			<text>Create two 1/1 red Dragon creature tokens named Dragon Whelp. They have flying.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/220.png" num="138">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bladecaster</name>
+			<text>Whenever you draw your second card each turn, Bladecaster deals 1 damage to each opponent.
+Cycling {1} ({1}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/221.png" num="125">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ritemaker</name>
+			<text>{1}, Sacrifice a creature: Each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/222.png" num="110">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Autumnal Observer</name>
+			<text>When Autumnal Observer enters the battlefield, choose one—
+• You gain life equal to the greatest power among creatures you control.
+• Target creature gets +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/223.png" num="164">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inspiring Command</name>
+			<text>Choose two—
+• Create two 1/1 colorless Widget artifact creature tokens.
+• Create two Treasure tokens.
+• For each token you control, create a token that&apos;s a copy of that permanent.
+• Creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/224.png" num="26">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inventive Command</name>
+			<text>Choose two—
+• Create a 1/1 colorless Airship artifact creature token with flying.
+• Untap any number of target artifacts you control.
+• Tap up to two target nonland permanents.
+• Return target nonland permanent to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/225.png" num="59">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inflicting Command</name>
+			<text>Choose two—
+• Target creature gets -4/-4 until end of turn.
+• Target creature gets +3/+3 and gains menace until end of turn.
+• Each opponent sacrifices a planeswalker.
+• You draw a card and you lose 1 life.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/226.png" num="99">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Insurgent Command</name>
+			<text>Choose two—
+• Insurgent Command deals X damage to target creature or planeswalker.
+• Destroy target artifact with mana value X or less.
+• Target creature gets +X/+0 until end of turn.
+• Exile the top X cards of your library. Until end of turn, you may play those cards.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/227.png" num="140">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XRR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Invigorated Command</name>
+			<text>Choose two—
+• Target creature you control gets +4/+4 until end of turn.
+• Target creature you control fights target creature you don&apos;t control.
+• Create two 1/1 white Fungus creature tokens with defender.
+• Return target permanent card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/228.png" num="183">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Savage Aura</name>
+			<text>Enchant creature
+Enchanted creature gets +4/+4 and can&apos;t be blocked by creatures with power 2 or less.
+When enchanted creature dies, return that card to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/229.png" num="191">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Unveil the Abnormal</name>
+			<text>Reveal the top card of your library. Choose one—
+• You gain life equal to its mana value.
+• If it&apos;s a creature or land card you may put it into your hand.
+• Put that card on the bottom of your library, then scry 1.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/230.png" num="196">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dreamgrasp</name>
+			<text>Flash
+When Dreamgrasp enters the battlefield, exile target spell or creature face down. You and that card&apos;s owner may look at that card.
+When Dreamgrasp leaves the battlefield, the exiled card&apos;s owner may cast it without paying its mana cost.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/231.png" num="17">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pounce of the Pack</name>
+			<text>Choose target creature you don&apos;t control. Each creature you control deals damage equal to its power to that creature.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/232.png" num="186">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Overconfigure</name>
+			<text>Choose one—
+• Target creature gets +1/+0 and gains first strike until end of turn.
+• Target creature can&apos;t block this turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/233.png" num="146">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lifecrafter Invigorator</name>
+			<text>Whenever you gain life for the first time each turn, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/234.png" num="184">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Elf Cyborg</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hulking Behemoth</name>
+			<text>Trample</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/235.png" num="233">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
+				<pt>8/9</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Goblin Crazemaker</name>
+			<text>When Goblin Crazemaker enters the battlefield, create two 1/1 red Goblin creature tokens.
+Other creatures you control have haste.
+Cycling {R} ({R}, Discard this card: Draw a card.)
+When you cycle Goblin Crazemaker, creatures you control gain haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/236.png" num="137">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Onakke Ogre</name>
+			<text></text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/237.png" num="145">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ogre Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jamira, Nestmother</name>
+			<text>Flying
+When Jamira, Nestmother enters the battlefield, create six 1/1 red Dragon creature tokens named Dragon Whelp. They have flying. 
+Other Dragon creatures you control have haste.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/238.png" num="141">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>7RR</manacost>
+				<cmc>9</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Priest of Communal Rite</name>
+			<text>As Priest of Communal Rite enters the battlefield, choose a creature type.
+At the beginning of your upkeep, each opponent loses X life and you gain X life, where X is the number of creatures you control of the chosen type.
+Sacrifice another creature of the chosen type: When Priest of Communal Rite dies this turn, return it to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/239.png" num="107">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dawnfeather Eagle</name>
+			<text>Flying
+When Dawnfeather Eagle enters the battlefield, creatures you control get +1/+1 and gain vigilance until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/240.png" num="15">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Displace</name>
+			<text>Exile up to two target creatures you control, then return those cards to the battlefield under their owner&apos;s control.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/241.png" num="53">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Repeated Malfunction</name>
+			<text>Enchant artifact or creature
+At the beginning of each upkeep, tap enchanted permanent.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/242.png" num="72">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Drake Haven</name>
+			<text>Whenever you cycle or discard a card, you may pay {1}. If you do, create a 2/2 blue Drake creature token with flying.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/243.png" num="54">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Archaeomancer</name>
+			<text>When Archaeomancer enters the battlefield, return target instant or sorcery card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/244.png" num="46">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spell-Loop Specialist</name>
+			<text>When Spell-Loop Specialist enters the battlefield, choose up to two—
+• You gain 3 life.
+• Put a +1/+1 counter on target creature you control.
+• Draw a card, then discard a card.
+• Return another target permanent you control to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/245.png" num="224">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Worshiped Scourge</name>
+			<text>Flying
+When Worshiped Scourge enters the battlefield, exile any number of creature cards from your graveyard. Create a 1/1 white Cleric creature tokens for each card exiled this way.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/246.png" num="122">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thunderbreak Regent</name>
+			<text>Flying
+Whenever a Dragon you control becomes the target of a spell or ability an opponent controls, Thunderbreak Regent deals 3 damage to that player.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/247.png" num="156">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vizier of Deferment</name>
+			<text>Flash
+When Vizier of Deferment enters the battlefield, you may exile target creature if it attacked or blocked this turn. Return that card to the battlefield under its owner&apos;s control at the beginning of the next end step.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/248.png" num="40">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Persistent Whelp</name>
+			<text>Flying
+At the beginning of your upkeep, you may pay {1}{B}. If you do, return Persistent Whelp from your graveyard to your hand.
+Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/249.png" num="105">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mesa Enchantress</name>
+			<text>Whenever you cast an enchantment spell, you may draw a card.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/250.png" num="28">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Backlogger</name>
+			<text>When Backlogger enters the battlefield, put up to one target instant or sorcery card from your graveyard on top of your library.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/251.png" num="48">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Man-o&apos;-War</name>
+			<text>When Man-o&apos;-War enters the battlefield, return target creature to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/252.png" num="63">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Jellyfish</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chromium&apos;s Charm</name>
+			<text>Choose one—
+• Exile target creature you control, then return that card to the battlefield under its owner&apos;s control.
+• Return target instant or sorcery card not named Chromium&apos;s Charm from your graveyard to your hand.
+• Return target creature card with mana value 3 or less from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/253.png" num="205">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WUB</manacost>
+				<cmc>3</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Arcades&apos;s Charm</name>
+			<text>Choose one—
+• Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+• When target creature is put into your graveyard this turn, return that card to the battlefield.
+• Return target creature to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/254.png" num="203">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>GWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nicol Bolas&apos;s Charm</name>
+			<text>Choose one—
+• Counter target spell unless its controller pays {3}.
+• Target creature gets -3/-3 until end of turn. You gain 3 life.
+• Nicol Bolas&apos;s Charm deals 3 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/255.png" num="216">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Palladia-Mors&apos;s Charm</name>
+			<text>Choose one—
+• Target creature you control gets +3/+0 until end of turn. If fights another target creature.
+• Create a 3/3 green Beast creature token.
+• Put three +1/+1 counters on target creature.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/256.png" num="218">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RGW</manacost>
+				<cmc>3</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vaevictis Asmadi&apos;s Charm</name>
+			<text>Choose one—
+• Choose creature or planeswalker. Target player sacrifices a permanent of the chosen type.
+• Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+• You gain life equal to the greatest power among creatures you control.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/257.png" num="228">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BRG</manacost>
+				<cmc>3</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ugin&apos;s Charm</name>
+			<text>Choose one—
+• Put the top card of your library onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it&apos;s a creature card.
+• You gain life equal to the number of colorless nonland permanents you control.
+• Destroy target multicolored permanent.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/EM2-files/img/258.png" num="4">EM2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
