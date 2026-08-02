@@ -6,6 +6,11 @@
             "formats": "emstandard"
         },
         {
+            "set_code": "DD1",
+            "set_name": "Distant Dreams: A Pokemon Mystery Dungeon Story",
+            "formats": "emeternal"
+        },
+        {
             "set_code": "EH1",
             "set_name": "Eternal Horizons",
             "formats": "emeternal"
