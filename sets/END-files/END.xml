@@ -1,0 +1,4449 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>END</name>
+			<longname>Endgame Unleashed</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-08-01</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Desoul the Mighty</name>
+			<text>Choose one—
+• Destroy target creature with power 4 or greater.
+• Destroy target planeswalker with four or more loyalty counters on it.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/0.png" num="14">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shield Mantle</name>
+			<text>Enchant creature
+When Shield Mantle enters the battlefield, draw a card.
+{W}: Enchanted creature gains indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/1.png" num="39">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tideseer</name>
+			<text>{1}, {T}: Scry 1.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/2.png" num="79">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Merfolk Wavesweller</name>
+			<text>{2}{U}: Target creature gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/3.png" num="66">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Devoted Skymage</name>
+			<text>Flying
+Devoted Skymage gets +1/+0 as long as you control another blue permanent, +1/+0 as long as you control a black permanent, and +1/+0 as long as you control a red permanent.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/4.png" num="51">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pearl Trident Exemplar</name>
+			<text>Pearl Trident Exemplar can&apos;t be blocked.
+Empower—Whenever you activate your third ability in a turn that isn&apos;t a mana ability, Pearl Trident Exemplar gets +2/+0 until end of turn. (Loyalty abilities are activated abilities.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/5.png" num="70">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Koilos Warden</name>
+			<text>Shroud (This creature can&apos;t be the target of spells or abilities.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/6.png" num="58">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Witness to Atrocities</name>
+			<text>Defender
+{U}: Witness to Atrocities can attack this turn as though it didn&apos;t have defender. Activate only once each turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/7.png" num="85">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chronolag</name>
+			<text>Tap target artifact or creature. It doesn&apos;t untap during its controller&apos;s next untap step.
+Empower—If you have activated three or more abilities this turn that aren&apos;t mana abilities, draw a card. (Loyalty abilities are activated abilities.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/8.png" num="47">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unseal the Lore</name>
+			<text>This spell costs {1} less to cast if you control a planeswalker.
+Draw two cards.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/9.png" num="83">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mist Mantle</name>
+			<text>Enchant creature
+When Mist Mantle enters the battlefield, draw a card.
+{U}: Enchanted creature gains shroud until end of turn. (It can&apos;t be the target of spells or abilities.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/10.png" num="68">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Overwhelm With Details</name>
+			<text>Enchant creature
+Enchanted creature gets -2/-0.
+{1}{U}: Enchanted creature gets -2/-0 until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/11.png" num="69">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Conscripted Cabal</name>
+			<text>{1}{B}, Exile Conscripted Cabal from your graveyard: Each opponent loses 2 life and you gain 2 life.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/12.png" num="92">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sengir Corpse</name>
+			<text>{1}: Sengir Corpse gains deathtouch until end of turn. Activate only once each turn.
+Overcome—Whenever a creature or planeswalker dealt damage by Sengir Corpse this turn dies, you gain 2 life.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/13.png" num="119">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dreadmaker</name>
+			<text>Creature offering (You may cast this card any time you could cast an instant by sacrificing a creature and paying the difference in mana costs between this and the sacrificed creature. Mana cost includes color.)
+When Dreadmaker enters the battlefield, choose one—
+• Target creature an opponent controls gets -1/-1 until end of turn.
+• Remove a loyalty counter from target planeswalker an opponent controls.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/14.png" num="98">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grim Crusader</name>
+			<text>Overcome—Whenever a creature or planeswalker dealt damage by Grim Crusader this turn dies, that permanent&apos;s controller discards a card.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/15.png" num="103">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ruthless Eternal</name>
+			<text>Creature offering (You may cast this card any time you could cast an instant by sacrificing a creature and paying the difference in mana costs between this and the sacrificed creature. Mana cost includes color.)
+When Ruthless Eternal enters the battlefield, target creature gains indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/16.png" num="118">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mercenary Operative</name>
+			<text>Overcome—Whenever a creature or planeswalker dealt damage by Mercenary Operative this turn dies, that permanent&apos;s controller loses 1 life.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/17.png" num="113">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lifeforce Harvester</name>
+			<text>Creature offering (You may cast this card any time you could cast an instant by sacrificing a creature and paying the difference in mana costs between this and the sacrificed creature. Mana cost includes color.)
+When Lifeforce Harvester enters the battlefield, you gain life equal to the greatest mana value among creature cards in your graveyard.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/18.png" num="109">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>7B</manacost>
+				<cmc>8</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Potent Concoction</name>
+			<text>{1}{B}, Sacrifice Potent Concoction: Destroy target creature or planeswalker.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/19.png" num="117">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Harvest the Soul</name>
+			<text>You may put a loyalty counter on up to one target planeswalker you control.
+Choose one—
+• Target creature gets -2/-2 until end of turn.
+• Remove two loyalty counters from target planeswalker.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/20.png" num="104">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Contemplate Fate</name>
+			<text>Choose one—
+• Target opponent sacrifices a creature.
+• Target opponent sacrifices a planeswalker.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/21.png" num="93">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Overwhelm with Truth</name>
+			<text>This spell costs {2} less to cast if you have drawn two or more cards this turn.
+Destroy target creature or planeswalker with mana value 3 or less.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/22.png" num="116">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Twist the Scriptures</name>
+			<text>You draw two cards and you lose 2 life, then rewrite 2. (You may shuffle up to two cards from your hand into your library. If you do, draw that many cards.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/23.png" num="124">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Taint the Memory</name>
+			<text>Target player discards two cards.
+Rewrite 2. (You may shuffle up to two cards from your hand into your library. If you do, draw that many cards.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/24.png" num="122">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Soul Mantle</name>
+			<text>Enchant creature
+When Soul Mantle enters the battlefield, draw a card.
+{B}: Enchanted creature gains your choice of deathtouch or lifelink until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/25.png" num="121">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Devious Prowess</name>
+			<text>Target creature gains menace until end of turn.
+{1}, Exile Devious Prowess from your graveyard: Target creature gets +1/+0 until end of turn. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/26.png" num="97">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Goblin Fireslinger</name>
+			<text>{T}: Goblin Fireslinger deals 1 damage to target player or planeswalker.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/27.png" num="141">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pyre Reveler</name>
+			<text>Haste
+Whenever Pyre Reveler attacks, rewrite 1. (You may shuffle a card from your hand into your library. If you do, draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/28.png" num="147">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Keeper of Old Ways</name>
+			<text>{T}: Target creature gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/29.png" num="142">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Keldon Warmonger</name>
+			<text>Overcome—Whenever a creature or planeswalker dealt damage by Keldon Warmonger this turn dies, Keldon Warmonger deals 1 damage to that permanent&apos;s controller.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/30.png" num="143">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whelp of the New Generation</name>
+			<text>Flying
+{1}{R}: Whelp of the New Generation gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/31.png" num="167">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skirk Warcaller</name>
+			<text>Overcome—Whenever a creature or planeswalker dealt damage by Skirk Warcaller this turn dies, create a 1/1 red Goblin creature token.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/32.png" num="157">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Goading Goblin</name>
+			<text>{2}{R}: Target creature you control must be blocked this turn if able.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/33.png" num="140">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blade of Resistance</name>
+			<text>Overcome—Whenever a creature or planeswalker dealt damage by Blade of Resistance this turn dies, exile the top card of your library. You may play it this turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/34.png" num="128">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rebellious Warkite</name>
+			<text>Flying
+Empower—Whenever you activate your third ability in a turn that isn&apos;t a mana ability, Rebellious Warkite deals 2 damage to each opponent. (Loyalty abilities are activated abilities.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/35.png" num="150">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Utter Annihilation</name>
+			<text>Choose one—
+• Target creature you control deals damage equal to its power to target creature or planeswalker you don&apos;t control.
+• Target planeswalker you control deals damage equal to the number of loyalty counters on it to target creature or planeswalker you don&apos;t control.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/36.png" num="166">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Conscripted Devotion</name>
+			<text>Gain control of target creature or planeswalker until end of turn. Untap that permanent. It gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/37.png" num="132">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Power of the Powerless</name>
+			<text>Creatures you control get +1/+0 and gain trample until end of turn.
+Empower—If you have activated three or more abilities this turn that aren&apos;t mana abilities, creatures you control get an additional +1/+0 until end of turn. (Loyalty abilities are activated abilities.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/38.png" num="146">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Frenzied Correction</name>
+			<text>As an additional cost to cast this spell, discard a card.
+Draw two cards, then rewrite 1. (You may shuffle a card from your hand into your library. If you do, draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/39.png" num="138">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dragon Mantle</name>
+			<text>Enchant creature
+When Dragon Mantle enters the battlefield, draw a card.
+Enchanted creature has &quot;{R}: This creature gets +1/+0 until end of turn.&quot;</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/40.png" num="135">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pyretic Reaction</name>
+			<text>Choose one—
+• Destroy target artifact.
+• You may activate the loyalty abilities of target planeswalker you control once this turn as though none of its loyalty abilities have been activated this turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/41.png" num="148">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Flameforged Blade</name>
+			<text>Equipped creature gets +2/+2.
+Overcome—Whenever a creature or planeswalker dealt damage by Flameforged Blade this turn dies, you may discard a card. If you do, draw a card.
+Equip {2} (Equip abilities are activated abilities.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/42.png" num="137">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Springbloom Sculptor</name>
+			<text>{2}{G}, Exile Springbloom Sculptor from your graveyard: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/43.png" num="199">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glowspore Thallid</name>
+			<text>{G}, Exile Glowspore Thallid from your graveyard: Choose one or both. Activate only as a sorcery—
+• Put a +1/+1 counter on target creature you control.
+• Put a loyalty counter on target planeswalker you control.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/44.png" num="178">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elven Ambusher</name>
+			<text>(This card is blue in addition to its other colors.)
+Flash (You may cast this spell any time you could cast an instant.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/45.png" num="173">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elvish Geosculptor</name>
+			<text>{3}{G}: Put a +1/+1 counter on Elvish Geosculptor.
+Overcome—Whenever a creature or planeswalker dealt damage by Elvish Geosculptor this turn dies, you gain 2 life.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/46.png" num="174">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vitality Enstiller</name>
+			<text>(This card is red in addition to its other colors.)
+When Vitality Enstiller enters the battlefield, choose from among creatures you control a blue creature, a black creature, and a red creature. Put a +1/+1 counter on each of the chosen creatures.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/47.png" num="204">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Trained Anurid</name>
+			<text>Trample
+Overcome—Whenever a creature or planeswalker dealt damage by Trained Anurid this turn dies, put a +1/+1 counter on Trained Anurid. (It must survive combat to get the counter.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/48.png" num="200">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mistveiled Grapler</name>
+			<text>Reach
+Shroud (This creature can&apos;t be the target of spells or abilities.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/49.png" num="189">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Warbellow Giant</name>
+			<text>Overcome—Whenever a creature or planeswalker dealt damage by Warbellow Giant this turn dies, untap up to two target permanents you control.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/50.png" num="206">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Invoke Yavimaya</name>
+			<text>Enchant creature you control
+When Invoke Yavimaya enters the battlefield, enchanted creature fights up to one target creature you don&apos;t control. (Each deals damage equal to its power to the other.)
+Enchanted creature gets +2/+2.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/51.png" num="182">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Irresistible Prey</name>
+			<text>Target creature must be blocked this turn if able.
+Draw a card.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/52.png" num="183">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Floral Mantle</name>
+			<text>Enchant creature
+When Floral Mantle enters the battlefield, draw a card.
+{G}: Enchanted creature gains your choice of reach or trample until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/53.png" num="176">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Yavimaya&apos;s Rebuke</name>
+			<text>{G}, Sacrifice Yavimaya&apos;s Rebuke: Destroy target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/54.png" num="208">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Twilight Route</name>
+			<text>Twilight Route enters the battlefield tapped.
+{T}: Add {W}.
+{W}, {T}: You gain 1 life. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/55.png" num="247">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Submerged Cache</name>
+			<text>Submerged Cache enters the battlefield tapped.
+{T}: Add {U}.
+{U}, {T}: Look at the top card of your library. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/56.png" num="245">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Corrupted Shrine</name>
+			<text>Corrupted Shrine enters the battlefield tapped.
+{T}: Add {B}.
+{B}, {T}: Target player mills a card. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/57.png" num="242">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Ruined Canyon</name>
+			<text>Ruined Canyon enters the battlefield tapped.
+{T}: Add {R}.
+{R}, {T}: Target creature gets +1/+0 until end of turn. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/58.png" num="243">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Vitalizing Spring</name>
+			<text>Vitalizing Spring enters the battlefield tapped.
+{T}: Add {G}.
+{G}, {T}: Target creature gets +0/+1 until end of turn. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/59.png" num="248">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Beacon of Hope</name>
+			<text>Whenever you cast a planeswalker spell, you gain 1 life.
+{T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/60.png" num="232">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lightgiver</name>
+			<text>{T}: Put a +1/+1 counter on Lightgiver.
+{2}{W}, {T}, Remove X +1/+1 counters from Lightgiver: Choose one. Activate only as a sorcery—
+• Put X +1/+1 counters on another target creature you control.
+• Put X loyalty counters on target planeswalker you control.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/61.png" num="30">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Paragon of Glory</name>
+			<text>(This card is red in addition to its other colors.)
+When Paragon of Glory or another creature you control dies, creatures you control get +1/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/62.png" num="34">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Silent Overseer</name>
+			<text>(This card is black in addition to its other colors.)
+Other Cleric creatures you control get +1/+1.
+{1}{W}, {T}, Exile a creature card from your graveyard: Create a token that&apos;s a copy of a card named Silent Attendant. Activate only as a sorcery. (It&apos;s a 0/2 white Human Cleric creature with &quot;{T}: You gain 1 life.&quot; and mana cost {2}{W}.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/63.png" num="40">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aven of the Inevitable</name>
+			<text>(This card is blue in addition to its other colors.)
+Flying
+{1}{W}: Untap another target blue, black, or red creature you control.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/64.png" num="5">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Serra Angel</name>
+			<text>Flying, vigilance</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/65.png" num="37">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fellkeeper</name>
+			<text>(This card is black in addition to its other colors.)
+Creature offering (You may cast this card any time you could cast an instant by sacrificing a creature and paying the difference in mana costs between this and the sacrificed creature. Mana cost includes color.)
+Fellkeeper enters the battlefield with a +1/+1 counter on it for each creature card in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/66.png" num="21">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Benevolent Battlepriest</name>
+			<text>{2}{W}: You gain 1 life.
+Empower—Whenever you activate your third ability in a turn that isn&apos;t a mana ability, untap all creatures you control. Those creatures get +1/+1 until end of turn. (Loyalty abilities are activated abilities.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/67.png" num="8">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sheer Hope</name>
+			<text>Empower—Whenever Sheer Hope enters the battlefield or you activate your third ability in a turn that isn&apos;t a mana ability, exile another target nonland permanent until Sheer Hope leaves the battlefield.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/68.png" num="38">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Chains of Order</name>
+			<text>(This card is blue in addition to its other colors.)
+Choose one—
+• Counter target spell unless its controller pays {2}.
+• Counter target spell if it&apos;s your turn.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/69.png" num="11">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Misinformation Courrier</name>
+			<text>Flying
+{U}: Rewrite 1. Activate only once each turn and only if Misinformation Courrier attacked or blocked this turn. (You may shuffle a card from your hand into your library. If you do, draw a card.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/70.png" num="67">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Merfolk Coordinator</name>
+			<text>Other Merfolk creatures you control get +1/+1.
+{3}{U}, {T}: Create a token that&apos;s a copy of a card named Merfolk Looter. Activate only as a sorcery. (It&apos;s a 1/1 blue Merfolk Rogue creature with &quot;{T}: Draw a card, then discard a card.&quot; and mana cost {1}{U}.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/71.png" num="63">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sphinx of the New God</name>
+			<text>Flying
+Whenever you cast a blue, black, or red spell, put a +1/+1 counter on Sphinx of the New God.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/72.png" num="76">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Sphinx</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aven of Insight</name>
+			<text>Flying
+{2}{U}: Scry 1.
+Empower—Whenever you activate your third ability in a turn that isn&apos;t a mana ability, draw a card. (Loyalty abilities are activated abilities.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/73.png" num="46">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Knowledge of the Forbidden</name>
+			<text>When Knowledge of the Forbidden enters the battlefield, rewrite 1. (You may shuffle a card from your hand into your library. If you do, draw a card.)
+Whenever you draw one or more cards, create a 1/1 black Cleric creature token.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/74.png" num="57">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pemmin&apos;s Aura</name>
+			<text>Enchant creature
+{U}: Untap enchanted creature.
+{U}: Enchanted creature gains flying until end of turn.
+{U}: Enchanted creature gains shroud until end of turn. (It can&apos;t be the target of spells or abilities.)
+{1}: Enchanted creature gets +1/-1 or -1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/75.png" num="71">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Versatile Servant</name>
+			<text>{X}{B}, Exile Versatile Servant from your graveyard:
+If X is 0, target player mills two cards.
+If X is 1, you draw a card and you lose {1} life.
+If {X} is 2, create a tapped {2}2 black {Z}ombie creature token.
+If {X} is 3, return another target creature card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/76.png" num="125">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodblade Mercenary</name>
+			<text>Overcome—Whenever a creature or planeswalker dealt damage by Bloodblade Mercenary this turn dies, you draw a card and you lose 1 life.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/77.png" num="88">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Host of the Eternal</name>
+			<text>Other Zombie creatures you control get +1/+1.
+Whenever a creature you control dies, you may pay {1}{B}. If you do, create a token that&apos;s a copy of a card named Infectious Host. (It&apos;s a 1/1 black Zombie creature with &quot;When this creature dies, target player loses 2 life.&quot; and mana cost {2}{B}.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/78.png" num="106">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Naga</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Graveraiser</name>
+			<text>Creature offering (You may cast this card any time you could cast an instant by sacrificing a creature and paying the difference in mana costs between this and the sacrificed creature. Mana cost includes color.)
+When Graveraiser enters the battlefield, you may return target creature card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/79.png" num="102">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grave Diviner</name>
+			<text>{B}, {T}, Exile a creature or planeswalker card from your graveyard: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/80.png" num="101">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Corpse Recycler</name>
+			<text>Menace
+Overcome—Whenever a creature or planeswalker dealt damage by Corpse Recycler this turn dies, create a tapped 2/2 black Zombie creature token.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/81.png" num="94">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Devastating Devastation</name>
+			<text>Creature offering (You may cast this card any time you could cast an instant by sacrificing a creature and paying the difference in mana costs between this and the sacrificed creature. Mana cost includes color.)
+Destroy target creature or planeswalker.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/82.png" num="96">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Liliana&apos;s Recruitment</name>
+			<text>Choose target creature or planeswalker card in a graveyard. Choose one—
+• Put that card onto the battlefield under your control.
+• Exile that card from its owner&apos;s graveyard and create a number of tapped 2/2 black Zombie creature tokens equal to half its mana value, rounded down.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/83.png" num="111">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tormenting Visions</name>
+			<text>Whenever you draw a card, each opponent loses 1 life.
+{1}{B}, Pay 1 life: Rewrite 1. (You may shuffle a card from your hand into your library. If you do, draw a card.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/84.png" num="123">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rage Spiker</name>
+			<text>Haste
+Overcome—Whenever a creature or planeswalker dealt damage by Rage Spiker this turn dies, put a +1/+1 counter on Rage Spiker. (It must survive combat to get the counter.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/85.png" num="149">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reckless Recruiter</name>
+			<text>{T}: Until end of turn, whenever a creature enters the battlefield under your control, it gains haste until end of turn.
+Empower—Whenever you activate your third ability in a turn that isn&apos;t a mana ability, create a 1/1 red Goblin creature token. (Loyalty abilities are activated abilities.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/86.png" num="151">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mogg Warcaller</name>
+			<text>Other Goblin creatures you control get +1/+1.
+{R}: Create a token that&apos;s a copy of a card named Mogg Fanatic. Activate only once each turn and only if three or more creatures you control attacked this turn. (It&apos;s a 1/1 red Goblin creature with &quot;Sacrifice Mogg Fanatic: It deals 1 damage to any target.&quot; and mana cost {R}.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/87.png" num="145">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bookburner</name>
+			<text>Flying
+Whenever you draw a card, Bookburner gets +1/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/88.png" num="129">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ghitu Devotee</name>
+			<text>{T}: Rewrite 1. (You may shuffle a card from your hand into your library. If you do, draw a card.)
+Whenever you draw one or more cards card except the first one you draw in each of your draw steps, Ghitu Devotee deals 1 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/89.png" num="139">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tribute Taker</name>
+			<text>Whenever you cast a noncreature spell, create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
+Treasures you control have &quot;{T}, Sacrifice this artifact: It deals 1 damage to target player or planeswalker.&quot;</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/90.png" num="163">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Meteoric Bombardment</name>
+			<text>Choose up to three target creatures, then choose one—
+• Those creatures each get +1/+0 and gains first strike until end of turn.
+• Meteoric Bombardment deals 1 damage to each of those creatures.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/91.png" num="144">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Burn Through</name>
+			<text>Target creature you control deals damage equal to its power to target creature you don&apos;t control. Excess damage is instead divided as you choose among that creature&apos;s controller and up to one planeswalker that player controls.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/92.png" num="130">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Skyshroud Tracker</name>
+			<text>{G}: Skyshroud Tracker must be blocked this turn if able.
+Overcome—Whenever a creature or planeswalker dealt damage by Skyshroud Tracker this turn dies, search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/93.png" num="198">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Llanowar Clancaller</name>
+			<text>Other Elf creatures you control get +1/+1.
+When Llanowar Clancaller enters the battlefield, you may reveal a creature card from your hand with mana value greater than the number of lands you control. If you do, create a token that&apos;s a copy of a card named Llanowar Elves. (It&apos;s a 1/1 green Elf Druid creature with &quot;{T}: Add {G}.&quot; and mana cost {G}.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/94.png" num="186">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Warped Allosaurus</name>
+			<text>(This card is red in addition to its other colors.)
+Trample
+Trample over planeswalkers (This creature can deal excess combat damage to the controller of the planeswalker it&apos;s attacking.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/95.png" num="207">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nissa&apos;s Titan</name>
+			<text>Flash
+Overcome—Whenever a creature or planeswalker dealt damage by Nissa&apos;s Titan this turn dies, you may return target permanent card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/96.png" num="194">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blessed Warbeast</name>
+			<text>(This card is red in addition to its other colors.)
+Creature offering (You may cast this card any time you could cast an instant by sacrificing a creature and paying the difference in mana costs between this and the sacrificed creature. Mana cost includes color.)
+When Blessed Warbeast enters the battlefield, other blue, black, and red creatures you control get +2/+2 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/97.png" num="169">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>8G</manacost>
+				<cmc>9</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ambush Expert</name>
+			<text>(This card is blue in addition to its other colors.)
+Flash
+As long as it&apos;s not your turn, each other creature you control enters the battlefield with an additional +1/+1 counter on it.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/98.png" num="168">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gruesome Devourer</name>
+			<text>(This card is black in addition to its other colors.) 
+Creature offering (You may cast this card any time you could cast an instant by sacrificing a creature and paying the difference in mana costs between this and the sacrificed creature. Mana cost includes color.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/99.png" num="180">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Urgyl&apos;s Encouragement</name>
+			<text>{1}{G}: Choose one that hasn&apos;t been chosen this turn. Activate only as a sorcery—
+• Put a +1/+1 counter on target creature.
+• Put a loyalty counter on target planeswalker.
+• Target creature you control must be blocked this turn if able.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/100.png" num="203">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reaped Devotion</name>
+			<text>(This card is blue in addition to its other colors.)
+Put a +1/+1 counter on target creature, then double the number of each kind of counter on any number permanents.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/101.png" num="197">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tolarian Spires</name>
+			<text>Tolarian Spires enters the battlefield tapped.
+{T}: Add {W} or {U}.
+{WU}, {T}: Target permanent you control gains shroud until end of turn. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/102.png" num="246">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cabal Lair</name>
+			<text>Cabal Lair enters the battlefield tapped.
+{T}: Add {U} or {B}.
+{UB}, {T}: Put target card from your graveyard on the bottom of your library, then shuffle. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/103.png" num="241">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Shivan Ridge</name>
+			<text>Shivan Ridge enters the battlefield tapped.
+{T}: Add {B} or {R}.
+{BR}, {T}: Damage can&apos;t be prevented this turn. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/104.png" num="244">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Yavimaya Outpost</name>
+			<text>Yavimaya Outpost enters the battlefield tapped.
+{T}: Add {R} or {G}.
+{RG}, {T}: Target creature gains trample until end of turn. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/105.png" num="249">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Benalish Fortification</name>
+			<text>Benalish Fortification enters the battlefield tapped.
+{T}: Add {G} or {W}.
+{GW}, {T}: Untap target creature. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/106.png" num="240">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Artificial Devotee</name>
+			<text>{1}: Target nonland permanent becomes blue, black, or red in addition to its other colors until end of turn.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/107.png" num="231">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Karn&apos;s Chargekeeper</name>
+			<text>Karn&apos;s Chargekeeper enters the battlefield with a +1/+1 counter on it.
+Whenever you activate a loyalty ability of a planeswalker you control, put a +1/+1 counter on Karn&apos;s Chargekeeper.
+When Karn&apos;s Chargekeeper dies, put a loyalty counter on target planeswalker you control for each +1/+1 counter on Karn&apos;s Chargekeeper.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/108.png" num="235">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Metallic Scourge</name>
+			<text>Flying</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/109.png" num="236">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Idol of Devotion</name>
+			<text>{T}: Add {C}.
+{3}, {T}: Rewrite 1. (You may shuffle a card from your hand into your library. If you do, draw a card.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/110.png" num="234">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sturdy Maul</name>
+			<text>Equipped creature gets +2/+2 and must be blocked if able.
+Equip {4}</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/111.png" num="237">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Enstiller of Hope</name>
+			<text>Flying
+Empower—Whenever you activate your third ability in a turn that isn&apos;t a mana ability, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield. (Loyalty abilities are activated abilities.)</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/112.png" num="17">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hush Reality</name>
+			<text>Other permanents on the battlefield have shroud. (They can&apos;t be the target of spells or abilities.)</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/113.png" num="26">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Flaresteel Paladin</name>
+			<text>(This card is red in addition to its other colors.)
+Whenever Flaresteel Paladin attacks, choose any number. Each mode must target a different creature.
+• Target attacking creature that&apos;s blue, black or red gains double strike until end of turn.
+• Target attacking creature that&apos;s blue, black or red gets +2/+0 until end of turn.
+• Double the power of target attacking creature that&apos;s blue, black or red until end of turn.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/114.png" num="23">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oppressive Interrogator</name>
+			<text>(This card is blue in addition to its other colors.)
+Whenever an opponent activates an ability that isn&apos;t a mana ability, you may draw a card unless that player pays {1}. (Loyalty abilities are activated abilities.)</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/115.png" num="33">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soul-for-Soul</name>
+			<text>(This card is black in addition to its other colors.)
+Planeswalker offering (You may cast this card any time you could cast an instant by sacrificing a planeswalker and paying the difference in mana costs between this and the sacrificed planeswalker. Mana cost includes color.)
+Search your library for a planeswalker card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/116.png" num="41">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5WW</manacost>
+				<cmc>7</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Jodah, Aloof Arcmage</name>
+			<text>{W}, {T}, Discard a card: Choose one —
+• Target player gains 3 life.
+• Prevent the next 3 damage that would be dealt to any target this turn.
+{U}, {T}, Discard a card: Target player draws three cards.
+{B}, {T}, Discard a card: Add {B}{B}{B}.
+{R}, {T}, Discard a card: Jodah, Aloof Arcmage deals 3 damage to any target.
+{G}, {T}, Discard a card: Target creature gets +3/+3 until end of turn.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/117.png" num="54">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Spellshaper</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mandatory Betrayal</name>
+			<text>Enchant creature or planeswalker
+When enchanted permanent dies, gain control of target creature or planeswalker.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/118.png" num="61">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Current Sculptor</name>
+			<text>Untap all creatures you control during each other player&apos;s untap step.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/119.png" num="48">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Merfolk Stormwalker</name>
+			<text>{T}: Draw three cards, then put two cards from your hand on top of your library in any order.
+Empower—{1}{U}: If it isn&apos;t an extra turn, take an extra turn after this one. Activate only if you have activated three or more abilities this turn that aren&apos;t mana abilities and only once each turn. (Loyalty abilities are activated abilities.)</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/120.png" num="65">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mend the Timeline</name>
+			<text>Whenever a player drawing cards causes a triggered ability to trigger, counter that ability unless its controller pays {2}.
+{2}{U}, Exile Mend the Timeline: Each player shuffles their hand and graveyard into their library, then draws seven cards. (Mend the Timeline is exiled before any cards are drawn.)</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/121.png" num="62">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Memory Assassin</name>
+			<text>Creature offering (You may cast this card any time you could cast an instant by sacrificing a creature and paying the difference in mana costs between this and the sacrificed creature. Mana cost includes color.)
+When Memory Assassin enters the battlefield, look at target player&apos;s hand. You may choose a nonland card from it. If you do, that player rewrites that card if able. (They must shuffle that card from their hand into their library if able. If they do, they draw a card.)</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/122.png" num="112">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Herald of Spite</name>
+			<text>Flying
+Overcome—Whenever a creature or planeswalker dealt damage by Herald of Spite this turn dies, put a +1/+1 counter on Herald of Spite.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/123.png" num="105">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lazotep Recruiter</name>
+			<text>Creature offering (You may cast this card any time you could cast an instant by sacrificing a creature and paying the difference in mana costs between this and the sacrificed creature. Mana cost includes color.)
+When Lazotep Recruiter enters the battlefield, you may exile a creature card from your graveyard. If you do, create a token that&apos;s a copy of that card, except it&apos;s a 4/4 black Zombie. (Token copies have the mana cost of the permanent they&apos;re a copy of.)</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/124.png" num="107">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Jackal</type>
+				<maintype>Creature</maintype>
+				<manacost>7B</manacost>
+				<cmc>8</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Legion Salvager</name>
+			<text>Overcome—Whenever a creature or planeswalker dealt damage by Legion Salvager this turn dies, put that card from its owner&apos;s graveyard onto the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/125.png" num="108">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deathless Cropmate</name>
+			<text>Deathless Cropmate enters the battlefield tapped.
+Whenever you draw your second card each turn, you may return Deathless Cropmate from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/126.png" num="95">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eternal March</name>
+			<text>At the beginning of your upkeep, you lose 1 life and you rewrite 1. (You may shuffle a card from your hand into your library. If you do, draw a card.)
+Whenever you draw a card except the first one you draw in each of your draw steps, put a +1/+1 counter on a Zombie you control. If you don&apos;t control a Zombie, create a 0/0 black Zombie creature token first.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/127.png" num="99">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Break the Terms</name>
+			<text>Exile target creature or planeswalker. When you exile a permanent with mana value 6 or greater this way, exile another target creature or planeswalker.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/128.png" num="90">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fearless Flayer</name>
+			<text>Haste
+Whenever Fearless Flayer attacks, choose a planeswalker you control. You may activate the loyalty abilities of that planeswalker once this turn during combat at any time you could cast an instant and as though none of its loyalty abilities have been activated this turn.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/129.png" num="136">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Squee, Goblin Nabob</name>
+			<text>At the beginning of your upkeep, you may return Squee, Goblin Nabob from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/130.png" num="159">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Goblin</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shivan Dragon</name>
+			<text>Flying
+{R}: Shivan Dragon gets +1/+0 until end of turn.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/131.png" num="155">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slug Fest</name>
+			<text>At the beginning of your upkeep, target creature you control fights another target creature if able.
+Overcome—Whenever a creature or planeswalker dealt damage by a source you control this turn dies, Slug Fest deals that much damage to that permanent&apos;s controller.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/132.png" num="158">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Deity&apos;s Procession</name>
+			<text>Whenever you draw your third card each turn, create a 4/4 red Dragon creature token with flying.
+{3}{R}: Rewrite 1. (You may shuffle a card from your hand into your library. If you do, draw a card.)</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/133.png" num="134">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Multani, Reawoken</name>
+			<text>When Multani, Reawoken enters the battlefield, choose any number of permanents with counters on them, then give each another counter of each kind already there.
+Multani gets +1/+1 for each counter on other permanents you control.
+Remove six counters from among permanents you control: Return Multani from your graveyard to your hand.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/134.png" num="192">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Keen Fanaticism</name>
+			<text>(This card is blue in addition to its other colors.)
+At the beginning of your end step, untap up to two lands you control.
+Whenever a creature enters the battlefield under your control, if it has the highest mana value among permanents cards in graveyards and permanents on the battlefield, draw a card.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/135.png" num="184">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Quirion Dryad</name>
+			<text>Whenever you cast a spell that&apos;s white, blue, black, or red, put a +1/+1 counter on Quirion Dryad.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/136.png" num="195">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Molimo the Fickle</name>
+			<text>Molimo the Fickle must be blocked if able.
+Overcome—Whenever a creature or planeswalker dealt damage by Molimo the Fickle this turn dies, destroy target noncreature, nonland permanent you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/137.png" num="190">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elemental Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Legacy Subverter</name>
+			<text>(This card is black in addition to its other colors.)
+Whenever you sacrifice Legacy Subverter or another nontoken creature, mill two cards. Then return a creature card with lesser mana value than the sacrificed creature from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/138.png" num="185">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gnarled Warbeast</name>
+			<text>(This card is red in addition to its other colors.)
+Whenever Gnarled Warbeast attacks, you may choose target creature you don&apos;t control and target attacking creature you control. If you do, untap the creature you don&apos;t control. It blocks the creature you control this turn if able.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/139.png" num="179">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jhoira, Touched by Time</name>
+			<text>Whenever you cast a noncreature spell, put a +1/+1 counter on Jhoira, Touched by Time.
+Noncreature spells you cast cost {1} less to cast for each +1/+1 counter on Jhoira.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/140.png" num="219">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bittersweet Triumph</name>
+			<text>At the beginning of each end step, you win the game if each of the following is true—
+• Your opponent controls no planeswalkers.
+• A planeswalker you control has left the battlefield this turn.
+• A creature or planeswalker card has left your graveyard this turn.
+• You have no creature cards and no planeswalker cards in your graveyard.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/141.png" num="10">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hushed Trauma</name>
+			<text>Whenever an opponent casts a spell, note its name.
+{0}: Choose a card name that hasn&apos;t been chosen from among names noted with Hushed Trauma. Create a copy of the card with the chosen name. You may cast the copy and you may spend mana as though it were mana of any type to cast that spell. Activate only once each turn and only during your turn.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/142.png" num="52">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Virulent Lotus</name>
+			<text>{T}, Exile Virulent Lotus and each other permanent you control named Virulent Lotus: Reveal your hand and exile all cards named Virulent Lotus revealed this way. Add three mana of any one color. You lose the game at the beginning of the next end step.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/143.png" num="238">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Radha, Heart of War</name>
+			<text>Whenever Radha, Heart of War attacks, you may add {R}{R}{G}{G}. (You lose that mana at the end of the declare attackers step.)
+{3}{G}: Double a number or number word on target spell or permanent until end of turn.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/144.png" num="196">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Chain Veil</name>
+			<text>At the beginning of your end step, if you didn&apos;t activate a loyalty ability of a planeswalker this turn, you lose 2 life.
+{4}, {T}: For each planeswalker you control, you may activate one of its loyalty abilities once this turn as though none of its loyalty abilities have been activated this turn.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/145.png" num="233">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sursi Seeker</name>
+			<text>{W}: Sursi Seeker gains your choice of first strike, vigilance, or lifelink until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/146.png" num="42">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Faithbinder</name>
+			<text>(This card is blue in addition to its other colors.)
+{1}, {T}: Tap target creature.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/147.png" num="18">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pious Sentinel</name>
+			<text>(This card is red in addition to its other colors.)
+{1}: Pious Sentinel gains first strike until end of turn. Activate only once each turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/148.png" num="35">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Familiar of the Exceptional</name>
+			<text>Flying
+Whenever Familiar of the Exceptional deals combat damage to a player or planeswalker, choose one—
+• You gain that much life.
+• Put that many loyalty counters on target planeswalker you control.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/149.png" num="20">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Pegasus</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fierce Devotee</name>
+			<text>(This card is red in addition to its other colors.)
+Creature offering (You may cast this card any time you could cast an instant by sacrificing a creature and paying the difference in mana costs between this and the sacrificed creature. Mana cost includes color.)
+When Fierce Devotee enters the battlefield, target creature gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/150.png" num="22">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Faithful Martyr</name>
+			<text>When Faithful Martyr dies, choose one—
+• You gain 2 life.
+• When the next creature enters the battlefield under your control this turn, you gain life equal to its mana value.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/151.png" num="19">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Keeper of Serenity</name>
+			<text>{1}{W}, Sacrifice Keeper of Serenity: Destroy target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/152.png" num="28">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Champion of Divinity</name>
+			<text>(This card is black in addition to its other colors.)
+When Champion of Divinity enters the battlefield, you gain 1 life for each permanent you control that&apos;s blue, black, and/or red.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/153.png" num="12">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leader of Resistance</name>
+			<text>Empower—Whenever you activate your third ability in a turn that isn&apos;t a mana ability, put a +1/+1 counter on Leader of Resistance. (Loyalty abilities are activated abilities.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/154.png" num="29">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aven Uplifter</name>
+			<text>(This card is blue in addition to its other colors.)
+Flying
+{T}: Target creature gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/155.png" num="6">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Devoted Pilgrimage</name>
+			<text>(This card is black in addition to its other colors.)
+Creature offering (You may cast this card any time you could cast an instant by sacrificing a creature and paying the difference in mana costs between this and the sacrificed creature. Mana cost includes color.)
+{1}{W}, {T}, Exile a creature card from your graveyard: Create a 1/1 black Cleric creature token.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/156.png" num="16">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>6W</manacost>
+				<cmc>7</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Benalish Shieldmate</name>
+			<text>Empower—Whenever you activate your third ability in a turn that isn&apos;t a mana ability, Benalish Shieldmate gets +2/+2 and gains vigilance until end of turn. (Loyalty abilities are activated abilities.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/157.png" num="7">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Complete Devotion</name>
+			<text>(This card is red in addition to its other colors.)
+Complete Devotion deals 4 damage to target attacking or blocking creature.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/158.png" num="13">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bind to the Real</name>
+			<text>Enchant creature or planeswalker
+Enchanted permanent can&apos;t attack or block, and its activated abilities can&apos;t be activated.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/159.png" num="9">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mercy for the Meek</name>
+			<text>(This card is black in addition to its other colors.)
+Create a 1/1 black Cleric creature token. When you do, target creature gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/160.png" num="31">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wings of Devotion</name>
+			<text>(This card is blue in addition to its other colors.)
+Untap each creature you control. Those creatures gain flying until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/161.png" num="44">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hopeful Calling</name>
+			<text>Put a +1/+1 counter on each creature you control and a loyalty counter on each planeswalker you control.
+Empower—If you have activated three or more abilities this turn that aren&apos;t mana abilities, creatures you control also gain vigilance until end of turn. (Loyalty abilities are activated abilities.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/162.png" num="25">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Undying Defenders</name>
+			<text>{2}{W}, {T}: Create a token that&apos;s a copy of Undying Defenders. Activate only as a sorcery. (Token copies have the mana cost of the permanent they&apos;re a copy of.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/163.png" num="43">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jayne, Voice of Caution</name>
+			<text>[+1]: Untap up to one target creature you control. It gets +0/+2 until your next turn.
+[-1]: Target creature can&apos;t attack or block until your next turn.
+[-2]: Until your next turn, creatures can&apos;t attack you or planeswalkers you control unless their controller pays {2} for each of those creatures.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/164.png" num="27">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jayne</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nahiri, Seeking Retribution</name>
+			<text>(This card is red in addition to its other colors.)
+[+1]: Up to one target creature gets +1/+0 and gains first strike until end of turn.
+[-2]: Nahiri, Seeking Retribution deals 4 damage to target tapped creature.
+[-3]: Until your next turn, whenever a creature or planeswalker you control is dealt damage, it deals that much damage to any target.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/165.png" num="32">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Nahiri</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Saheeli, Progress Specialist</name>
+			<text>[+1]: Until end of turn, abilities you activate cost {1} less to activate and noncreature spells you cast cost {1} less to cast. This effect can&apos;t reduce the mana in those costs to less than one mana.
+[-2]: Create a 1/1 colorless Widget artifact creature token with &quot;When this creature dies, you may put a +1/+1 counter on target creature you control or a loyalty counter on target planeswalker you control.&quot;
+[-4]: Create a token that&apos;s a copy of target creature you control, except it&apos;s an artifact in addition to its other types.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/166.png" num="74">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Saheeli</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kikai, Hired Revisionist</name>
+			<text>[+1]: Rewrite 1. (You may shuffle a card from your hand into your library. If you do, draw a card.)
+[0]: Target player mills two cards for each card you&apos;ve drawn this turn.
+[-3]: Target player draws two cards.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/167.png" num="56">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Kikai</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sorin, Bloodline Keeper</name>
+			<text>[+1]: Look at the top card of your library. You may put that card into your graveyard.
+[-1]: Until end of turn, target creature gains &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;
+[-X]: Sorin, Bloodline Keeper deals X damage to target creature or planeswalker. You gain X life.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/168.png" num="120">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Sorin</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Xrthalid, Insanity Flayer</name>
+			<text>[+1]: Until end of turn, whenever a creature or planeswalker dies, target player mills two cards.
+[0]: You may sacrifice a creature. Then if a creature has died this turn, draw a card.
+[-2]: Exile target creature card from your graveyard. Create a token that&apos;s a copy of that card, except it&apos;s 1/1. (Token copies have the mana cost of the permanent they&apos;re a copy of.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/169.png" num="126">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Xrthalid</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sarkhan, Roar of Vengeance</name>
+			<text>[+1]: Up to one target creature gets +1/+1 and gains trample and haste until end of turn.
+[-2]: Choose target creature you control. If that creature is a Dragon, it deals damage equal to its power to target creature you don&apos;t control. Otherwise, it fights target creature you don&apos;t control.
+[-4]: Create a 4/4 red Dragon creature token with flying.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/170.png" num="154">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Sarkhan</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Baltrice, Last of the Consortium</name>
+			<text>[+1]: You may discard a card. If you do, draw a card.
+[-1]: Create a 1/1 red Elemental creature token. It gains haste until end of turn.
+[-3]: Baltrice, Last of the Consortium deals 3 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/171.png" num="127">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Baltrice</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Urgyl, Great Preservationist</name>
+			<text>[+1]: Up to one target creature gains defender until your next turn.
+[-1]: Exile target card from a graveyard. You gain life equal to its mana value.
+[-2]: Choose one—
+• Put two +1/+1 counters on target creature you control.
+• Put two loyalty counters on another target planeswalker you control.
+• Draw a card.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/172.png" num="202">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Urgyl</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gulcux, Finality-Bringer</name>
+			<text>(This card is black in addition to its other colors.)
+[+1]: Put a +1/+1 counter on target creature you control. If that creature is blue, black, or red, it gains deathtouch until end of turn.
+[-1]: Create a 1/1 black Cleric creature token.
+[-3 ]: Return target blue, black, or red card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/173.png" num="181">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Gulcux</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dionis, Peparation Specialist</name>
+			<text>Abilities you activate that aren&apos;t mana abilities cost {1} less to activate. This effect can&apos;t reduce the mana in that cost to less than one mana.
+[+1]: Scry 1. You gain 1 life.
+[-1]: Untap all nonland creatures you control.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/174.png" num="214">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Dionis</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kaya, Ethereal Agent</name>
+			<text>[+1]: You may exile a creature card from your graveyard. If you do, you gain life equal to its mana value.
+[-1]: Return to your hand target creature card in your graveyard that was put there from the battlefield this turn.
+[-2]: You may sacrifice a creature. If you do, exile target creature or planeswalker.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/175.png" num="220">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Kaya</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3WB</manacost>
+				<cmc>5</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ana, the Freeminded</name>
+			<text>[+1]: You may activate abilities of up to one target creature you control as though that creature had haste.
+[-1]: Add {R}{W}. Spend this mana only to activate abilities. (This is not a mana ability.)
+[-3]: Gain control of target creature or planeswalker until end of turn. Untap that permanent. It gains lifelink and haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/176.png" num="210">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Ana</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Estrid, Identity Reshaper</name>
+			<text>(This card is black in addition to its other colors.)
+Blue, black, and red spells you cast cost {G}{W} less to cast. This effect reduces only the amount of colored mana you pay. (For example, if you cast a black spell with mana cost {2}{W}, it costs {2} to cast.)
+[+1]: You may create a black Aura enchantment token named Mask of Identity attached to up to one target creature you control. The token has enchant creature and &quot;Enchanted creature gets +1/+1 and is blue, black, and red in addition to its other colors.&quot;[-2]: You gain 1 life for each permanent you control that&apos;s blue, black, and/or red.[]: []:</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/177.png" num="217">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Estrid</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ashiok, Embraced by Fear</name>
+			<text>[+1]: Up to one target creature you control can&apos;t be blocked this turn.
+[-1]: Target opponent exiles the top two cards of their library. Draw a card.
+[-2]: Create an X/X black Nightmare creature token, where X is the number of cards you&apos;ve drawn this turn.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/178.png" num="211">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Ashiok</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lola, Spellfire Artist</name>
+			<text>[+1]: When you cast your next noncreature spell this turn, draw a card, then discard a card.
+[-1]: Until end of turn, whenever you draw a card, Lola, Spellfire Artist deals 1 damage to each opponent.
+[-3]: Shuffle the cards from your hand into your library, then draw that many cards plus one.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/179.png" num="221">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Lola</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Oko, Devious Trickster</name>
+			<text>[+1]: Until your next turn, you may cast blue, black, and red spells as though they had flash.
+[0]: Put a +1/+1 counter on each of up to two target blue, black, and/or red creatures you control.
+[-1]: Until end of turn, Oko, Devious Trickster becomes a copy of up to one target blue, black, or red creature you control. Prevent all damage that would be dealt to him this turn.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/180.png" num="225">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Oko</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mortus, Chord of Calamity</name>
+			<text>[+1]: Up to one target creature gets +1/+0 until end of turn.
+[-2]: Each time target permanent would deal damage to a permanent or player this turn, it deals double that damage to that permanent or player instead.
+[-3]: Target creature you control fights target creature you don&apos;t control. When the creature you don&apos;t control dies this turn, create a 1/1 black Cleric creature token.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/181.png" num="222">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Mortus</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Garruk, the Veil-Consumed</name>
+			<text>[+1]: You may sacrifice a creature. If you do, you gain life equal to its mana value.
+[-1]: Until end of turn, whenever a creature you control dies, put a loyalty counter on a planeswalker you control.
+[-3]: You may exile up to two creature cards from your graveyard. Create a 2/2 green Wolf creature token for each creature card exiled this way.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/182.png" num="218">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Garruk</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Samut, Worthy of Victory</name>
+			<text>[+1]: Up to one target creature gains vigilance and haste until end of turn.
+[-1]: Target creature an opponent controls blocks this turn if able. Untap that creature.
+[-3]: Creatures you control get +1/+1 and gain vigilance, trample, and haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/183.png" num="227">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Samut</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dovin, Counteroperative</name>
+			<text>Loyalty abilities of other planeswalkers you control that remove loyalty counters as part of their cost to activate cost [-1] less to activate.
+[+1]: Tap up to one target artifact or creature. Until your next turn, it loses all abilities and doesn&apos;t untap during its controller&apos;s untap step.
+[-2]: The next time you activate an ability this turn that isn&apos;t a mana ability, copy that ability. You may choose new targets for the copy.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/184.png" num="215">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Dovin</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ajani, Usurper of Oppressors</name>
+			<text>[+1]: Put a loyalty counter on each other planeswalker you control.
+[-2]: Look at the top four cards of your library. You may reveal a creature or planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+[-7]: Search your library for a planeswalker card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/185.png" num="209">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Ajani</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Emma, Covert Agent</name>
+			<text>If you would draw a card, you may instead exile the top card of target opponent&apos;s library face down. You may look at that card.
+[+1]: Until end of turn, you may play cards exiled with Emma, Covert Agent, and you may spend mana as though it were mana of any type to cast those spells.
+[-9]: For each card exiled with Emma, Covert Agent, target player draws a card.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/186.png" num="216">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Emma</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Daretti, Heretic Cogsmith</name>
+			<text>[+1]: Daretti, Heretic Cogsmith deals 1 damage to any target.
+[-2]: Double target creature&apos;s power. It gains trample. At the beginning of your next upkeep, that creature&apos;s controller sacrifices it.
+[-5]: Create a token that&apos;s a copy of target artifact or creature card in your graveyard, except it&apos;s an artifact in addition to its other types. That token gains haste.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/187.png" num="213">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Daretti</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ramaz, Mad Shaman</name>
+			<text>[+1]: Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a loyalty counter on Ramaz, Mad Shaman, then put the card back or put it into your graveyard.
+[-1]: Return a card at random from your graveyard to your hand.
+[-X]: Ramaz, Mad Shaman deals X damage to each creature, each other planeswalker, and each player.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/188.png" num="226">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Ramaz</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Narset, Mystial Mentor</name>
+			<text>[+2]: Untap up to one target creature you control. That creature gains vigilance and haste until end of turn.
+[+1]: Empower—Scry 2, If you have activated three or more abilities this turn that aren&apos;t mana abilities (including this one), instead scry 2 then draw a card.
+[-7]: For each ability you&apos;ve activated this turn that isn&apos;t a mana ability (including this one), exile the top card of your library. Until end of turn, you may cast noncreature, nonland cards exiled this way without paying their mana costs and you may play the rest.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/189.png" num="223">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Narset</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1URW</manacost>
+				<cmc>4</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nicol Bolas, Revered Deity</name>
+			<text>[+2]: Each opponent discards a card and you draw a card.
+[+1]: Whenever a creature attacks a planeswalker you control, that creature gets -1/-0 until end of turn for each attacking creature.
+[-3]: Nicol Bolas, Revered Deity deals 7 damage to target creature or planeswalker.
+[-4]: Put target creature or planeswalker card from a graveyard onto the battlefield under your control.
+[-10]: Each player sacrifices each other nonland permanent they control.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/190.png" num="224">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Bolas</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3UBBR</manacost>
+				<cmc>7</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vivien, Avenger of Skalla</name>
+			<text>[+1]: Put two +1/+1 counters on up to one target creature.
+[-3]: Target creature you control deals damage equal to its power to target creature or planeswalker.
+[-8]: Create a token that&apos;s a copy of a card named Craterhoof Behemoth. (It&apos;s a 5/5 green Beast creature token with haste, &quot;When Craterhoof Behemoth enters the battlefield, creatures you control gain trample and get +X/+X until end of turn, where X is the number of creatures you control,&quot; and mana cost {5}{G}{G}{G}.)</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/191.png" num="205">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Vivien</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nissa, the World Sage</name>
+			<text>[0]: Put a loyalty counter on Nissa, the World Sage for each land you control, then remove three loyalty counters from Nissa, the World Sage.
+[-3]: Reveal the top two cards of your library. Put all land cards from among them onto the battlefield and the rest into your hand.
+[-X]: Put X +1/+1 counters on target land you control. Untap it. It becomes a 0/0 Elemental creature with haste that&apos;s still a land.
+[-X]: Search your library for half X basic land cards, rounded down, put them onto the battlefield tapped, then shuffle.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/192.png" num="193">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Nissa</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tibalt, False Devotee</name>
+			<text>[+1]: You may discard a card. If you do, exile the top card of your library. You may play that card this turn.
+[-2]: Create a 1/1 red Devil creature token with &quot;When this creature dies, it deals 1 damage to any target.&quot;
+[-4]: Gain control of all creatures and planeswalkers until end of turn. Untap them. They gain haste until end of turn. You lose the game at the beginning of your next upkeep.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/193.png" num="162">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Tibalt</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Chandra, Rekindled</name>
+			<text>[+2]: Add {R}{R}.
+[-X]: Chandra, Rekindled deals X damage to target creature or planeswalker.
+[-X]: Exile the top X cards of your library. Until end of turn, you may play cards exiled this way.
+[-X]: Create two X/1 red Elemental creature tokens with trample and haste. Sacrifice them at the beginning of the next end step.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/194.png" num="131">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Chandra</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ob Nixilis, Curel Tormentor</name>
+			<text>[+1]: Each opponent who has no cards in hand or has seven or more cards in hand loses 2 life. Each other opponent loses 1 life. You gain life equal to the life lost this way.
+[-2]: Choose creature or planeswalker. Each opponent sacrifices a permanent of the chosen type.
+[-5]: Each opponent chooses a card in their hand and discards the rest.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/195.png" num="115">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Nixilis</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Liliana, Seeking Closure</name>
+			<text>When Liliana, Seeking Closure dies, destroy all planeswalkers her owner doesn&apos;t control.
+[+1]: Create a 2/2 black Zombie creature token.
+[0]: Each player sacrifices a creature or non-Liliana planeswalker.
+[-7]: Liliana, Seeking Closure&apos;s owner returns all other creature and planeswalker cards from their graveyard to the battlefield under their control.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/196.png" num="110">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Liliana</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tezzeret, Master Agent</name>
+			<text>[+1]: Untap up to one target nonland permanent.
+[-2]: Draw two cards, then choose any number of other permanents with counters on them, then give each another counter of each kind already there.
+[-6]: Create four 3/3 colorless Golem artifact creature tokens.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/197.png" num="78">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Tezzeret</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jace, Arcstrategist</name>
+			<text>Flash
+When Jace, Arcstrategist enters the battlefield, you may activate one of his loyalty abilities this turn at any time you could cast an instant.
+[+1]: Look at the top card of target player&apos;s library. You may put that card on the bottom of that player&apos;s library.
+[0]: Return target nonland permanent to its owner&apos;s hand.
+[-X]: You may cast target instant or sorcery card with mana value X or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard this turn, exile it instead.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/198.png" num="53">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jace</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Anabelle, Planar Regent</name>
+			<text>[+1]: Exile the top card of your library face down and look at it. For as long as that card remains exiled, if you would draw a card, you may instead put that card into your hand.
+[-3]: Anabelle, Planar Regent deals 2 damage to each tapped creature.
+[-6]: Target player&apos;s life total becomes equal to their starting life total.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/199.png" num="4">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Anabelle</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gideon, Rallier of Worlds</name>
+			<text>Whenever another legendary permanent enters the battlefield under your control, put a loyalty counter on Gideon, Rallier of Worlds.
+[+1]: Until end of turn, Gideon, Rallier of Worlds becomes a 4/4 Human Soldier creature with indestructible that&apos;s still a planeswalker. Prevent all damage that would be dealt to him this turn.
+[-2]: Search your library for a legendary card, reveal that card, put it into your hand, then shuffle.
+[-8]: Look at the top seven cards of your library. Put up to two legendary permanent cards from among them onto the battlefield. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/200.png" num="24">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Gideon</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kylixid, Warden of the Warped</name>
+			<text>[+1]: Create a colorless artifact token named Hedron with &quot;Sacrifice this artifact: Add {C}. If that mana is spent to cast a spell, that spell can&apos;t be countered.&quot;
+[0]: Look at the top card of your library. If it&apos;s a colorless card, you may reveal it and put it into your hand. (Lands are colorless.)
+[-6]: For each permanent you don&apos;t control, you may move any number of counters from that permanent onto another permanent that shares a card type with it.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/201.png" num="2">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Kylixid</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Karn, Keeper of Worlds</name>
+			<text>[+2]: Until your next turn, up to one target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value.
+[-1]: Up to one target nonland permanent loses all abilities until your next turn.
+[-11]: Exile all other nonalnd permanents. Then put a card of each permanent type from exile onto the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/202.png" num="1">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Karn</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ugin, the Fated Twin</name>
+			<text>[+1]: Exile cards from the top of your library until you exile a nonland card. Until end of turn, you may cast that card without paying its mana cost.
+[-2]: Exile target multicored permanent. Put a number of loyalty counters on Ugin, the Fated Twin equal to the exiled card&apos;s mana value.
+[-6]: Take an extra turn after this one.
+[-12]: Restart the game. At the beginning of your first upkeep that game, search your library for up to three planeswalker cards, put them onto the battlefield, then shuffle.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/203.png" num="3">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Ugin</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<loyalty>7</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Desperate Stand</name>
+			<text>This spell can&apos;t be countered.
+Permanents you control gain indestructible until end of turn. You can&apos;t lose the game this turn and your opponents can&apos;t win the game this turn.
+Until end of turn, damage that would reduce your life total to less than 1 reduces it to 1 instead.
+Until end of turn, damage that would reduce the number of loyalty counters on a planeswalker you control to less than 1 reduces it to 1 instead.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/204.png" num="15">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Restore to Power</name>
+			<text>(This card is black in addition to its other colors.)
+Return to the battlefield all creature, planeswalker, and land cards in your graveyard that were put there from anywhere this turn.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/205.png" num="36">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ugin&apos;s Intervention</name>
+			<text>Counter X target spells.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/206.png" num="82">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XUU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Crushing Dominance</name>
+			<text>Choose X (you may only choose each mode once)—
+• Exile target creature or planeswalker.
+• Gain control of target creature or planeswalker.
+• Target player discards three cards.
+• Crushing Dominance deals 5 damage to any target.
+• Destroy target noncreature permanent.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/207.png" num="212">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XXUBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Crucible of Fire</name>
+			<text>Dragon creatures you control get +3/+3.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/208.png" num="133">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Boon of Strength</name>
+			<text>(This card is red in addition to its other colors.)
+Target creature gets +2/+2 and gains trample until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/209.png" num="170">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sure Strike</name>
+			<text>Target creature gets +3/+0 and gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/210.png" num="160">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bolas&apos;s Devotees</name>
+			<text>When Bolas&apos;s Devotees enters the battlefield, if it isn&apos;t a token, create a token that&apos;s a copy of Bolas&apos;s Devotees. (Token copies have the mana cost of the permanent they&apos;re a copy of.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/211.png" num="89">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deity&apos;s Disposal</name>
+			<text>Counter target spell. Rewrite 1. (You may shuffle a card from your hand into your library. If you do, draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/212.png" num="49">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Storm of Possibility</name>
+			<text>Rewrite 2. (You may shuffle up to two cards from your hand into your library. If you do, draw that many cards.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/213.png" num="77">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tolarian Revisionist</name>
+			<text>{T}: Rewrite 1. (You may shuffle a card from your hand into your library. If you do, draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/214.png" num="80">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Twist of Fate</name>
+			<text>Return target creature or planeswalker to its owner&apos;s hand.
+Rewrite 1. (You may shuffle a card from your hand into your library. If you do, draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/215.png" num="81">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Loyal Scribe</name>
+			<text>Whenever you draw your second card each turn, put a +1/+1 counter on Loyal Scribe.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/216.png" num="59">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Privileged Drake</name>
+			<text>Flying
+Privileged Drake gets +1/+0 for each card you&apos;ve drawn this turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/217.png" num="72">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Keper of Murky Depths</name>
+			<text>Keper of Murky Depths can&apos;t be blocked as long as you have cast a blue spell this turn.
+Keper of Murky Depths gets +1/+1 as long as you have cast a black spell this turn.
+Whenever Keper of Murky Depths deals combat damage to a player, if you have cast a red spell this turn, you may draw a card. If you do, discard a card.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/218.png" num="55">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mana Leak</name>
+			<text>Counter target spell unless its controller pays {3}.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/219.png" num="60">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Merfolk Looter</name>
+			<text>{T}: Draw a card, then discard a card.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/220.png" num="64">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Augur of Bolas</name>
+			<text>When Augur of Bolas enters the battlefield, look at the top three cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/221.png" num="45">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cabal Agent</name>
+			<text>When Cabal Agent enters the battlefield, you lose 1 life and you rewrite 1. (You may shuffle a card from your hand into your library. If you do, draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/222.png" num="91">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vodalian Trademage</name>
+			<text>Empower—Whenever you activate your third ability in a turn that isn&apos;t a mana ability, scry 2. (Loyalty abilities are activated abilities.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/223.png" num="84">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shift the Perspective</name>
+			<text>Scry 1, then draw a card.
+Rewrite 1. (You may shuffle a card from your hand into your library. If you do, draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/224.png" num="75">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Remake</name>
+			<text>Draw two cards, then rewrite 7. (You may shuffle up to seven cards from your hand into your library. If you do, draw that many cards.)</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/225.png" num="73">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Destiny Trader</name>
+			<text>If you would draw one or more cards except the first one you draw in each of your draw steps, instead draw that many cards plus one.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/226.png" num="50">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tumultuous Turn</name>
+			<text>Each player rewrites 7. (Each player may shuffle up to seven cards from their hand into their library. If they do, they draw that many cards.)</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/227.png" num="164">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fearless Martyr</name>
+			<text>When Fearless Martyr dies, if it isn&apos;t a token, create a token that&apos;s a copy of Fearless Martyr. (Token copies have the mana cost of the permanent they&apos;re a copy of.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/228.png" num="100">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Satyr Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arisen Again</name>
+			<text>Return target creature card from your graveyard to your hand. You gain life equal to its mana value.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/229.png" num="86">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Night Party</name>
+			<text>{1}{B}, Exile a creature or planeswalker card from your graveyard: Create a token that&apos;s a copy of Night Party. (Token copies have the mana cost of the permanent they&apos;re a copy of.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/230.png" num="114">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Twin Bursts</name>
+			<text>Twin Bursts deals 2 damage to each of up to two target creatures and/or planeswalkers.
+Overcome—Whenever a creature or planeswalker dealt damage by Twin Bursts this turn dies, Twin Bursts deals 2 damage to that creature&apos;s controller.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/231.png" num="165">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Revision of Ashes</name>
+			<text>Rewrite 1. Then, Revision of Ashes deals X damage to target creature or planeswalker, where X is the number of cards you&apos;ve drawn this turn. (You may shuffle a card from your hand into your library. If you do, draw a card.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/232.png" num="153">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Relentless Reviser</name>
+			<text>When Relentless Reviser attacks, it gets +1/+0 until end of turn for each card you&apos;ve drawn this turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/233.png" num="152">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Llanowar Convert</name>
+			<text>(This card is black in addition to its other colors.)
+{T}: Add {U}, {B}, or {R}.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/234.png" num="188">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>BG</colors>
+				<coloridentity>UBRG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Converted Thallid</name>
+			<text>(This card is black in addition to its other colors.)
+Whenever another creature you control dies, put a +1/+1 counter on Converted Thallid.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/235.png" num="171">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>End the Old Brood</name>
+			<text>(This card is red in addition to its other colors.)
+End the Old Brood deals 5 damage to target creature with flying.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/236.png" num="175">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Glimpse the New</name>
+			<text>(This card is blue in addition to its other colors.)
+Reveal cards from the top of your library until you reveal a blue, black, or red creature card. Put that card into your hand and the rest on the bottom of your library in any order.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/237.png" num="177">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mortality Weaver</name>
+			<text>(This card is black in addition to its other colors.)
+Creature offering (You may cast this card any time you could cast an instant by sacrificing a creature and paying the difference in mana costs between this and the sacrificed creature. Mana cost includes color.)
+When Mortality Weaver enters the battlefield, another target creature gets +1/+1 and gains deathtouch until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/238.png" num="191">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Llanowar Combatant</name>
+			<text>{G}, Exile Llanowar Combatant from your graveyard: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/239.png" num="187">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tunneling Tombwurm</name>
+			<text>(This card is black in addition to its other colors.)
+Creature offering (You may cast this card any time you could cast an instant by sacrificing a creature and paying the difference in mana costs between this and the sacrificed creature. Mana cost includes color.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/240.png" num="201">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Divine Defense</name>
+			<text>(This card is blue in addition to its other colors.)
+Target permanent gains shroud until end of turn. If it&apos;s a creature, it gets +0/+3 until end of turn. (It can&apos;t be the target of spells or abilities.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/241.png" num="172">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shivian Rider</name>
+			<text>As long as you control a Dragon, Shivian Rider has flying and haste.
+{R}: Create a 4/4 red Dragon creature token with flying. It gains haste. Exile it at the beginning of the next end step. Activate only as a sorcery and only if you control no Dragon tokens.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/242.png" num="156">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Teferi, Multiverse&apos;s Ally</name>
+			<text>Ward—Put a card from your hand on the bottom of your library.
+Empower—Whenever you activate your third ability in a turn that isn&apos;t a mana ability, for each planeswalker you control, you may activate one of its loyalty abilities once this turn as though none of its loyalty abilities have been activated this turn. (Loyalty abilities are activated abilities.)</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/243.png" num="230">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shalai, Voice of Bolas</name>
+			<text>(This card is blue, black, and red in addition to its other colors.)
+Flying
+Each other creature you control that&apos;s blue, black or red enters the battlefield with an additional +1/+1 counter on it if {G} or if {W} was spent to cast it.
+Whenever you cast a noncreature spell that&apos;s blue, black, or red, draw a card if {G} or if {W} was spent to cast it.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/244.png" num="228">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>3GW</manacost>
+				<cmc>5</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Belzenlok, Keeper of Contracts</name>
+			<text>Flying
+Rather than pay the mana cost for a spell you cast from your hand, you may pay {0}. If you do, at the beginning of your next upkeep you lose the game unless you pay that spell&apos;s mana cost. (Mana cost includes color.)</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/245.png" num="87">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>5BBB</manacost>
+				<cmc>8</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Weatherlight, Ready for War</name>
+			<text>Flying
+Planeswalkers you control have &quot;[+2]: Weatherlight, Ready for War becomes an artifact creature until end of turn.&quot;
+Whenever Weatherlight attacks, put a +1/+1 counter on it. Then you may remove any number of +1/+1 counters from it. When you do, it deals that much damage to any target.
+Crew 3</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/246.png" num="239">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Solemn Departure</name>
+			<text>As an additional cost to cast this spell, sacrifice a planeswalker.
+Destroy each nonland permanent with mana value X or less, where X is the number of loyalty counters on the sacrificed planeswalker.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/247.png" num="229">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tarox, Brood Convert</name>
+			<text>Flying
+{1}{R}, Discard a Dragon card: Double Tarox, Brood Convert&apos;s power until end of turn. Then if the discarded card was legendary, Tarox deals damage equal to its power to up to one target creature or planeswalker.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/END-files/img/248.png" num="161">END</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

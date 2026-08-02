@@ -11,6 +11,11 @@
             "formats": "emstandard"
         },
         {
+            "set_code": "END",
+            "set_name": "Endgame Unleashed",
+            "formats": "emstandard"
+        },
+        {
             "set_code": "GLX",
             "set_name": "Galaxia",
             "formats": "emstandard"
