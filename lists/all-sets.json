@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "AMP",
+            "set_name": "Amplalo, Realm of the Colossi",
+            "formats": "emstandard"
+        },
+        {
             "set_code": "GSM",
             "set_name": "Greatest Show in the Multiverse",
             "formats": "voyager"
