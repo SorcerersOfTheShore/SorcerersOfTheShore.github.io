@@ -1,0 +1,908 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="../sets/UMB-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
+	<title>UMB visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('../resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.close-btn {
+			background: url('../img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('../img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+			border-radius: 3.733% / 2.677%;
+		}
+		.flip-btn {
+			background: url('../img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('../img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/UMB-files/logo.png" />
+	<img class="preload-hidden" src="../sets/AMP-files/icon.png" />
+		<img class="preload-hidden" src="../sets/DD1-files/icon.png" />
+		<img class="preload-hidden" src="../sets/EH1-files/icon.png" />
+		<img class="preload-hidden" src="../sets/EM2-files/icon.png" />
+		<img class="preload-hidden" src="../sets/END-files/icon.png" />
+		<img class="preload-hidden" src="../sets/GLX-files/icon.png" />
+		<img class="preload-hidden" src="../sets/GSM-files/icon.png" />
+		<img class="preload-hidden" src="../sets/UMB-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
+
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="../previews/UMB"><img src="../sets/UMB-files/icon.png">Umbra</a>
+	
+		<a class="set-bar inactive" href="../previews/AMP"><img src="../sets/AMP-files/icon.png">Amplalo, Realm of the Colossi</a>
+	
+		<a class="set-bar inactive" href="../previews/DD1"><img src="../sets/DD1-files/icon.png">Distant Dreams: A Pokemon Mystery Dungeon Story</a>
+	
+		<a class="set-bar inactive" href="../previews/EH1"><img src="../sets/EH1-files/icon.png">Eternal Horizons</a>
+	
+		<a class="set-bar inactive" href="../previews/EM2"><img src="../sets/EM2-files/icon.png">Extended Multiverse Core 2</a>
+	
+		<a class="set-bar inactive" href="../previews/END"><img src="../sets/END-files/icon.png">Endgame Unleashed</a>
+	
+		<a class="set-bar inactive" href="../previews/GLX"><img src="../sets/GLX-files/icon.png">Galaxia</a>
+	
+		<a class="set-bar inactive" href="../previews/GSM"><img src="../sets/GSM-files/icon.png">Greatest Show in the Multiverse</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="../sets/UMB-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="sets\UMB-files\img\213.png" id="UMB_213" data-flag="@X" onclick="openSidebar('UMB_213',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\216.png" id="UMB_216" data-flag="@X" onclick="openSidebar('UMB_216',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\217.png" id="UMB_217" data-flag="@X" onclick="openSidebar('UMB_217',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\218.png" id="UMB_218" data-flag="@X" onclick="openSidebar('UMB_218',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\221.png" id="UMB_221" data-flag="@X" onclick="openSidebar('UMB_221',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\214.png" id="UMB_214" data-flag="@X" onclick="openSidebar('UMB_214',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\215.png" id="UMB_215" data-flag="@X" onclick="openSidebar('UMB_215',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\232_back.png" alt="sets\UMB-files\img\232_front.png" id="UMB_232" data-flag="@XD" onclick="openSidebar('UMB_232',false)"><button class="flip-btn" onclick="imgFlip('UMB_232')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\219.png" id="UMB_219" data-flag="@X" onclick="openSidebar('UMB_219',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\196.png" id="UMB_196" data-flag="@X" onclick="openSidebar('UMB_196',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\203.png" id="UMB_203" data-flag="@X" onclick="openSidebar('UMB_203',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\231.png" id="UMB_231" data-flag="@X" onclick="openSidebar('UMB_231',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\187.png" id="UMB_187" data-flag="@X" onclick="openSidebar('UMB_187',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\189.png" id="UMB_189" data-flag="@X" onclick="openSidebar('UMB_189',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\194.png" id="UMB_194" data-flag="@X" onclick="openSidebar('UMB_194',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\234_back.png" alt="sets\UMB-files\img\234_front.png" id="UMB_234" data-flag="@XD" onclick="openSidebar('UMB_234',false)"><button class="flip-btn" onclick="imgFlip('UMB_234')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\182.png" id="UMB_182" data-flag="@X" onclick="openSidebar('UMB_182',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\188.png" id="UMB_188" data-flag="@X" onclick="openSidebar('UMB_188',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\201.png" id="UMB_201" data-flag="@X" onclick="openSidebar('UMB_201',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\202.png" id="UMB_202" data-flag="@X" onclick="openSidebar('UMB_202',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\179.png" id="UMB_179" data-flag="@X" onclick="openSidebar('UMB_179',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\199.png" id="UMB_199" data-flag="@X" onclick="openSidebar('UMB_199',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\242.png" id="UMB_242" data-flag="@X" onclick="openSidebar('UMB_242',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\206.png" id="UMB_206" data-flag="@X" onclick="openSidebar('UMB_206',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\207.png" id="UMB_207" data-flag="@X" onclick="openSidebar('UMB_207',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\245.png" id="UMB_245" data-flag="@X" onclick="openSidebar('UMB_245',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\204.png" id="UMB_204" data-flag="@X" onclick="openSidebar('UMB_204',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\185.png" id="UMB_185" data-flag="@X" onclick="openSidebar('UMB_185',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\246.png" id="UMB_246" data-flag="@X" onclick="openSidebar('UMB_246',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\195.png" id="UMB_195" data-flag="@X" onclick="openSidebar('UMB_195',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\248.png" id="UMB_248" data-flag="@X" onclick="openSidebar('UMB_248',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\209.png" id="UMB_209" data-flag="@X" onclick="openSidebar('UMB_209',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\247.png" id="UMB_247" data-flag="@X" onclick="openSidebar('UMB_247',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\244.png" id="UMB_244" data-flag="@X" onclick="openSidebar('UMB_244',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\193_back.png" alt="sets\UMB-files\img\193_front.png" id="UMB_193" data-flag="@XD" onclick="openSidebar('UMB_193',false)"><button class="flip-btn" onclick="imgFlip('UMB_193')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\181_back.png" alt="sets\UMB-files\img\181_front.png" id="UMB_181" data-flag="@XD" onclick="openSidebar('UMB_181',false)"><button class="flip-btn" onclick="imgFlip('UMB_181')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\184.png" id="UMB_184" data-flag="@X" onclick="openSidebar('UMB_184',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\200_back.png" alt="sets\UMB-files\img\200_front.png" id="UMB_200" data-flag="@XD" onclick="openSidebar('UMB_200',false)"><button class="flip-btn" onclick="imgFlip('UMB_200')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\190.png" id="UMB_190" data-flag="@X" onclick="openSidebar('UMB_190',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\197.png" id="UMB_197" data-flag="@X" onclick="openSidebar('UMB_197',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\198.png" id="UMB_198" data-flag="@X" onclick="openSidebar('UMB_198',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\183.png" id="UMB_183" data-flag="@X" onclick="openSidebar('UMB_183',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\205.png" id="UMB_205" data-flag="@X" onclick="openSidebar('UMB_205',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\191_back.png" alt="sets\UMB-files\img\191_front.png" id="UMB_191" data-flag="@XD" onclick="openSidebar('UMB_191',false)"><button class="flip-btn" onclick="imgFlip('UMB_191')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\157.png" id="UMB_157" data-flag="@X" onclick="openSidebar('UMB_157',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\180.png" id="UMB_180" data-flag="@X" onclick="openSidebar('UMB_180',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\243.png" id="UMB_243" data-flag="@X" onclick="openSidebar('UMB_243',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\139.png" id="UMB_139" data-flag="@X" onclick="openSidebar('UMB_139',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\149.png" id="UMB_149" data-flag="@X" onclick="openSidebar('UMB_149',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\154_back.png" alt="sets\UMB-files\img\154_front.png" id="UMB_154" data-flag="@XD" onclick="openSidebar('UMB_154',false)"><button class="flip-btn" onclick="imgFlip('UMB_154')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\169_back.png" alt="sets\UMB-files\img\169_front.png" id="UMB_169" data-flag="@XD" onclick="openSidebar('UMB_169',false)"><button class="flip-btn" onclick="imgFlip('UMB_169')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\122.png" id="UMB_122" data-flag="@X" onclick="openSidebar('UMB_122',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\134.png" id="UMB_134" data-flag="@X" onclick="openSidebar('UMB_134',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\167.png" id="UMB_167" data-flag="@X" onclick="openSidebar('UMB_167',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\173.png" id="UMB_173" data-flag="@X" onclick="openSidebar('UMB_173',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\113.png" id="UMB_113" data-flag="@X" onclick="openSidebar('UMB_113',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\126.png" id="UMB_126" data-flag="@X" onclick="openSidebar('UMB_126',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\136.png" id="UMB_136" data-flag="@X" onclick="openSidebar('UMB_136',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\143_back.png" alt="sets\UMB-files\img\143_front.png" id="UMB_143" data-flag="@XD" onclick="openSidebar('UMB_143',false)"><button class="flip-btn" onclick="imgFlip('UMB_143')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\160.png" id="UMB_160" data-flag="@X" onclick="openSidebar('UMB_160',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\115.png" id="UMB_115" data-flag="@X" onclick="openSidebar('UMB_115',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\124.png" id="UMB_124" data-flag="@X" onclick="openSidebar('UMB_124',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\166.png" id="UMB_166" data-flag="@X" onclick="openSidebar('UMB_166',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\172.png" id="UMB_172" data-flag="@X" onclick="openSidebar('UMB_172',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\168.png" id="UMB_168" data-flag="@X" onclick="openSidebar('UMB_168',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\119.png" id="UMB_119" data-flag="@X" onclick="openSidebar('UMB_119',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\130.png" id="UMB_130" data-flag="@X" onclick="openSidebar('UMB_130',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\140.png" id="UMB_140" data-flag="@X" onclick="openSidebar('UMB_140',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\146.png" id="UMB_146" data-flag="@X" onclick="openSidebar('UMB_146',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\155.png" id="UMB_155" data-flag="@X" onclick="openSidebar('UMB_155',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\117.png" id="UMB_117" data-flag="@X" onclick="openSidebar('UMB_117',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\127.png" id="UMB_127" data-flag="@X" onclick="openSidebar('UMB_127',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\131_back.png" alt="sets\UMB-files\img\131_front.png" id="UMB_131" data-flag="@XD" onclick="openSidebar('UMB_131',false)"><button class="flip-btn" onclick="imgFlip('UMB_131')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\144.png" id="UMB_144" data-flag="@X" onclick="openSidebar('UMB_144',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\153.png" id="UMB_153" data-flag="@X" onclick="openSidebar('UMB_153',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\114.png" id="UMB_114" data-flag="@X" onclick="openSidebar('UMB_114',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\170_back.png" alt="sets\UMB-files\img\170_front.png" id="UMB_170" data-flag="@XD" onclick="openSidebar('UMB_170',false)"><button class="flip-btn" onclick="imgFlip('UMB_170')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\137.png" id="UMB_137" data-flag="@X" onclick="openSidebar('UMB_137',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\148.png" id="UMB_148" data-flag="@X" onclick="openSidebar('UMB_148',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\158.png" id="UMB_158" data-flag="@X" onclick="openSidebar('UMB_158',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\110.png" id="UMB_110" data-flag="@X" onclick="openSidebar('UMB_110',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\123.png" id="UMB_123" data-flag="@X" onclick="openSidebar('UMB_123',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\141.png" id="UMB_141" data-flag="@X" onclick="openSidebar('UMB_141',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\150.png" id="UMB_150" data-flag="@X" onclick="openSidebar('UMB_150',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\161.png" id="UMB_161" data-flag="@X" onclick="openSidebar('UMB_161',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\111_back.png" alt="sets\UMB-files\img\111_front.png" id="UMB_111" data-flag="@XD" onclick="openSidebar('UMB_111',false)"><button class="flip-btn" onclick="imgFlip('UMB_111')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\121.png" id="UMB_121" data-flag="@X" onclick="openSidebar('UMB_121',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\171.png" id="UMB_171" data-flag="@X" onclick="openSidebar('UMB_171',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\145_back.png" alt="sets\UMB-files\img\145_front.png" id="UMB_145" data-flag="@XD" onclick="openSidebar('UMB_145',false)"><button class="flip-btn" onclick="imgFlip('UMB_145')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\159_back.png" alt="sets\UMB-files\img\159_front.png" id="UMB_159" data-flag="@XD" onclick="openSidebar('UMB_159',false)"><button class="flip-btn" onclick="imgFlip('UMB_159')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\164.png" id="UMB_164" data-flag="@X" onclick="openSidebar('UMB_164',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\129.png" id="UMB_129" data-flag="@X" onclick="openSidebar('UMB_129',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\132_back.png" alt="sets\UMB-files\img\132_front.png" id="UMB_132" data-flag="@XD" onclick="openSidebar('UMB_132',false)"><button class="flip-btn" onclick="imgFlip('UMB_132')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\142.png" id="UMB_142" data-flag="@X" onclick="openSidebar('UMB_142',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\156.png" id="UMB_156" data-flag="@X" onclick="openSidebar('UMB_156',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\116.png" id="UMB_116" data-flag="@X" onclick="openSidebar('UMB_116',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\227_back.png" alt="sets\UMB-files\img\227_front.png" id="UMB_227" data-flag="@XD" onclick="openSidebar('UMB_227',false)"><button class="flip-btn" onclick="imgFlip('UMB_227')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\133.png" id="UMB_133" data-flag="@X" onclick="openSidebar('UMB_133',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\152.png" id="UMB_152" data-flag="@X" onclick="openSidebar('UMB_152',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\162.png" id="UMB_162" data-flag="@X" onclick="openSidebar('UMB_162',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\118.png" id="UMB_118" data-flag="@X" onclick="openSidebar('UMB_118',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\165.png" id="UMB_165" data-flag="@X" onclick="openSidebar('UMB_165',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\138.png" id="UMB_138" data-flag="@X" onclick="openSidebar('UMB_138',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\147.png" id="UMB_147" data-flag="@X" onclick="openSidebar('UMB_147',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\163.png" id="UMB_163" data-flag="@X" onclick="openSidebar('UMB_163',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\112.png" id="UMB_112" data-flag="@X" onclick="openSidebar('UMB_112',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\125.png" id="UMB_125" data-flag="@X" onclick="openSidebar('UMB_125',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\135.png" id="UMB_135" data-flag="@X" onclick="openSidebar('UMB_135',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\151.png" id="UMB_151" data-flag="@X" onclick="openSidebar('UMB_151',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\89.png" id="UMB_89" data-flag="@X" onclick="openSidebar('UMB_89',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\120.png" id="UMB_120" data-flag="@X" onclick="openSidebar('UMB_120',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\128.png" id="UMB_128" data-flag="@X" onclick="openSidebar('UMB_128',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\64.png" id="UMB_64" data-flag="@X" onclick="openSidebar('UMB_64',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\83.png" id="UMB_83" data-flag="@X" onclick="openSidebar('UMB_83',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\90.png" id="UMB_90" data-flag="@X" onclick="openSidebar('UMB_90',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\10.png" id="UMB_10" data-flag="@X" onclick="openSidebar('UMB_10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\41.png" id="UMB_41" data-flag="@X" onclick="openSidebar('UMB_41',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\59.png" id="UMB_59" data-flag="@X" onclick="openSidebar('UMB_59',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\72_back.png" alt="sets\UMB-files\img\72_front.png" id="UMB_72" data-flag="@XD" onclick="openSidebar('UMB_72',false)"><button class="flip-btn" onclick="imgFlip('UMB_72')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\86.png" id="UMB_86" data-flag="@X" onclick="openSidebar('UMB_86',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\24.png" id="UMB_24" data-flag="@X" onclick="openSidebar('UMB_24',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\37.png" id="UMB_37" data-flag="@X" onclick="openSidebar('UMB_37',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\63.png" id="UMB_63" data-flag="@X" onclick="openSidebar('UMB_63',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\73.png" id="UMB_73" data-flag="@X" onclick="openSidebar('UMB_73',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\93_back.png" alt="sets\UMB-files\img\93_front.png" id="UMB_93" data-flag="@XD" onclick="openSidebar('UMB_93',false)"><button class="flip-btn" onclick="imgFlip('UMB_93')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\23.png" id="UMB_23" data-flag="@X" onclick="openSidebar('UMB_23',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\30.png" id="UMB_30" data-flag="@X" onclick="openSidebar('UMB_30',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\65.png" id="UMB_65" data-flag="@X" onclick="openSidebar('UMB_65',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\70.png" id="UMB_70" data-flag="@X" onclick="openSidebar('UMB_70',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\95.png" id="UMB_95" data-flag="@X" onclick="openSidebar('UMB_95',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\25.png" id="UMB_25" data-flag="@X" onclick="openSidebar('UMB_25',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\33_back.png" alt="sets\UMB-files\img\33_front.png" id="UMB_33" data-flag="@XD" onclick="openSidebar('UMB_33',false)"><button class="flip-btn" onclick="imgFlip('UMB_33')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\60.png" id="UMB_60" data-flag="@X" onclick="openSidebar('UMB_60',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\67.png" id="UMB_67" data-flag="@X" onclick="openSidebar('UMB_67',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\91.png" id="UMB_91" data-flag="@X" onclick="openSidebar('UMB_91',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\20.png" id="UMB_20" data-flag="@X" onclick="openSidebar('UMB_20',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\35.png" id="UMB_35" data-flag="@X" onclick="openSidebar('UMB_35',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\47.png" id="UMB_47" data-flag="@X" onclick="openSidebar('UMB_47',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\76.png" id="UMB_76" data-flag="@X" onclick="openSidebar('UMB_76',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\94.png" id="UMB_94" data-flag="@X" onclick="openSidebar('UMB_94',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\27.png" id="UMB_27" data-flag="@X" onclick="openSidebar('UMB_27',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\39.png" id="UMB_39" data-flag="@X" onclick="openSidebar('UMB_39',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\56.png" id="UMB_56" data-flag="@X" onclick="openSidebar('UMB_56',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\71.png" id="UMB_71" data-flag="@X" onclick="openSidebar('UMB_71',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\88.png" id="UMB_88" data-flag="@X" onclick="openSidebar('UMB_88',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\16_back.png" alt="sets\UMB-files\img\16_front.png" id="UMB_16" data-flag="@XD" onclick="openSidebar('UMB_16',false)"><button class="flip-btn" onclick="imgFlip('UMB_16')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\38.png" id="UMB_38" data-flag="@X" onclick="openSidebar('UMB_38',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\58.png" id="UMB_58" data-flag="@X" onclick="openSidebar('UMB_58',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\79.png" id="UMB_79" data-flag="@X" onclick="openSidebar('UMB_79',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\85_back.png" alt="sets\UMB-files\img\85_front.png" id="UMB_85" data-flag="@XD" onclick="openSidebar('UMB_85',false)"><button class="flip-btn" onclick="imgFlip('UMB_85')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\18.png" id="UMB_18" data-flag="@X" onclick="openSidebar('UMB_18',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\34_back.png" alt="sets\UMB-files\img\34_front.png" id="UMB_34" data-flag="@XD" onclick="openSidebar('UMB_34',false)"><button class="flip-btn" onclick="imgFlip('UMB_34')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\53_back.png" alt="sets\UMB-files\img\53_front.png" id="UMB_53" data-flag="@XD" onclick="openSidebar('UMB_53',false)"><button class="flip-btn" onclick="imgFlip('UMB_53')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\75_back.png" alt="sets\UMB-files\img\75_front.png" id="UMB_75" data-flag="@XD" onclick="openSidebar('UMB_75',false)"><button class="flip-btn" onclick="imgFlip('UMB_75')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\98.png" id="UMB_98" data-flag="@X" onclick="openSidebar('UMB_98',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\15.png" id="UMB_15" data-flag="@X" onclick="openSidebar('UMB_15',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\42.png" id="UMB_42" data-flag="@X" onclick="openSidebar('UMB_42',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\55.png" id="UMB_55" data-flag="@X" onclick="openSidebar('UMB_55',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\74.png" id="UMB_74" data-flag="@X" onclick="openSidebar('UMB_74',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\97.png" id="UMB_97" data-flag="@X" onclick="openSidebar('UMB_97',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\13.png" id="UMB_13" data-flag="@X" onclick="openSidebar('UMB_13',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\44.png" id="UMB_44" data-flag="@X" onclick="openSidebar('UMB_44',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\51_back.png" alt="sets\UMB-files\img\51_front.png" id="UMB_51" data-flag="@XD" onclick="openSidebar('UMB_51',false)"><button class="flip-btn" onclick="imgFlip('UMB_51')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\82.png" id="UMB_82" data-flag="@X" onclick="openSidebar('UMB_82',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\103.png" id="UMB_103" data-flag="@X" onclick="openSidebar('UMB_103',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\17.png" id="UMB_17" data-flag="@X" onclick="openSidebar('UMB_17',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\32.png" id="UMB_32" data-flag="@X" onclick="openSidebar('UMB_32',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\49.png" id="UMB_49" data-flag="@X" onclick="openSidebar('UMB_49',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\66.png" id="UMB_66" data-flag="@X" onclick="openSidebar('UMB_66',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\102.png" id="UMB_102" data-flag="@X" onclick="openSidebar('UMB_102',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\12_back.png" alt="sets\UMB-files\img\12_front.png" id="UMB_12" data-flag="@XD" onclick="openSidebar('UMB_12',false)"><button class="flip-btn" onclick="imgFlip('UMB_12')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\43.png" id="UMB_43" data-flag="@X" onclick="openSidebar('UMB_43',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\54.png" id="UMB_54" data-flag="@X" onclick="openSidebar('UMB_54',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\81.png" id="UMB_81" data-flag="@X" onclick="openSidebar('UMB_81',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\96.png" id="UMB_96" data-flag="@X" onclick="openSidebar('UMB_96',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\14.png" id="UMB_14" data-flag="@X" onclick="openSidebar('UMB_14',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\36.png" id="UMB_36" data-flag="@X" onclick="openSidebar('UMB_36',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\62.png" id="UMB_62" data-flag="@X" onclick="openSidebar('UMB_62',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\77.png" id="UMB_77" data-flag="@X" onclick="openSidebar('UMB_77',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\99.png" id="UMB_99" data-flag="@X" onclick="openSidebar('UMB_99',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\26.png" id="UMB_26" data-flag="@X" onclick="openSidebar('UMB_26',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\45.png" id="UMB_45" data-flag="@X" onclick="openSidebar('UMB_45',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\50.png" id="UMB_50" data-flag="@X" onclick="openSidebar('UMB_50',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\68.png" id="UMB_68" data-flag="@X" onclick="openSidebar('UMB_68',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\101.png" id="UMB_101" data-flag="@X" onclick="openSidebar('UMB_101',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\28.png" id="UMB_28" data-flag="@X" onclick="openSidebar('UMB_28',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\40.png" id="UMB_40" data-flag="@X" onclick="openSidebar('UMB_40',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\48.png" id="UMB_48" data-flag="@X" onclick="openSidebar('UMB_48',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\84.png" id="UMB_84" data-flag="@X" onclick="openSidebar('UMB_84',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\92.png" id="UMB_92" data-flag="@X" onclick="openSidebar('UMB_92',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\19.png" id="UMB_19" data-flag="@X" onclick="openSidebar('UMB_19',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\226.png" id="UMB_226" data-flag="@X" onclick="openSidebar('UMB_226',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\61.png" id="UMB_61" data-flag="@X" onclick="openSidebar('UMB_61',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\78.png" id="UMB_78" data-flag="@X" onclick="openSidebar('UMB_78',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\87.png" id="UMB_87" data-flag="@X" onclick="openSidebar('UMB_87',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\11.png" id="UMB_11" data-flag="@X" onclick="openSidebar('UMB_11',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\31.png" id="UMB_31" data-flag="@X" onclick="openSidebar('UMB_31',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\52.png" id="UMB_52" data-flag="@X" onclick="openSidebar('UMB_52',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\80.png" id="UMB_80" data-flag="@X" onclick="openSidebar('UMB_80',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\100.png" id="UMB_100" data-flag="@X" onclick="openSidebar('UMB_100',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\21.png" id="UMB_21" data-flag="@X" onclick="openSidebar('UMB_21',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\46.png" id="UMB_46" data-flag="@X" onclick="openSidebar('UMB_46',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\57.png" id="UMB_57" data-flag="@X" onclick="openSidebar('UMB_57',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\69.png" id="UMB_69" data-flag="@X" onclick="openSidebar('UMB_69',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\22.png" id="UMB_22" data-flag="@X" onclick="openSidebar('UMB_22',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\29.png" id="UMB_29" data-flag="@X" onclick="openSidebar('UMB_29',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\233.png" id="UMB_233" data-flag="@X" onclick="openSidebar('UMB_233',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\237.png" id="UMB_237" data-flag="@X" onclick="openSidebar('UMB_237',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\240.png" id="UMB_240" data-flag="@X" onclick="openSidebar('UMB_240',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\241.png" id="UMB_241" data-flag="@X" onclick="openSidebar('UMB_241',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\236.png" id="UMB_236" data-flag="@X" onclick="openSidebar('UMB_236',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\0.png" id="UMB_0" data-flag="@X" onclick="openSidebar('UMB_0',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\211.png" id="UMB_211" data-flag="@X" onclick="openSidebar('UMB_211',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\6.png" id="UMB_6" data-flag="@X" onclick="openSidebar('UMB_6',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\8.png" id="UMB_8" data-flag="@X" onclick="openSidebar('UMB_8',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\3.png" id="UMB_3" data-flag="@X" onclick="openSidebar('UMB_3',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\186.png" id="UMB_186" data-flag="@X" onclick="openSidebar('UMB_186',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\4.png" id="UMB_4" data-flag="@X" onclick="openSidebar('UMB_4',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\223_back.png" alt="sets\UMB-files\img\223_front.png" id="UMB_223" data-flag="@XD" onclick="openSidebar('UMB_223',false)"><button class="flip-btn" onclick="imgFlip('UMB_223')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\238.png" id="UMB_238" data-flag="@X" onclick="openSidebar('UMB_238',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\224.png" id="UMB_224" data-flag="@X" onclick="openSidebar('UMB_224',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\235.png" id="UMB_235" data-flag="@X" onclick="openSidebar('UMB_235',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\239.png" id="UMB_239" data-flag="@X" onclick="openSidebar('UMB_239',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\225.png" id="UMB_225" data-flag="@X" onclick="openSidebar('UMB_225',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\5.png" id="UMB_5" data-flag="@X" onclick="openSidebar('UMB_5',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\192.png" id="UMB_192" data-flag="@X" onclick="openSidebar('UMB_192',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\2.png" id="UMB_2" data-flag="@X" onclick="openSidebar('UMB_2',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\9.png" id="UMB_9" data-flag="@X" onclick="openSidebar('UMB_9',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\228.png" id="UMB_228" data-flag="@X" onclick="openSidebar('UMB_228',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\212.png" id="UMB_212" data-flag="@X" onclick="openSidebar('UMB_212',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\1.png" id="UMB_1" data-flag="@X" onclick="openSidebar('UMB_1',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\7.png" id="UMB_7" data-flag="@X" onclick="openSidebar('UMB_7',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\222_back.png" alt="sets\UMB-files\img\222_front.png" id="UMB_222" data-flag="@XD" onclick="openSidebar('UMB_222',false)"><button class="flip-btn" onclick="imgFlip('UMB_222')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\210.png" id="UMB_210" data-flag="@X" onclick="openSidebar('UMB_210',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\208.png" id="UMB_208" data-flag="@X" onclick="openSidebar('UMB_208',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\177.png" id="UMB_177" data-flag="@X" onclick="openSidebar('UMB_177',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\175.png" id="UMB_175" data-flag="@X" onclick="openSidebar('UMB_175',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\174.png" id="UMB_174" data-flag="@X" onclick="openSidebar('UMB_174',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\176_back.png" alt="sets\UMB-files\img\176_front.png" id="UMB_176" data-flag="@XD" onclick="openSidebar('UMB_176',false)"><button class="flip-btn" onclick="imgFlip('UMB_176')"></button></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\178.png" id="UMB_178" data-flag="@X" onclick="openSidebar('UMB_178',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\107.png" id="UMB_107" data-flag="@X" onclick="openSidebar('UMB_107',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\108.png" id="UMB_108" data-flag="@X" onclick="openSidebar('UMB_108',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\105.png" id="UMB_105" data-flag="@X" onclick="openSidebar('UMB_105',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\109.png" id="UMB_109" data-flag="@X" onclick="openSidebar('UMB_109',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\106.png" id="UMB_106" data-flag="@X" onclick="openSidebar('UMB_106',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\104.png" id="UMB_104" data-flag="@X" onclick="openSidebar('UMB_104',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div id="land" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\UMB-files\img\220_back.png" alt="sets\UMB-files\img\220_front.png" id="UMB_220" data-flag="@XD" onclick="openSidebar('UMB_220',false)"><button class="flip-btn" onclick="imgFlip('UMB_220')"></button></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\230.png" id="UMB_230" data-flag="@X" onclick="openSidebar('UMB_230',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\UMB-files\img\229.png" id="UMB_229" data-flag="@X" onclick="openSidebar('UMB_229',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="UMB_e" data-flag="@E" onclick="openSidebar('UMB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="UMB_er" data-flag="@E" onclick="openSidebar('UMB_er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch(rootPath + '/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch(rootPath + '/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1].toLowerCase());
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = rootPath + '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url.pathname + url.search;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url.pathname + url.search;
+			}
+	</script>
+</body>
+</html>

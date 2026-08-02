@@ -1,0 +1,2156 @@
+﻿[
+    {
+        "card_name": "Grace, Soul Unbound",
+        "number": 10,
+        "shape": "planeswalker",
+        "set": "UMB",
+        "rotated": false,
+        "position": "213"
+    },
+    {
+        "card_name": "Ancestral Communion",
+        "number": 43,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "216"
+    },
+    {
+        "card_name": "The One in the Sewers",
+        "number": 109,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "217"
+    },
+    {
+        "card_name": "Tibalt, Spawn of Chaos",
+        "number": 162,
+        "shape": "planeswalker",
+        "set": "UMB",
+        "rotated": false,
+        "position": "218"
+    },
+    {
+        "card_name": "Venus Mantrap",
+        "number": 202,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "221"
+    },
+    {
+        "card_name": "Hushpoppet",
+        "number": 15,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "214"
+    },
+    {
+        "card_name": "Xrthalid, Subject Zero",
+        "number": 84,
+        "shape": "planeswalker",
+        "set": "UMB",
+        "rotated": false,
+        "position": "215"
+    },
+    {
+        "card_name": "Victor, Sentience Imparter",
+        "number": 123,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "232"
+    },
+    {
+        "card_name": "Tibalt's Betrayal",
+        "number": 163,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "219"
+    },
+    {
+        "card_name": "Attack of the Waking Woods",
+        "number": 170,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "196"
+    },
+    {
+        "card_name": "Enlightened Tutor",
+        "number": 4,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "203"
+    },
+    {
+        "card_name": "Dream Lurker",
+        "number": 46,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "231"
+    },
+    {
+        "card_name": "Cast into Gloom",
+        "number": 89,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "187"
+    },
+    {
+        "card_name": "Arcana Chaser",
+        "number": 127,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "189"
+    },
+    {
+        "card_name": "Crawling Skin",
+        "number": 174,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "194"
+    },
+    {
+        "card_name": "Hannibal, Inaugural Mayor",
+        "number": 11,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "234"
+    },
+    {
+        "card_name": "Enhancement Chamber",
+        "number": 48,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "182"
+    },
+    {
+        "card_name": "Nightmare Amalgam",
+        "number": 107,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "188"
+    },
+    {
+        "card_name": "Cruel Betrayal",
+        "number": 130,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "201"
+    },
+    {
+        "card_name": "Stalking Eyes",
+        "number": 194,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "202"
+    },
+    {
+        "card_name": "Klaus, Eversummer Vanguard",
+        "number": 22,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "179"
+    },
+    {
+        "card_name": "Frozen in Fear",
+        "number": 55,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "199"
+    },
+    {
+        "card_name": "Putrid Blob",
+        "number": 112,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "242"
+    },
+    {
+        "card_name": "Gamble",
+        "number": 139,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "206"
+    },
+    {
+        "card_name": "Tarmogoyf",
+        "number": 197,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "207"
+    },
+    {
+        "card_name": "Maiden of the Haunt",
+        "number": 25,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "245"
+    },
+    {
+        "card_name": "Gifts Ungiven",
+        "number": 57,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "204"
+    },
+    {
+        "card_name": "Rise of The Living Dead",
+        "number": 114,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "185"
+    },
+    {
+        "card_name": "Mass Mentality",
+        "number": 152,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "246"
+    },
+    {
+        "card_name": "Vulpine Trickster",
+        "number": 203,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "195"
+    },
+    {
+        "card_name": "Nameless Persecutor",
+        "number": 27,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "248"
+    },
+    {
+        "card_name": "Midnight Clock",
+        "number": 62,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "209"
+    },
+    {
+        "card_name": "Roost Keeper",
+        "number": 115,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "247"
+    },
+    {
+        "card_name": "Scream Harvester",
+        "number": 159,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "244"
+    },
+    {
+        "card_name": "Waker of the Hunt",
+        "number": 204,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "193"
+    },
+    {
+        "card_name": "Possessed Stranger",
+        "number": 31,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "181"
+    },
+    {
+        "card_name": "Mystical Tutor",
+        "number": 65,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "184"
+    },
+    {
+        "card_name": "Say the Name",
+        "number": 117,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "200"
+    },
+    {
+        "card_name": "Two-Headed Hound",
+        "number": 164,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "190"
+    },
+    {
+        "card_name": "Worldly Tutor",
+        "number": 206,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "197"
+    },
+    {
+        "card_name": "Radiant Expulsion",
+        "number": 32,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "198"
+    },
+    {
+        "card_name": "Nemesis of Identities",
+        "number": 67,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "183"
+    },
+    {
+        "card_name": "Vampiric Tutor",
+        "number": 121,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "205"
+    },
+    {
+        "card_name": "The Waxing Moon",
+        "number": 165,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "191"
+    },
+    {
+        "card_name": "Active Hunter",
+        "number": 167,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "157"
+    },
+    {
+        "card_name": "Wicker Effigy",
+        "number": 42,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "180"
+    },
+    {
+        "card_name": "Snapcaster Mage",
+        "number": 75,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "243"
+    },
+    {
+        "card_name": "Cadaver Stitching",
+        "number": 87,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "139"
+    },
+    {
+        "card_name": "Carved Up",
+        "number": 129,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "149"
+    },
+    {
+        "card_name": "Adopted Packmate",
+        "number": 168,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "154"
+    },
+    {
+        "card_name": "Collector of Souls",
+        "number": 2,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "169"
+    },
+    {
+        "card_name": "Apex Monstrosity",
+        "number": 44,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "122"
+    },
+    {
+        "card_name": "Ceaseless Crawler",
+        "number": 90,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "134"
+    },
+    {
+        "card_name": "Explosion of Results",
+        "number": 133,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "167"
+    },
+    {
+        "card_name": "Alpha Authority",
+        "number": 169,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "173"
+    },
+    {
+        "card_name": "Ethereal Procession",
+        "number": 5,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "113"
+    },
+    {
+        "card_name": "Dreamweft Changeling",
+        "number": 47,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "126"
+    },
+    {
+        "card_name": "Graveshifter",
+        "number": 96,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "136"
+    },
+    {
+        "card_name": "Glimmer Harvester",
+        "number": 140,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "143"
+    },
+    {
+        "card_name": "Blessweaver",
+        "number": 171,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "160"
+    },
+    {
+        "card_name": "Eversummer Coalition",
+        "number": 6,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "115"
+    },
+    {
+        "card_name": "Essence of the Uncanny",
+        "number": 50,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "124"
+    },
+    {
+        "card_name": "Grisly Sustenance",
+        "number": 97,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "166"
+    },
+    {
+        "card_name": "Heretic Warlord",
+        "number": 142,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "172"
+    },
+    {
+        "card_name": "Decorated Valor",
+        "number": 176,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "168"
+    },
+    {
+        "card_name": "Exorcism",
+        "number": 7,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "119"
+    },
+    {
+        "card_name": "Forbidden Alchemy",
+        "number": 54,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "130"
+    },
+    {
+        "card_name": "Harvest",
+        "number": 98,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "140"
+    },
+    {
+        "card_name": "King of the Patch",
+        "number": 144,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "146"
+    },
+    {
+        "card_name": "Eversummer Harbinger",
+        "number": 177,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "155"
+    },
+    {
+        "card_name": "Frightveil",
+        "number": 8,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "117"
+    },
+    {
+        "card_name": "Genome Study",
+        "number": 56,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "127"
+    },
+    {
+        "card_name": "Helpless Victim",
+        "number": 99,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "131"
+    },
+    {
+        "card_name": "Laboratory Harbinger",
+        "number": 145,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "144"
+    },
+    {
+        "card_name": "Exemplar Arachnid",
+        "number": 178,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "153"
+    },
+    {
+        "card_name": "Gala Harbinger",
+        "number": 9,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "114"
+    },
+    {
+        "card_name": "Glyph Seeker",
+        "number": 58,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "170"
+    },
+    {
+        "card_name": "Hemohone",
+        "number": 100,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "137"
+    },
+    {
+        "card_name": "Lavaformed Monster",
+        "number": 147,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "148"
+    },
+    {
+        "card_name": "Humble Outcast",
+        "number": 181,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "158"
+    },
+    {
+        "card_name": "Imaginary Friend",
+        "number": 16,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "110"
+    },
+    {
+        "card_name": "Haunt Harbinger",
+        "number": 59,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "123"
+    },
+    {
+        "card_name": "Mark of Mutilation",
+        "number": 105,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "141"
+    },
+    {
+        "card_name": "Lunar Rage",
+        "number": 149,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "150"
+    },
+    {
+        "card_name": "Latent Growth",
+        "number": 182,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "161"
+    },
+    {
+        "card_name": "Imperiled Villager",
+        "number": 17,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "111"
+    },
+    {
+        "card_name": "Horde Harbinger",
+        "number": 60,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "121"
+    },
+    {
+        "card_name": "Master of the House",
+        "number": 106,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "171"
+    },
+    {
+        "card_name": "Moonpack Harbinger",
+        "number": 153,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "145"
+    },
+    {
+        "card_name": "Markmaker",
+        "number": 185,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "159"
+    },
+    {
+        "card_name": "Macabre Festivites",
+        "number": 24,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "164"
+    },
+    {
+        "card_name": "Multimutate",
+        "number": 64,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "129"
+    },
+    {
+        "card_name": "Noble Suitor",
+        "number": 108,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "132"
+    },
+    {
+        "card_name": "Newborn Hunter",
+        "number": 155,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "142"
+    },
+    {
+        "card_name": "Monstrosity Harbinger",
+        "number": 186,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "156"
+    },
+    {
+        "card_name": "Martyr's Curse",
+        "number": 26,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "116"
+    },
+    {
+        "card_name": "Naive Delver",
+        "number": 66,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "227"
+    },
+    {
+        "card_name": "Patch Harbinger",
+        "number": 110,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "133"
+    },
+    {
+        "card_name": "Power Up",
+        "number": 156,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "152"
+    },
+    {
+        "card_name": "Restore the Day",
+        "number": 191,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "162"
+    },
+    {
+        "card_name": "Outcast",
+        "number": 28,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "118"
+    },
+    {
+        "card_name": "Recurring Infestation",
+        "number": 72,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "165"
+    },
+    {
+        "card_name": "Spindly Demise",
+        "number": 118,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "138"
+    },
+    {
+        "card_name": "Spirit of Anarchy",
+        "number": 160,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "147"
+    },
+    {
+        "card_name": "Thrill of the Kill",
+        "number": 199,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "163"
+    },
+    {
+        "card_name": "Riot Harbinger",
+        "number": 34,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "112"
+    },
+    {
+        "card_name": "Seasoned Experimenter",
+        "number": 73,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "125"
+    },
+    {
+        "card_name": "Webspinner Harbinger",
+        "number": 124,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "135"
+    },
+    {
+        "card_name": "Terror in the Streets",
+        "number": 161,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "151"
+    },
+    {
+        "card_name": "Bounding Wolf",
+        "number": 172,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "89"
+    },
+    {
+        "card_name": "Rise from the Coffin",
+        "number": 35,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "120"
+    },
+    {
+        "card_name": "Supernatural Intervention",
+        "number": 79,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "128"
+    },
+    {
+        "card_name": "Bitter Legacy",
+        "number": 85,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "Abandon the Post",
+        "number": 126,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "83"
+    },
+    {
+        "card_name": "Brambleskin",
+        "number": 173,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "90"
+    },
+    {
+        "card_name": "Authoritative Accuser",
+        "number": 1,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "Dissect",
+        "number": 45,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "Body Modifier",
+        "number": 86,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "Brazen Rescuer",
+        "number": 128,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "72"
+    },
+    {
+        "card_name": "Deadly Recluse",
+        "number": 175,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "86"
+    },
+    {
+        "card_name": "Crib Swap",
+        "number": 3,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "Era-Worn Zombie",
+        "number": 49,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "Carve",
+        "number": 88,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "Emberwild Accusers",
+        "number": 131,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "73"
+    },
+    {
+        "card_name": "Expert Survivalist",
+        "number": 179,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "93"
+    },
+    {
+        "card_name": "Hold at the Stake",
+        "number": 12,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Fickle Figment",
+        "number": 51,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Claw Out",
+        "number": 91,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "65"
+    },
+    {
+        "card_name": "Experiment Overseer",
+        "number": 132,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "70"
+    },
+    {
+        "card_name": "Gorehusk",
+        "number": 180,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "95"
+    },
+    {
+        "card_name": "Homestead Courage",
+        "number": 13,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "First Subject",
+        "number": 52,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "Crippling Condition",
+        "number": 92,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "Fiery Pup",
+        "number": 134,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "67"
+    },
+    {
+        "card_name": "Legacy Forger",
+        "number": 183,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "91"
+    },
+    {
+        "card_name": "Hungering Guardian",
+        "number": 14,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "Flaying Zombie",
+        "number": 53,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "Cryptspinner",
+        "number": 93,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "Firebolt",
+        "number": 135,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "76"
+    },
+    {
+        "card_name": "Longleg Broodmother",
+        "number": 184,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "94"
+    },
+    {
+        "card_name": "Incite Riot",
+        "number": 18,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "Incomprehensible Mass",
+        "number": 61,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "Decadent Decorator",
+        "number": 94,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "Flesh Shaper",
+        "number": 136,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "Multieyed Monstrosity",
+        "number": 187,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "88"
+    },
+    {
+        "card_name": "Inciting Individual",
+        "number": 19,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "Mindmister",
+        "number": 63,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "Go for the Neck",
+        "number": 95,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "Freak Show",
+        "number": 137,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "79"
+    },
+    {
+        "card_name": "Naive Traveler",
+        "number": 188,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "85"
+    },
+    {
+        "card_name": "Inspirational Captain",
+        "number": 20,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "Novice Researcher",
+        "number": 68,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "Hungering Vampire",
+        "number": 101,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "Frenzied Villager",
+        "number": 138,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "75"
+    },
+    {
+        "card_name": "Overadapt",
+        "number": 189,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "98"
+    },
+    {
+        "card_name": "Irregular Cohort",
+        "number": 21,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "Otherworldly Gaze",
+        "number": 69,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "Infested Zombie",
+        "number": 102,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "Gruesome Gang",
+        "number": 141,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "74"
+    },
+    {
+        "card_name": "Pull of the Moon",
+        "number": 190,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "97"
+    },
+    {
+        "card_name": "Loyal Enforcer",
+        "number": 23,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "Plasmform",
+        "number": 70,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "Lone Crawler",
+        "number": 103,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "Inner Blaze",
+        "number": 143,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "82"
+    },
+    {
+        "card_name": "Return to Nature",
+        "number": 192,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "103"
+    },
+    {
+        "card_name": "Patron of the Living",
+        "number": 29,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "Recurring Haunting",
+        "number": 71,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "Manyfaced Monstrosity",
+        "number": 104,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "Lantern Lighter",
+        "number": 146,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "66"
+    },
+    {
+        "card_name": "Settle the Homestead",
+        "number": 193,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "102"
+    },
+    {
+        "card_name": "Popular Leader",
+        "number": 30,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "Silent Departure",
+        "number": 74,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "Pattern Carver",
+        "number": 111,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "Lunar Pull",
+        "number": 148,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "81"
+    },
+    {
+        "card_name": "Take Prey",
+        "number": 195,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "96"
+    },
+    {
+        "card_name": "Reveling Changeling",
+        "number": 33,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "Soul of the Monster",
+        "number": 76,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "Return from Extinction",
+        "number": 113,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "Make a Scene",
+        "number": 150,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "77"
+    },
+    {
+        "card_name": "Tapping at the Window",
+        "number": 196,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "99"
+    },
+    {
+        "card_name": "Sanguine Hospitality",
+        "number": 36,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Stream of Unconsciousness",
+        "number": 77,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "Sanity Stealer",
+        "number": 116,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "Martyr for the Mob",
+        "number": 151,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "68"
+    },
+    {
+        "card_name": "Thousandform",
+        "number": 198,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "101"
+    },
+    {
+        "card_name": "Secrets of the Restless",
+        "number": 37,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "Strip Identity",
+        "number": 78,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "Thirsty Neonate",
+        "number": 119,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "Nameless Monster",
+        "number": 154,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "84"
+    },
+    {
+        "card_name": "Unnatural Nature",
+        "number": 200,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "92"
+    },
+    {
+        "card_name": "Serene Apparition",
+        "number": 38,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Thought Trash",
+        "number": 80,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "226"
+    },
+    {
+        "card_name": "Tibalt's Proposition",
+        "number": 120,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "Radicalize",
+        "number": 157,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "78"
+    },
+    {
+        "card_name": "Unveil the Abnormal",
+        "number": 201,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "87"
+    },
+    {
+        "card_name": "Sophisticated Host",
+        "number": 39,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "Tomb Keeper",
+        "number": 81,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "Venemous Ambush",
+        "number": 122,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "Sanity Extraction",
+        "number": 158,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "80"
+    },
+    {
+        "card_name": "Webweave",
+        "number": 205,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "100"
+    },
+    {
+        "card_name": "Tomb Whisperer",
+        "number": 40,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "Trespass the Tomb",
+        "number": 82,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "Wither Away",
+        "number": 125,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "Writhing Fury",
+        "number": 166,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "69"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Unfinished Business",
+        "number": 41,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "Victim of Experimentation",
+        "number": 83,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Meribelle, the Poltergeist",
+        "number": 223,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "233"
+    },
+    {
+        "card_name": "Thriller",
+        "number": 232,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "237"
+    },
+    {
+        "card_name": "Dreadknot, Decapitated Fiend",
+        "number": 213,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "240"
+    },
+    {
+        "card_name": "Bloodcurl, the Dread Howler",
+        "number": 208,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "241"
+    },
+    {
+        "card_name": "Montague, Crafty Survivor",
+        "number": 224,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "236"
+    },
+    {
+        "card_name": "Street Creeper",
+        "number": 231,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "Jumpscare",
+        "number": 221,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "211"
+    },
+    {
+        "card_name": "Jack of Lanterns",
+        "number": 220,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "Neverending Pack",
+        "number": 225,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "Eversummer Exemplar",
+        "number": 215,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Prickett, Drowned Drowner",
+        "number": 227,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "186"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Shambling Legion",
+        "number": 229,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Kizrath, the Dusk Prince",
+        "number": 222,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "223"
+    },
+    {
+        "card_name": "Glutmeg, Crazed Alchemist",
+        "number": 217,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "238"
+    },
+    {
+        "card_name": "Ixophew, Hallows Spinner",
+        "number": 219,
+        "shape": "planeswalker",
+        "set": "UMB",
+        "rotated": false,
+        "position": "224"
+    },
+    {
+        "card_name": "Constantine, Chief Instigator",
+        "number": 212,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "235"
+    },
+    {
+        "card_name": "Eliot, the Smith of Flesh",
+        "number": 214,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "239"
+    },
+    {
+        "card_name": "Slynn, Identity Binder",
+        "number": 230,
+        "shape": "planeswalker",
+        "set": "UMB",
+        "rotated": false,
+        "position": "225"
+    },
+    {
+        "card_name": "Catalyst Specialist",
+        "number": 211,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "Akista, Mother Widow",
+        "number": 207,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "192"
+    },
+    {
+        "card_name": "Rabblegang",
+        "number": 228,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "Branchweft Crow",
+        "number": 210,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "Eve's Beginning",
+        "number": 216,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "228"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Omniform",
+        "number": 226,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "212"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Indulgent Extractor",
+        "number": 218,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Bloodglutton Spider",
+        "number": 209,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "The Clock Prison",
+        "number": 236,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "222"
+    },
+    {
+        "card_name": "Eerie Obelisk",
+        "number": 237,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "210"
+    },
+    {
+        "card_name": "Splitting Harvester",
+        "number": 244,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "208"
+    },
+    {
+        "card_name": "Birthing Boughs",
+        "number": 233,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "177"
+    },
+    {
+        "card_name": "Bloodline Pretender",
+        "number": 234,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "175"
+    },
+    {
+        "card_name": "Heap Doll",
+        "number": 239,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "174"
+    },
+    {
+        "card_name": "Ineffective Scarecrow",
+        "number": 240,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "176"
+    },
+    {
+        "card_name": "Melting Pot",
+        "number": 241,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "178"
+    },
+    {
+        "card_name": "Clever Costuming",
+        "number": 235,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "107"
+    },
+    {
+        "card_name": "Gravedigger's Amulet",
+        "number": 238,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "108"
+    },
+    {
+        "card_name": "Scuttlemutt",
+        "number": 242,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "105"
+    },
+    {
+        "card_name": "Silver Bolt",
+        "number": 243,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "109"
+    },
+    {
+        "card_name": "Surrogate Farmhand",
+        "number": 245,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "106"
+    },
+    {
+        "card_name": "Universal Automaton",
+        "number": 246,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "104"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Silent Grove",
+        "number": 249,
+        "shape": "transform double faced",
+        "set": "UMB",
+        "rotated": false,
+        "position": "220"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Cavern of Souls",
+        "number": 247,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "230"
+    },
+    {
+        "card_name": "Mutavault",
+        "number": 248,
+        "shape": "normal",
+        "set": "UMB",
+        "rotated": false,
+        "position": "229"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

@@ -1,0 +1,5123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>UMB</name>
+			<longname>Umbra</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-08-02</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Street Creeper</name>
+			<text>{1}, Sacrifice a creature: Draw a card.
+Haunt (When this creature dies, exile it haunting target creature.)
+Whenever a creature haunted by Street Creeper attacks, draw a card.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/0.png" num="231">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Indulgent Extractor</name>
+			<text>Lifelink
+Whenever you gain life, you may have each opponent lose that much life. Do this only once each turn.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/1.png" num="218">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rabblegang</name>
+			<text>Haste
+Rabblegang gets +1/+0 for each other creature you control.
+{T}, Sacrifice Rabblegang: Rabblegang deals damage equal to its power to target creature or planeswalker.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/2.png" num="228">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eversummer Exemplar</name>
+			<text>Vigilance
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/3.png" num="215">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shambling Legion</name>
+			<text>When Shambling Legion enters the battlefield, mill two cards and create a 2/2 black Zombie creature token.
+{T}, Sacrifice a creature: Choose target card in your graveyard. You may cast that card this turn. Spells cast this way gain &quot;If this card would be put into your graveyard from anywhere, exile it instead.&quot; (You still pay its costs. Timing rules still apply.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/4.png" num="229">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Catalyst Specialist</name>
+			<text>When Catalyst Specialist enters the battlefield, you may draw two cards. If you do, discard two cards.
+Whenever you cast a noncreature spell, put a +1/+1 counter on Catalyst Specialist.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/5.png" num="211">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jack of Lanterns</name>
+			<text>When Jack of Lanterns enters the battlefield, put a lifelink, menace, or trample counter on it.
+Whenever Jack of Lanterns attacks, another target creature you control gains each of Jack of Lanterns&apos;s other abilities until end of turn.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/6.png" num="220">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodglutton Spider</name>
+			<text>Reach
+{T}: Each opponent loses 1 life and you gain 1 life.
+Other creatures you control with reach have &quot;{T}: Each opponent loses 1 life and you gain 1 life.&quot;</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/7.png" num="209">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Neverending Pack</name>
+			<text>{2}{R}{G}: Choose one—
+• Create a 2/2 green Wolf creature token.
+• Creatures you control get +1/+1 and gain trample until end of turn.
+• You may discard a card. If you do, draw two cards.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/8.png" num="225">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Branchweft Crow</name>
+			<text>Ward {2}
+Branchweft Crow enters the battlefield with two +1/+1 counters and a flying counter on it.
+Amalgamate (At the beginning of your upkeep, you may move a counter from this creature onto another target creature you control.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/9.png" num="210">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Bird Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Authoritative Accuser</name>
+			<text>Whenever Authoritative Accuser attacks, other attacking Berserkers you control get +1/+0.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/10.png" num="1">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sophisticated Host</name>
+			<text>Whenever a creature you control dies, you gain 1 life.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/11.png" num="39">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Popular Leader</name>
+			<text>Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+At the beginning of your end step, if you control three or more creatures with counters on them, transform Popular Leader.
+---
+(Back): Personality of the Cult</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/12_front.png" num="30a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Personality of the Cult</related>
+		</card>
+		<card>
+			<name>Personality of the Cult</name>
+			<text>Vigilance
+Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+Creatures you control with counters on them have vigilance.
+---
+(Front): Popular Leader</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/12_back.png" num="30b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Popular Leader</related>
+		</card>
+		<card>
+			<name>Loyal Enforcer</name>
+			<text>{2}, Sacrifice a creature: Put a +1/+1 counter on Loyal Enforcer. Activate only as a sorcery.
+Haunt (When this creature dies, exile it haunting target creature.)
+Whenever a creature you control dies, you may tap or untap a creature haunted by Loyal Enforcer.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/13.png" num="23">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reveling Changeling</name>
+			<text>Changeling (This card is every creature type.)
+{1}, Sacrifice Reveling Changeling: Destroy target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/14.png" num="33">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Irregular Cohort</name>
+			<text>Changeling (This card is every creature type.)
+When Irregular Cohort enters the battlefield, create a 2/2 colorless Shapeshifter creature token with changeling.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/15.png" num="21">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inciting Individual</name>
+			<text>When Inciting Individual enters the battlefield, create a 1/1 red Berserker creature token.
+Whenever Inciting Individual and at least two other creatures attack, transform it.
+---
+(Back): Righteous Riot</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/16_front.png" num="19a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Righteous Riot</related>
+		</card>
+		<card>
+			<name>Righteous Riot</name>
+			<text>As long as it&apos;s your turn, Righteous Riot has first strike.
+Righteous Riot&apos;s power and toughness are each equal to the number of creatures you control.
+---
+(Front): Inciting Individual</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/16_back.png" num="19b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Human Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Inciting Individual</related>
+		</card>
+		<card>
+			<name>Patron of the Living</name>
+			<text>Lifelink
+When Patron of the Living enters the battlefield, target Vampire you control gains lifelink until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/17.png" num="29">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampre Knight Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inspirational Captain</name>
+			<text>Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/18.png" num="20">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Serene Apparition</name>
+			<text>Haunt (When this creature dies, exile it haunting target creature.)
+Creatures you don&apos;t control haunted by Serene Apparition can&apos;t attack.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/19.png" num="38">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hungering Guardian</name>
+			<text>Whenever you gain life, put a +1/+1 counter on Hungering Guardian.
+Sacrifice a creature: You gain 2 life. Activate only once each turn and only as a sorcery.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/20.png" num="14">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tomb Whisperer</name>
+			<text>When Tomb Whisperer enters the battlefield, put a +1/+1 counter on target creature you control.
+Whenever a nontoken creature you control with a counter on it dies, create a 1/1 white Spirit creature token with flying.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/21.png" num="40">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unfinished Business</name>
+			<text>Unfinished Business deals damage to target attacking or blocking creature equal to the number of creature cards you own in exile plus the number of creatures you control. If you control a Spirit, draw a card.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/22.png" num="41">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Spirit</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hold at the Stake</name>
+			<text>Enchant nonland permanent
+When Hold at the Stake enters the battlefield, if you control another Human, draw a card.
+Enchanted permanent can&apos;t attack or block, and its activated abilities can&apos;t be activated.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/23.png" num="12">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Human Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crib Swap</name>
+			<text>Changeling (This card is every creature type.)
+Exile target creature. Its controller creates a 1/1 colorless Shapeshifter creature token with changeling.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/24.png" num="3">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Shapeshifter</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Homestead Courage</name>
+			<text>Put a +1/+1 counter on target creature you control. It gains vigilance until end of turn.
+Flashback {W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/25.png" num="13">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sanguine Hospitality</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1, has lifelink, and is a Vampire in addition to its other types.
+When Sanguine Hospitality enters the battlefield, create a 1/1 black Vampire creature token with lifelink.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/26.png" num="36">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Vampire Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Incite Riot</name>
+			<text>Choose one—
+• Create three 1/1 red Berserker creature tokens.
+• Creatures you control get +2/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/27.png" num="18">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Berserker</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Secrets of the Restless</name>
+			<text>Exile the top two cards of your library face down and look at them. For as long as each of those cards remains exiled, if you would draw a card, you may instead put that card into your hand.
+Flashback {3}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/28.png" num="37">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Victim of Experimentation</name>
+			<text>Flying
+Victim of Experimentation enters the battlefield with a +1/+1 counter on it.
+Amalgamate (At the beginning of your upkeep, you may move a counter from this creature onto another target creature you control.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/29.png" num="83">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fickle Figment</name>
+			<text>Flying
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/30.png" num="51">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tomb Keeper</name>
+			<text>{U}, Sacrifice a creature: Any number of target players each mill two cards.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/31.png" num="81">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Homunculus</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Recurring Haunting</name>
+			<text>Create two 1/1 white Spirit creature tokens with flying.
+Flashback—{1}{U}, Sacrifice a Spirit. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/32.png" num="71">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Spirit</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>First Subject</name>
+			<text>First Subject enters the battlefield with a vigilance counter and a +1/+1 counter on it.
+Amalgamate (At the beginning of your upkeep, you may move a counter from this creature onto another target creature you control.)
+At the beginning of your end step, if First Subject has no counters on it, transform it.
+---
+(Back): Iterated Experiment</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/33_front.png" num="52a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Iterated Experiment</related>
+		</card>
+		<card>
+			<name>Iterated Experiment</name>
+			<text>Vigilance, ward {2}
+Whenever you draw a card, put a +1/+1 counter on Iterated Experiment.
+Amalgamate (At the beginning of your upkeep, you may move a counter from this creature onto another target creature you control.)
+---
+(Front): First Subject</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/33_back.png" num="52b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">First Subject</related>
+		</card>
+		<card>
+			<name>Novice Researcher</name>
+			<text>When Novice Researcher enters the battlefield, you may draw a card. If you do, discard a card.
+{2}{U}{U}: Transform Novice Researcher. Activate only as a sorcery and only if there are three or more instant and/or sorcery cards in your graveyard.
+---
+(Back): Seasoned Experimenter</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/34_front.png" num="68a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Seasoned Experimenter</related>
+		</card>
+		<card>
+			<name>Seasoned Experimenter</name>
+			<text>When this creature transforms into Seasoned Experimenter, return target instant or sorcery card from your graveyard to your hand.
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+---
+(Front): Novice Researcher</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/34_back.png" num="68b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Novice Researcher</related>
+		</card>
+		<card>
+			<name>Flaying Zombie</name>
+			<text>Flaying Zombie enters the battlefield with three +1/+1 counters on it.
+{U}, Remove a counter from Flaying Zombie: Target player mills two cards.
+{1}{U}, Remove three counters from Flaying Zombie: Draw a card.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/35.png" num="53">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soul of the Monster</name>
+			<text>Flying
+Haunt (When this creature dies, exile it haunting target creature.)
+When Soul of the Monster or the creature it haunts dies, create a 2/2 green and blue Mutant creature token.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/36.png" num="76">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Era-Worn Zombie</name>
+			<text>Era-Worn Zombie enters the battlefield tapped.
+{3}{U}, Exile a noncreature card from your graveyard: Return Era-Worn Zombie from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/37.png" num="49">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mindmister</name>
+			<text>Changeling (This card is every creature type.)
+{T}: Target player mills two cards.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/38.png" num="63">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Incomprehensible Mass</name>
+			<text>Changeling (This card is every creature type.)
+Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/39.png" num="61">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Strip Identity</name>
+			<text>Changeling (This card is every creature type.)
+Enchant creature
+When Strip Identity enters the battlefield, tap enchanted creature.
+Enchanted creature loses all creature types and doesn&apos;t untap during its controller&apos;s untap step.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/40.png" num="78">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Shapeshifter Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dissect</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature or pay {2}.
+Draw two cards.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/41.png" num="45">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Otherworldly Gaze</name>
+			<text>Surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Flashback {1}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/42.png" num="69">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Silent Departure</name>
+			<text>Return target creature to its owner&apos;s hand.
+Flashback {4}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/43.png" num="74">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Plasmform</name>
+			<text>Put a +1/+1 counter on target creature. It gains hexproof until end of turn. If you control a Mutant, draw a card.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/44.png" num="70">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Mutant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stream of Unconsciousness</name>
+			<text>Target creature gets -4/-0 until end of turn. If you control a Wizard, draw a card.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/45.png" num="77">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Wizard</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Trespass the Tomb</name>
+			<text>Any number of target players each mill three cards. If a creature card was milled this way, create a tapped 2/2 black Zombie creature token.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/46.png" num="82">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Zombie</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cryptspinner</name>
+			<text>Reach
+{3}{B}: Return Cryptspinner from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/47.png" num="93">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thirsty Neonate</name>
+			<text>Lifelink
+{1}, {T}: Thirsty Neonate deals 1 damage to target player or planeswalker.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/48.png" num="119">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Manyfaced Monstrosity</name>
+			<text>Manyfaced Monstrosity enters the battlefield with your choice of a deathtouch counter or a lifelink counter on it.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/49.png" num="104">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sanity Stealer</name>
+			<text>Changeling (This card is every creature type.)
+When Sanity Stealer enters the battlefield, you may discard a card. If you do, each opponent discards a card.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/50.png" num="116">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lone Crawler</name>
+			<text>When Lone Crawler enters the battlefield, mill two cards.
+At the beginning of your end step, if there are three or more creature cards in your graveyard, transform Lone Crawler.
+---
+(Back): Crawling Horde</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/51_front.png" num="103a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Crawling Horde</related>
+		</card>
+		<card>
+			<name>Crawling Horde</name>
+			<text>Crawling Horde gets +1/+1 for each creature card in your graveyard.
+---
+(Front): Lone Crawler</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/51_back.png" num="103b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Lone Crawler</related>
+		</card>
+		<card>
+			<name>Venemous Ambush</name>
+			<text>Create a 1/2 green Spider creature token with reach. Then, target creature gets -X/-X until end of turn, where X is the number of Spiders you control.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/52.png" num="122">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Spider</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hungering Vampire</name>
+			<text>Lifelink
+Whenever Hungering Vampire attacks, you may pay 6 life. If you do, transform it.
+---
+(Back): Starving Bloodmonger</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/53_front.png" num="101a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Starving Bloodmonger</related>
+		</card>
+		<card>
+			<name>Starving Bloodmonger</name>
+			<text>Flying, lifelink
+---
+(Front): Hungering Vampire</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/53_back.png" num="101b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Hungering Vampire</related>
+		</card>
+		<card>
+			<name>Pattern Carver</name>
+			<text>When Pattern Carver enters the battlefield, put a menace counter on another target Plant you control.
+Whenever another Plant creature you control dies, for each kind of counter that Plant put a counter of that kind on Pattern Carver.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/54.png" num="111">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Infested Zombie</name>
+			<text>{3}{B}, Exile Infested Zombie from your graveyard: Create two 1/2 green Spider creature tokens with reach. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/55.png" num="102">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Decadent Decorator</name>
+			<text>When Decadent Decorator enters the battlefield, create a 2/1 red Plant creature token, then you may put a lifelink counter on a creature you control with power 2 or less.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/56.png" num="94">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wither Away</name>
+			<text>Destroy target creature, then exile a card from its controller&apos;s graveyard.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/57.png" num="125">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Go for the Neck</name>
+			<text>Go for the Neck deals 2 damage to any target. You gain 2 life. If you control a Vampire, draw a card.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/58.png" num="95">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Vampire</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Body Modifier</name>
+			<text>Changeling (This card is every creature type.)
+When Body Modifier enters the battlefield, choose one—
+• Put a reach counter on target creature.
+• Put a menace counter on target creature.
+• Put a deathtouch counter on target creature.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/59.png" num="86">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crippling Condition</name>
+			<text>Destroy target creature with power 3 or less.
+Flashback {5}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/60.png" num="92">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tibalt&apos;s Proposition</name>
+			<text>You draw two cards and you lose 2 life.
+Flashback—{2}{B}, Pay 2 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/61.png" num="120">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Return from Extinction</name>
+			<text>Choose one —
+• Return target creature card from your graveyard to your hand.
+• Return two target creature cards that share a creature type from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/62.png" num="113">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Carve</name>
+			<text>Choose one—
+• Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.
+• Create a 2/1 red Plant creature token.
+• Put a deathtouch counter on target creature you control, then you gain life equal to the number of counters on that creature.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/63.png" num="88">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Plant</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bitter Legacy</name>
+			<text>Changeling (This card is every creature type.)
+Until end of turn, target creature gets +2/+0, gains all creature types, and gains &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/64.png" num="85">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Shapeshifter</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Claw Out</name>
+			<text>Return target creature card from your graveyard to the battlefield. Then if you control a Zombie, draw a card.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/65.png" num="91">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Zombie</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lantern Lighter</name>
+			<text>Whenever you cast a noncreature spell, choose a kind of counter that Lantern Lighter doesn&apos;t have on it from among first strike, menace, trample, and +1/+1. Put a counter on that kind on Lantern Lighter.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/66.png" num="146">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fiery Pup</name>
+			<text>Fiery Pup gets +1/+0 for each other permanent you control that&apos;s a Wolf or a Werewolf.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/67.png" num="134">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Martyr for the Mob</name>
+			<text>When Martyr for the Mob dies, create two 1/1 red Berserker creature tokens.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/68.png" num="151">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Writhing Fury</name>
+			<text>Changeling (This card is every creature type.)
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/69.png" num="166">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Experiment Overseer</name>
+			<text>Whenever Experiment Overseer or another Wizard enters the battlefield under your control, you may discard a card. If you do, draw a card.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/70.png" num="132">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flesh Shaper</name>
+			<text>{3}{R}: Put your choice of a trample counter or a menace counter on target creature.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/71.png" num="136">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brazen Rescuer</name>
+			<text>Haste
+Lycanthropy — At the beginning of each upkeep, if the player whose turn it was last turn cast no spells during that turn, transform Brazen Rescuer.
+---
+(Back): Brazen Tyrant</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/72_front.png" num="128a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Brazen Tyrant</related>
+		</card>
+		<card>
+			<name>Brazen Tyrant</name>
+			<text>Trample
+Lycanthropy — At the beginning of each upkeep, if the player whose turn it was last turn cast two or more spells during that turn, transform Brazen Tyrant.
+---
+(Front): Brazen Rescuer</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/72_back.png" num="128b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Brazen Rescuer</related>
+		</card>
+		<card>
+			<name>Emberwild Accusers</name>
+			<text>{R}, Sacrifice a creature: Emberwild Accusers deals 1 damage to target player or planeswalker.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/73.png" num="131">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gruesome Gang</name>
+			<text>When Gruesome Gang enters the battlefield, create two 2/1 red Plant creature tokens.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/74.png" num="141">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frenzied Villager</name>
+			<text>Whenever Frenzied Villager attacks, creatures you control get +1/+0 until end of turn.
+Lycanthropy — At the beginning of each upkeep, if the player whose turn it was last turn cast no spells during that turn, transform Frenzied Villager.
+---
+(Back): Frenzied Werewolf</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/75_front.png" num="138a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Berserker Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Frenzied Werewolf</related>
+		</card>
+		<card>
+			<name>Frenzied Werewolf</name>
+			<text>Whenever Frenzied Werewolf attacks, creatures you control get +2/+0 until end of turn.
+Lycanthropy — At the beginning of each upkeep, if the player whose turn it was last turn cast two or more spells during that turn, transform Frenzied Werewolf.
+---
+(Front): Frenzied Villager</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/75_back.png" num="138b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Werewolf Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Frenzied Villager</related>
+		</card>
+		<card>
+			<name>Firebolt</name>
+			<text>Firebolt deals 2 damage to any target.
+Flashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/76.png" num="135">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Make a Scene</name>
+			<text>Choose one—
+• Make a Scene deals damage to target creature or planeswalker equal to the number of creatures you control.
+• Make a Scene deals damage to target creature or planeswalker equal to the greatest power among creatures you control.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/77.png" num="150">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Radicalize</name>
+			<text>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Then if you control a Berserker, draw a card.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/78.png" num="157">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Berserker</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Freak Show</name>
+			<text>Changeling (This card is every creature type.)
+Until end of turn, creatures you control get +2/+0 and gain all creature types.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/79.png" num="137">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Shapeshifter</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sanity Extraction</name>
+			<text>As an additional cost to cast this spell, discard a card.
+Draw two cards. If this spell was cast from a graveyard, create a 1/1 blue and red Wizard creature token.
+Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/80.png" num="158">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Wizard</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lunar Pull</name>
+			<text>Flash
+Enchant creature
+Enchanted creature gets +2/+0.
+When enchanted creature dies, create a 2/2 green Wolf creature token.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/81.png" num="148">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Werewolf Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Inner Blaze</name>
+			<text>Target creature gets +1/+1 until end of turn. Put a trample counter on it. If you control a Plant, draw a card.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/82.png" num="143">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Plant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Abandon the Post</name>
+			<text>Up to two target creatures can&apos;t block this turn.
+Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/83.png" num="126">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nameless Monster</name>
+			<text>Changeling (This card is every creature type.)
+When Nameless Monster enters the battlefield, creatures you control gain menace until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/84.png" num="154">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Naive Traveler</name>
+			<text>Lycanthropy — At the beginning of each upkeep, if the player whose turn it was last turn cast no spells during that turn, transform Naive Traveler.
+---
+(Back): Scourge of the Path</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/85_front.png" num="188a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Scourge of the Path</related>
+		</card>
+		<card>
+			<name>Scourge of the Path</name>
+			<text>Trample
+Lycanthropy — At the beginning of each upkeep, if the player whose turn it was last turn cast two or more spells during that turn, transform Scourge of the Path.
+---
+(Front): Naive Traveler</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/85_back.png" num="188b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Naive Traveler</related>
+		</card>
+		<card>
+			<name>Deadly Recluse</name>
+			<text>Reach, deathtouch</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/86.png" num="175">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unveil the Abnormal</name>
+			<text>Create a 2/2 green and blue Mutant creature token, then you may move any number of counters from other permanents you control onto that token.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/87.png" num="201">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Mutant</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Multieyed Monstrosity</name>
+			<text>Multieyed Monstrosity enters the battlefield with two +1/+1 counters and a reach counter on it.
+Amalgamate (At the beginning of your upkeep, you may move a counter from this creature onto another target creature you control.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/88.png" num="187">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bounding Wolf</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+Reach</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/89.png" num="172">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brambleskin</name>
+			<text>Changeling (This card is every creature type.)
+When Brambleskin enters the battlefield, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/90.png" num="173">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Legacy Forger</name>
+			<text>Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+Legacy Forger has haste as long as you control another human.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/91.png" num="183">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unnatural Nature</name>
+			<text>Changeling (This card is every creature type.)
+Trample</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/92.png" num="200">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Expert Survivalist</name>
+			<text>Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+Lycanthropy — At the beginning of each upkeep, if the player whose turn it was last turn cast no spells during that turn, put a +1/+1 counter on Expert Survivalist and transform it.
+---
+(Back): Seasoned Hunter</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/93_front.png" num="179a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Seasoned Hunter</related>
+		</card>
+		<card>
+			<name>Seasoned Hunter</name>
+			<text>Each creature you control with a counter on it has trample.
+Lycanthropy — At the beginning of each upkeep, if the player whose turn it was last turn cast two or more spells during that turn, transform Seasoned Hunter.
+---
+(Front): Expert Survivalist</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/93_back.png" num="179b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Expert Survivalist</related>
+		</card>
+		<card>
+			<name>Longleg Broodmother</name>
+			<text>Vigilance, reach
+Other creatures you control with reach have vigilance.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/94.png" num="184">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gorehusk</name>
+			<text>When Gorehusk enters the battlefield, distribute a +1/+1 counter and a trample counter among one or two target Mutant creatures.
+Amalgamate (At the beginning of your upkeep, you may move a counter from this creature onto another target creature you control.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/95.png" num="180">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Take Prey</name>
+			<text>Target creature you control deals damage equal to its power or equal to its toughness, whichever is greater, to target creature you don&apos;t control.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/96.png" num="195">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pull of the Moon</name>
+			<text>Target creature gets +3/+3 until end of turn. If you control a Wolf or Werewolf, you may draw a card.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/97.png" num="190">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Werewolf</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Overadapt</name>
+			<text>Choose two—
+• Put a +1/+1 counter on target creature.
+• Put a reach counter on target creature.
+• Put a deathtouch counter on target creature.
+Flashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/98.png" num="189">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tapping at the Window</name>
+			<text>Look at the top three cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest into your graveyard.
+Flashback {2}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/99.png" num="196">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Webweave</name>
+			<text>Flash
+Enchant creature
+When Webweave enters the battlefield, if you control another Spider, draw a card.
+Enchanted creature gets +1/+2 and has reach.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/100.png" num="205">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Spider Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Thousandform</name>
+			<text>Changeling (This card is every creature type.)
+Enchant creature
+Enchanted creature gets +1/+1 and is every creature type.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/101.png" num="198">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Shapeshifter Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Settle the Homestead</name>
+			<text>Enchant land
+Enchanted land has &quot;{T}: Add two mana of any one color.&quot;
+{4}{G}, Sacrifice Settle the Homestead: Create two 1/1 white Human Soldier creature tokens. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/102.png" num="193">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Human Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Return to Nature</name>
+			<text>Choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Exile target card from a graveyard.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/103.png" num="192">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Universal Automaton</name>
+			<text>Changeling (This card is every creature type.)</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/104.png" num="246">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scuttlemutt</name>
+			<text>{T}: Add one mana of any color.
+{T}: Target creature becomes the color or colors of your choice until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/105.png" num="242">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Surrogate Farmhand</name>
+			<text>{2}: Surrogate Farmhand gains your choice of vigilance, reach, or trample until end of turn.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/106.png" num="245">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clever Costuming</name>
+			<text>Equipped creature gets +0/+1, has ward {1}, and is every creature type. (Whenever equipped creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Equip {1}</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/107.png" num="235">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gravedigger&apos;s Amulet</name>
+			<text>When Gravedigger&apos;s Amulet enters the battlefield, target player mills three cards.
+{T}, Sacrifice Gravedigger&apos;s Amulet: Add one mana of any color.
+{T}, Sacrifice Gravedigger&apos;s Amulet: Return target land card from your graveyard to your hand</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/108.png" num="238">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Silver Bolt</name>
+			<text>{3}, {T}, Sacrifice Silver Bolt: It deals 3 damage to target creature. If a Werewolf is dealt damage this way, destroy it.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/109.png" num="243">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Imaginary Friend</name>
+			<text>Haunt (When this creature dies, exile it haunting target creature.)
+Creatures you control haunted by Imaginary Friend get +2/+1.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/110.png" num="16">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Imperiled Villager</name>
+			<text>Whenever a counter is put on Imperiled Villager, it gains indestructible until end of turn.
+Whenever Imperiled Villager blocks or becomes blocked, transform it at the end of combat.
+---
+(Back): Fiendhunter Coalition</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/111_front.png" num="17a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Fiendhunter Coalition</related>
+		</card>
+		<card>
+			<name>Fiendhunter Coalition</name>
+			<text>Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+Whenever a counter is put on a creature you control, you may exile target creature until Fiendhunter Coalition leaves the battlefield. This ability triggers only once each turn.
+---
+(Front): Imperiled Villager</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/111_back.png" num="17b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Imperiled Villager</related>
+		</card>
+		<card>
+			<name>Riot Harbinger</name>
+			<text>First strike
+When Riot Harbinger enters the battlefield, you may search your library for a Berserker card, reveal it, then shuffle and put that card on top.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/112.png" num="34">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ethereal Procession</name>
+			<text>Flying
+Other Spirit creatures you control get +1/+1.
+Haunt (When this creature dies, exile it haunting target creature.)
+Whenever a creature haunted by Ethereal Procession attacks, create a 1/1 white Spirit creature token with flying.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/113.png" num="5">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gala Harbinger</name>
+			<text>Lifelink
+When Gala Harbinger enters the battlefield, you may search your library for a Vampire card, reveal it, then shuffle and put that card on top.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/114.png" num="9">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eversummer Coalition</name>
+			<text>Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+Other Human creatures you control get +1/+1.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/115.png" num="6">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Martyr&apos;s Curse</name>
+			<text>Sacrifice a creature: The next time a source of your choice would deal damage to any target this turn, prevent that damage.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/116.png" num="26">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Frightveil</name>
+			<text>Changeling (This card is every creature type.)
+When Frightveil enters the battlefield, for each player, you may exile a card from that player&apos;s graveyard.
+Frightveil gets +1/+1 for each card you own in exile.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/117.png" num="8">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Outcast</name>
+			<text>Exile target creature or planeswalker with mana value less than or equal to the number of creatures you control.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/118.png" num="28">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Berserker</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Exorcism</name>
+			<text>Exile target creature you control, then you may put a creature card you own with mana value less than or equal to the exiled creature&apos;s mana value from exile onto the battlefield under your control.
+Flashback {4}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/119.png" num="7">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rise from the Coffin</name>
+			<text>Return target creature card with mana value 3 or less from your graveyard to the battlefield. You gain X life, where X is 3 minus that creature&apos;s mana value.
+Flashback {4}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/120.png" num="35">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Horde Harbinger</name>
+			<text>Horde Harbinger enters the battlefield tapped.
+When Horde Harbinger enters the battlefield, you may search your library for a Zombie card, reveal it, then shuffle and put that card on top.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/121.png" num="60">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Apex Monstrosity</name>
+			<text>Apex Monstrosity enters the battlefield with a +1/+1 counter on it.
+Other Mutant creatures you control get +1/+1.
+Amalgamate (At the beginning of your upkeep, you may move a counter from this creature onto another target creature you control.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/122.png" num="44">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Haunt Harbinger</name>
+			<text>When Haunt Harbinger enters the battlefield, you may search your library for a Spirit card, reveal it, then shuffle and put that card on top.
+Haunt (When this creature dies, exile it haunting target creature.)
+Prevent all combat damage that would be dealt to and dealt by creatures haunted by Haunt Harbinger.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/123.png" num="59">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Essence of the Uncanny</name>
+			<text>Essence of the Uncanny enters the battlefield with a hexproof counter on it.
+Amalgamate (At the beginning of your upkeep, you may move a counter from this creature onto another target creature you control.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/124.png" num="50">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seasoned Experimenter</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Other Wizard creatures you control get +1/+1.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/125.png" num="73">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dreamweft Changeling</name>
+			<text>Changeling (This card is every creature type.)
+When Dreamweft Changeling enters the battlefield, target player mills three cards.
+Whenever a spell or ability you control causes an opponent to mill one or more cards, you may exile a nonland card milled this way. Until your next end step, you may cast the exiled card and you may spend mana as though it were mana of any color to cast that spell.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/126.png" num="47">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Genome Study</name>
+			<text>Choose a creature type. Draw a card for each permanent you control of that type.
+Flashback {6}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/127.png" num="56">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Supernatural Intervention</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature or pay {1}{U}.
+Counter target spell.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/128.png" num="79">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Spirit</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Multimutate</name>
+			<text>Put a +1/+1 counter on target creature you control, then you may move any number of counters from among creatures you control onto that creature.
+Flashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/129.png" num="64">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Forbidden Alchemy</name>
+			<text>Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.
+Flashback {6}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/130.png" num="54">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Helpless Victim</name>
+			<text>At the beginning of your upkeep, mill three cards. For each creature card milled this way, Helpless Victim gets -1/-1 until end of turn.
+{B}{B}: Put Helpless Victim from your graveyard onto the battlefield tapped and transformed.
+---
+(Back): Growing Horde</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/131_front.png" num="99a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Growing Horde</related>
+		</card>
+		<card>
+			<name>Growing Horde</name>
+			<text>When Growing Horde enters the battlefield, you may pay {X} and exile X creature cards from your graveyard. If you do, create X tapped 2/2 black Zombie creature tokens.
+If Growing Horde would leave the battlefield, exile it instead.
+---
+(Front): Helpless Victim</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/131_back.png" num="99b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Helpless Victim</related>
+		</card>
+		<card>
+			<name>Noble Suitor</name>
+			<text>Lifelink
+{T}: Noble Suitor deals 1 damage to another target creature. That creature becomes a Vampire in addition to its other types.
+{T}, Exile target Vampire you control: Transform Noble Suitor.
+---
+(Back): Bloodthirsty Beloveds</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/132_front.png" num="108a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Vampire Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Bloodthirsty Beloveds</related>
+		</card>
+		<card>
+			<name>Bloodthirsty Beloveds</name>
+			<text>Flying, lifelink
+Bloodthirsty Beloveds gets +X/+Y, where X is the total power of creature cards exiled with it and Y is the total toughness of creature cards exiled with it.
+Bloodthirsty Beloveds has all abilities of creature cards exiled with it.
+---
+(Front): Noble Suitor</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/132_back.png" num="108b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Vampire Noble</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Noble Suitor</related>
+		</card>
+		<card>
+			<name>Patch Harbinger</name>
+			<text>Deathtouch
+When Patch Harbinger enters the battlefield, you may search your library for a Plant card, reveal it, then shuffle and put that card on top.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/133.png" num="110">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ceaseless Crawler</name>
+			<text>Other Zombie creatures you control get +1/+1.
+{3}{B}, Exile three other cards from your graveyard: Return Ceaseless Crawler from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/134.png" num="90">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Webspinner Harbinger</name>
+			<text>Reach
+When Webspinner Harbinger enters the battlefield, you may search your library for a Spider card, reveal it, then shuffle and put that card on top.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/135.png" num="124">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Graveshifter</name>
+			<text>Changeling (This card is every creature type.)
+When Graveshifter enters the battlefield, you may return target creature card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/136.png" num="96">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hemohone</name>
+			<text>Changeling (This card is every creature type.)
+Hemohone enters the battlefield with your choice of a deathtouch counter or a lifelink counter on it.
+As long as Hemohone has deathtouch, other creatures you control with deathtouch get +1/+1. 
+As long as Hemohone has lifelink, other creatures you control with lifelink get +1/+1.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/137.png" num="100">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spindly Demise</name>
+			<text>This spell costs {X} less to cast, where X is the greatest toughness among creatures you control.
+Destroy target creature or planeswalker.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/138.png" num="118">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Spider</type>
+				<maintype>Instant</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cadaver Stitching</name>
+			<text>At the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{3}{B}, Sacrifice Cadaver Stitching: Return target creature card from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/139.png" num="87">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Harvest</name>
+			<text>Each player sacrifices a creature, then you create a 2/1 red Plant creature token. If a creature sacrificed this way had flying, put a flying counter on that token. Repeat this process for first strike, double strike, deathtouch, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/140.png" num="98">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Plant</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mark of Mutilation</name>
+			<text>Mark of Mutilation deals 1 damage to any target. When damage is dealt to a creature this way, put a +1/+1 counter and a menace counter on that creature.
+Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/141.png" num="105">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Newborn Hunter</name>
+			<text>Changeling (This card is every creature type.)
+Double strike
+{1}{R}: Newborn Hunter gets +1/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/142.png" num="155">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glimmer Harvester</name>
+			<text>{2}{R}: Choose a kind of counter on another target creature you control that Glimmer Harvester doesn&apos;t have on it. Put a counter of that kind on Glimmer Harvester.
+At the beginning of your end step, if there are three or more kinds of counters on Glimmer Harvester, you may transform it.
+---
+(Back): Glimmering Reaper</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/143_front.png" num="140a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Glimmering Reaper</related>
+		</card>
+		<card>
+			<name>Glimmering Reaper</name>
+			<text>Whenever a creature enters the battlefield under your control, if Glimmering Reaper has any counters on it, choose a kind of counter on Glimmering Reaper and put a counter of that kind on that creature.
+---
+(Front): Glimmer Harvester</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/143_back.png" num="140b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Glimmer Harvester</related>
+		</card>
+		<card>
+			<name>Laboratory Harbinger</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When Laboratory Harbinger enters the battlefield, you may search your library for a Wizard card, reveal it, then shuffle and put that card on top.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/144.png" num="145">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Moonpack Harbinger</name>
+			<text>When Moonpack Harbinger enters the battlefield, you may search your library for a Wolf or Werewolf card, reveal it, then shuffle and put that card on top.
+Lycanthropy — At the beginning of each upkeep, if the player whose turn it was last turn cast no spells during that turn, transform Moonpack Harbinger.
+---
+(Back): Moonpackpack Hunter</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/145_front.png" num="153a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Moonpackpack Hunter</related>
+		</card>
+		<card>
+			<name>Moonpackpack Hunter</name>
+			<text>Trample
+Lycanthropy — At the beginning of each upkeep, if the player whose turn it was last turn cast two or more spells during that turn, transform Moonpackpack Hunter.
+---
+(Front): Moonpack Harbinger</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/145_back.png" num="153b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Moonpack Harbinger</related>
+		</card>
+		<card>
+			<name>King of the Patch</name>
+			<text>Other Plant creatures you control get +1/+1.
+{R}, {T}: Put your choice of a menace counter or a trample counter on target Plant you control.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/146.png" num="144">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spirit of Anarchy</name>
+			<text>Other Berserker creatures you control get +1/+1.
+{3}{R}: Create a 1/1 red Berserker creature token. That creature gains haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/147.png" num="160">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lavaformed Monster</name>
+			<text>Changeling (This card is every creature type.)
+Whenever a creature you control with power 2 or less attacks, Lavaformed Monster deals 1 damage to the player or planeswalker that creature is attacking.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/148.png" num="147">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Carved Up</name>
+			<text>Put your choice of a first strike counter, a menace counter, or a trample counter on target creature you control. Then if that creature has first strike, creatures you control gain first strike until end of turn. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/149.png" num="129">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lunar Rage</name>
+			<text>At the beginning of your end step, if you didn&apos;t cast a spell this turn, put a howl counter on Lunar Rage.
+{R}: Lunar Rage deals damage to each opponent equal to the number of howl counters on it. Activate only once each turn and only as a sorcery.
+{3}{R}, Sacrifice Lunar Rage: It deals damage to each of up to two target creatures and/or planeswalkers equal to the number of howl counters on it.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/150.png" num="149">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Werewolf</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Terror in the Streets</name>
+			<text>Creatures you control gain double strike until end of turn.
+Flashback {7}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/151.png" num="161">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Power Up</name>
+			<text>When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
+Flashback {2}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/152.png" num="156">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Exemplar Arachnid</name>
+			<text>Reach
+Other Spider creatures you control get +1/+1.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/153.png" num="178">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Adopted Packmate</name>
+			<text>Each other creature you control that&apos;s a Werewolf or a Wolf gets +1/+1.
+Lycanthropy — At the beginning of each upkeep, if the player whose turn it was last turn cast no spells during that turn, transform Adopted Packmate.
+---
+(Back): Moonpack Alpha</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/154_front.png" num="168a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Moonpack Alpha</related>
+		</card>
+		<card>
+			<name>Moonpack Alpha</name>
+			<text>Each other creature you control that&apos;s a Wolf or a Werewolf gets +2/+1.
+Lycanthropy — At the beginning of each upkeep, if the player whose turn it was last turn cast two or more spells during that turn, transform Moonpack Alpha.
+---
+(Front): Adopted Packmate</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/154_back.png" num="168b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Adopted Packmate</related>
+		</card>
+		<card>
+			<name>Eversummer Harbinger</name>
+			<text>Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+When Eversummer Harbinger enters the battlefield, you may search your library for a Human card, reveal it, then shuffle and put that card on top.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/155.png" num="177">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Monstrosity Harbinger</name>
+			<text>Monstrosity Harbinger enters the battlefield with a +1/+1 counter on it.
+When Monstrosity Harbinger enters the battlefield, you may search your library for a Mutant card, reveal it, then shuffle and put that card on top.
+Amalgamate (At the beginning of your upkeep, you may move a counter from this creature onto another target creature you control.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/156.png" num="186">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Active Hunter</name>
+			<text>Reach
+Each creature you control with reach assigns combat damage equal to its toughness rather than its power.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/157.png" num="167">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Humble Outcast</name>
+			<text>Changeling (This card is every creature type.)
+When Humble Outcast enters the battlefield, distribute, a +1/+1 counter, a reach counter, a vigilance counter, and a trample counter among creatures you control.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/158.png" num="181">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Markmaker</name>
+			<text>Whenever this creature enters the battlefield or transforms into Markmaker, put a +1/+1 counter on it.
+Lycanthropy — At the beginning of each upkeep, if the player whose turn it was last turn cast no spells during that turn, transform Markmaker.
+---
+(Back): Moonpack Butcher</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/159_front.png" num="185a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Moonpack Butcher</related>
+		</card>
+		<card>
+			<name>Moonpack Butcher</name>
+			<text>Whenever this creature transforms into Moonpack Butcher, you may have it fight target non-Werewolf creature you don&apos;t control.
+Lycanthropy — At the beginning of each upkeep, if the player whose turn it was last turn cast two or more spells during that turn, transform Moonpack Butcher.
+---
+(Front): Markmaker</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/159_back.png" num="185b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Markmaker</related>
+		</card>
+		<card>
+			<name>Blessweaver</name>
+			<text>Changeling (This card is every creature type.)
+When, Blessweaver enters the battlefield, look at the top four cards of your library. You may reveal an enchantment card from among them and put that card into your hand, then shuffle.
+Whenever an enchantment enters the battlefield under your control, put a +1/+1 counter on target creature.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/160.png" num="171">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Latent Growth</name>
+			<text>{G}: Move a counter from a creature you control onto Latent Growth. Activate only as a sorcery.
+Amalgamate (At the beginning of your upkeep, you may move a counter from this permanent onto another target creature you control.)
+{1}, Remove two counters from Latent Growth: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/161.png" num="182">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Mutant</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Restore the Day</name>
+			<text>Choose one or both —
+• Return target creature card from your graveyard to your hand.
+• Return target enchantment card from your graveyard to your hand.
+Flashback {6}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/162.png" num="191">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Thrill of the Kill</name>
+			<text>Target creature you control fights target creature you don&apos;t control.
+Flashback {5}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/163.png" num="199">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Macabre Festivites</name>
+			<text>When Macabre Festivites enters the battlefield, create a 1/1 black Vampire creature token with lifelink.
+Whenever you gain life, put a +1/+1 counter on up to one target creature.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/164.png" num="24">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Vampire</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Recurring Infestation</name>
+			<text>Whenever one or more cards leave your graveyard or you activate an ability of a card in your graveyard, create a tapped 2/2 black Zombie creature token. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/165.png" num="72">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Zombie</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Grisly Sustenance</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+You gain life and draw cards equal to the sacrificed creature&apos;s toughness.
+Flashback {5}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/166.png" num="97">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Explosion of Results</name>
+			<text>Explosion of Results deals damage to target creature or planeswalker equal to the total number of noncreature cards you own in exile and in your graveyard.
+Flashback {4}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/167.png" num="133">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Wizard</type>
+				<maintype>Instant</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Decorated Valor</name>
+			<text>Enchant creature
+Whenever an Aura becomes attached to enchanted creature (including Decorated Valor), draw a card.
+Whenever one or more counters are put on enchanted creature, draw a card.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/168.png" num="176">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Human Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Collector of Souls</name>
+			<text>Changeling (This card is every creature type.)
+Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Whenever another creature you control dies, you may note one of its creature types that hasn&apos;t been noted for Collector of Souls. Then you may transform Collector of Souls.
+---
+(Back): Bearer of Souls</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/169_front.png" num="2a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Bearer of Souls</related>
+		</card>
+		<card>
+			<name>Bearer of Souls</name>
+			<text>Changeling (This card is every creature type.)
+Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Bearer of Souls gets +1/+1 for each creature type noted for it.
+---
+(Front): Collector of Souls</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/169_back.png" num="2b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Collector of Souls</related>
+		</card>
+		<card>
+			<name>Glyph Seeker</name>
+			<text>Changeling (This card is every creature type.)
+When Glyph Seeker enters the battlefield, target player mills three cards.
+At the beginning of your end step, if there are ten or more cards in your graveyard, transform Glyph Seeker.
+---
+(Back): Awoken Arcane</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/170_front.png" num="58a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Awoken Arcane</related>
+		</card>
+		<card>
+			<name>Awoken Arcane</name>
+			<text>Changeling (This card is every creature type.)
+Awoken Arcane&apos;s power and toughness are each equal to the number of noncreature cards you own in your graveyard and in exile.
+---
+(Front): Glyph Seeker</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/170_back.png" num="58b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Glyph Seeker</related>
+		</card>
+		<card>
+			<name>Master of the House</name>
+			<text>Whenever you gain life, each opponent loses 1 life.
+Other Vampire creatures you control get +1/+1.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/171.png" num="106">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heretic Warlord</name>
+			<text>Whenever an attacking nontoken creature you control dies, create two tapped 1/1 red Berserker creature tokens.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/172.png" num="142">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alpha Authority</name>
+			<text>Enchant creature
+Enchanted creature has hexproof and can&apos;t be blocked by more than one creature.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/173.png" num="169">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Heap Doll</name>
+			<text>Sacrifice Heap Doll: Exile target card from a graveyard.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/174.png" num="239">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodline Pretender</name>
+			<text>Changeling (This card is every creature type.)
+As Bloodline Pretender enters the battlefield, choose a creature type.
+Whenever another creature of the chosen type enters the battlefield under your control, put a +1/+1 counter on Bloodline Pretender.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/175.png" num="234">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ineffective Scarecrow</name>
+			<text>Defender, reach
+At the beginning of your upkeep, each opponent creates a 1/2 blue Bird creature token with flying named Storm Crow.
+At the beginning of your end step, if an opponent controls three or more creatures with flying, you may transform Ineffective Scarecrow.
+---
+(Back): Nested Scarecrow</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/176_front.png" num="240a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>0/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Nested Scarecrow</related>
+		</card>
+		<card>
+			<name>Nested Scarecrow</name>
+			<text>Defender, reach
+When this creature transforms into Nested Scarecrow, gain control of all Bird tokens.
+Bird creatures you control get +1/+1.
+{4}, {T}: Create a 1/2 blue Bird creature token with flying named Storm Crow.
+---
+(Front): Ineffective Scarecrow</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/176_back.png" num="240b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Ineffective Scarecrow</related>
+		</card>
+		<card>
+			<name>Birthing Boughs</name>
+			<text>{4}, {T}: Create a 2/2 colorless Shapeshifter creature token with changeling. (It has every creature type.)</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/177.png" num="233">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Melting Pot</name>
+			<text>Changeling (This card is every creature type.)
+Whenever another permanent enters the battlefield under your control, if it has one or more creature types, note one of those creature types that you haven&apos;t noted for cards named Melting Pot. If you do, draw a card.</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/178.png" num="241">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Artifact — Shapeshifter</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Klaus, Eversummer Vanguard</name>
+			<text>Creatures you control with power less than Klaus, Eversummer Vanguard&apos;s power have protection from each of your opponents. (They can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything controlled by those players.)</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/179.png" num="22">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wicker Effigy</name>
+			<text>{1}{W}, {T}, Sacrifice a creature: Choose one. Activate only as a sorcery.
+• Create two Food tokens. (They&apos;re artifacts with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)
+• Create two 1/1 white Human creature tokens.
+• Creatures you control get +1/+1 and gain vigilance until end of turn.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/180.png" num="42">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Possessed Stranger</name>
+			<text>At the beginning of combat on your turn, sacrifice another creature. If you do, Possessed Stranger becomes a 3/3 black Demon until end of turn and gains flying until end of turn. If you can&apos;t, sacrifice Possessed Stranger.
+When Possessed Stranger dies, return it to the battlefield transformed under your control attached to target creature.
+---
+(Back): Demon Within</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/181_front.png" num="31a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Demon Within</related>
+		</card>
+		<card>
+			<name>Demon Within</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t attack or block. That creature&apos;s controller may sacrifice a creature to ignore this effect until end of turn.
+Enchanted creature has base power and toughness 3/3 and has flying.
+---
+(Front): Possessed Stranger</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/181_back.png" num="31b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Possessed Stranger</related>
+		</card>
+		<card>
+			<name>Enhancement Chamber</name>
+			<text>Enhancement Chamber enters the battlefield with a +1/+1 counter, a flying counter, and a vigilance counter on it.
+At the beginning of your end step, if a creature you control has six or more kinds of counters on it, you win the game.
+Amalgamate (At the beginning of your upkeep, you may move a counter from this permanent onto another target creature you control.)</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/182.png" num="48">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Artifact — Mutant</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nemesis of Identities</name>
+			<text>Changeling (This card is every creature type.)
+You may have Nemesis of Identities enter the battlefield as a copy of any creature on the battlefield, except it&apos;s every creature type in addition to its other creature types.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/183.png" num="67">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mystical Tutor</name>
+			<text>Search your library for an instant or sorcery card, reveal it, then shuffle and put that card on top.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/184.png" num="65">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rise of The Living Dead</name>
+			<text>Return all creature cards from your graveyard to the battlefield tapped. Each of them is a 2/2 black Zombie in addition to its other colors and types. Exile Rise of The Living Dead.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/185.png" num="114">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Zombie</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Prickett, Drowned Drowner</name>
+			<text>Whenever a player mills one or more cards for the first time during each of your turns, you create a tapped 2/2 black Zombie creature token.
+{U}{B}, Exile Prickett, Drowned Drowner from your graveyard: Return any number of other Zombie cards with total mana value X or less from your graveyard to your hand, where X is the number of Zombies you control.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/186.png" num="227">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cast into Gloom</name>
+			<text>Until end of turn, creatures have base power and toughness 0/0.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/187.png" num="89">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nightmare Amalgam</name>
+			<text>Changeling (This card is every creature type.)
+When Nightmare Amalgam enters the battlefield, put a menace counter on target creature. Then if there are ten or more cards in your graveyard, put a lifelink counter on that creature. Then if there are twenty or more cards in your graveyard, put a deathtouch counter on that creature. Then if there are thirty or more cards in your graveyard, put an indestructible counter on that creature.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/188.png" num="107">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arcana Chaser</name>
+			<text>Changeling (This card is every creature type.)
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever Arcana Chaser attacks, you may discard your hand. If you do, draw cards equal to Arcana Chaser&apos;s power.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/189.png" num="127">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Two-Headed Hound</name>
+			<text>Double strike
+When Two-Headed Hound dies, put a double strike counter on target creature you control.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/190.png" num="164">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Waxing Moon</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Creatures you control get +1/+0 for as long as you control Waxing Moon.
+Put a trample counter on each creature you control.
+Discard any number of cards, then draw that many cards.
+Exile this Saga, then return it to the battlefield transformed under your control.
+---
+(Back): Accursed Moon</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/191_front.png" num="165a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Accursed Moon</related>
+		</card>
+		<card>
+			<name>Accursed Moon</name>
+			<text>Nonbasic lands are mountains.
+If a creature you control would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.
+{1}{R}: Creatures you control get +1/+0 until end of turn.
+---
+(Front): The Waxing Moon</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/191_back.png" num="165b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">The Waxing Moon</related>
+		</card>
+		<card>
+			<name>Akista, Mother Widow</name>
+			<text>Reach
+Whenever another nontoken Spider enters the battlefield under your control, create a 1/2 green Spider creature token with reach.
+Creatures you control with reach have &quot;You may have this creature assign its combat damage as though it weren&apos;t blocked.&quot;</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/192.png" num="207">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>4BG</manacost>
+				<cmc>6</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Waker of the Hunt</name>
+			<text>Whenever this creature enters the battlefield or transforms into Waker of the Hunt, you may mill three cards. If a creature card is milled this way, create a 2/2 green Wolf creature token.
+Lycanthropy — At the beginning of each upkeep, if the player whose turn it was last turn cast no spells during that turn, transform Waker of the Hunt.
+---
+(Back): Soul of the Hunt</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/193_front.png" num="204a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Werewolf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Soul of the Hunt</related>
+		</card>
+		<card>
+			<name>Soul of the Hunt</name>
+			<text>Whenever this creature transforms into Soul of the Hunt, you may return target card from your graveyard to your hand.
+Lycanthropy — At the beginning of each upkeep, if the player whose turn it was last turn cast two or more spells during that turn, transform Soul of the Hunt.
+---
+(Front): Waker of the Hunt</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/193_back.png" num="204b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Werewolf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Waker of the Hunt</related>
+		</card>
+		<card>
+			<name>Crawling Skin</name>
+			<text>Enchant creature
+Whenever enchanted creature deals damage to another creature not enchanted by an aura named Crawling Skin, create a token that&apos;s a copy of Crawling Skin attached to that creature. (It must survive the damage to get the Aura. You control that Aura.)
+When enchanted creature dies, create X 1/2 green Spider creature tokens with reach, where X is its toughness.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/194.png" num="174">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Spider Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vulpine Trickster</name>
+			<text>Changeling (This card is every creature type.)
+Flash
+You may cast creature spells as though they had flash.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/195.png" num="203">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Attack of the Waking Woods</name>
+			<text>Untap any number of lands you control. Until end of turn, those lands become 2/2 Elemental creatures with haste and indestructible. (They aren&apos;t lands while they&apos;re creatures.)
+Flashback {4}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/196.png" num="170">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Worldly Tutor</name>
+			<text>Search your library for a creature card, reveal it, then shuffle and put the card on top.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/197.png" num="206">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Radiant Expulsion</name>
+			<text>Your opponents can&apos;t cast spells this turn.
+Creatures can&apos;t attack this turn.
+Flashback {4}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/198.png" num="32">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Frozen in Fear</name>
+			<text>Tap each creature you don&apos;t control. Distribute X stun counters among those creatures, where X is half the number of cards in your graveyard, rounded down. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Flashback {5}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/199.png" num="55">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Say the Name</name>
+			<text>You draw a card and you lose 1 life.
+Flashback {1}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+You may cast Say the Name from exile for {2}{B}{B}. If you do, transform it and put it onto the battlefield instead of into your graveyard as it resolves.
+---
+(Back): Awoken Miscreant</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/200_front.png" num="117a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">Awoken Miscreant</related>
+		</card>
+		<card>
+			<name>Awoken Miscreant</name>
+			<text>Whenever Awoken Miscreant enters the battlefield or attacks, choose one—
+• Each player discards a card.
+• Each player loses 1 life and draws a card.
+• Each player sacrifices a creature.
+If Awoken Miscreant would leave the battlefield, put it on the bottom of its owner&apos;s library instead of putting it anywhere else.
+---
+(Front): Say the Name</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/200_back.png" num="117b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Demon Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Say the Name</related>
+		</card>
+		<card>
+			<name>Cruel Betrayal</name>
+			<text>Target creature fights another target creature.
+Flashback {5}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/201.png" num="130">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stalking Eyes</name>
+			<text>Reveal the top X cards of your library. You may put any number of creature cards with total mana value X or less from among them onto the battlefield. Put the rest into your graveyard.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/202.png" num="194">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XG</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Enlightened Tutor</name>
+			<text>Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/203.png" num="4">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gifts Ungiven</name>
+			<text>Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/204.png" num="57">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vampiric Tutor</name>
+			<text>Search your library for a card, then shuffle and put that card on top. You lose 2 life.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/205.png" num="121">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gamble</name>
+			<text>Search your library for a card, put that card into your hand, discard a card at random, then shuffle.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/206.png" num="139">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tarmogoyf</name>
+			<text>Tarmogoyf&apos;s power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/207.png" num="197">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lhurgoyf</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>*/1+*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Splitting Harvester</name>
+			<text>Double strike
+Other Scarecrow creatures you control get +1/+1.
+Whenever another Scarecrow enters the battlefield under your control, create a token that&apos;s a copy of Splitting Harvester, except it doesn&apos;t have this ability.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/208.png" num="244">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Midnight Clock</name>
+			<text>{T}: Add {U}.
+{2}{U}: Put an hour counter on Midnight Clock.
+At the beginning of each upkeep, put an hour counter on Midnight Clock.
+When the twelfth hour counter is put on Midnight Clock, shuffle your hand and graveyard into your library, then draw seven cards. Exile Midnight Clock.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/209.png" num="62">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Eerie Obelisk</name>
+			<text>At the beginning of combat on your turn, target creature you control with flying gets +1/+1 until end of turn. Repeat this process for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, prowess, reach, trample, vigilance.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/210.png" num="237">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jumpscare</name>
+			<text>Target player mills five cards. You may put a creature card from among the cards milled this way onto the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/211.png" num="221">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Omniform</name>
+			<text>Changeling (This card is every creature type.)
+Omniform enters the battlefield with a reach counter on it.
+When Omniform enters the battlefield, for each kind of counter on creatures you control, put a counter of that kind on each creature you control without a counter of that kind on it.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/212.png" num="226">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grace, Soul Unbound</name>
+			<text>[+1]: Create a 1/1 white Spirit creature token with flying.
+[-3]: Creatures you control gain indestructible, vigilance, and lifelink until end of turn.
+[-5]: You get an emblem with &quot;Once during each of your turns, you may play a face up card you own from exile.&quot;</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/213.png" num="10">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Grace</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hushpoppet</name>
+			<text>Other creatures lose all creature types and abilities and have base power and toughness 1/1.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/214.png" num="15">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Xrthalid, Subject Zero</name>
+			<text>Counters on Xrthalid, Subject Zero are loyalty counters in addition to their other kinds.
+[+1]: For each creature you control, you may move a counter from that creature onto Xrthalid, Subject Zero, or you may move a counter from Xrthalid onto that creature.
+[-1]: Until end of turn, Xrthalid, Subject Zero becomes a Mutant creature with power and toughness each equal to the number of counters on him and gains indestructible. He&apos;s still a planeswalker. Prevent all damage that would be dealt to him this turn.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/215.png" num="84">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Xrthalid</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ancestral Communion</name>
+			<text>(Nonexistent mana costs can&apos;t be paid.)
+Draw three cards.
+Flashback—{U}, Exile five other cards with different mana values from your graveyard. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/216.png" num="43">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The One in the Sewers</name>
+			<text>Whenever an instant or sorcery spell you own destroys, exiles, or deals damage to a creature, if you cast that spell from your hand, you may exile that card with a collection counter on it instead of putting it into your graveyard as it resolves.
+Whenever a creature enters the battlefield under an opponent&apos;s control, you may cast a nonland card from exile with a collection counter on it. It targets that creature if able. (You still pay its costs. Timing rules do not apply.)</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/217.png" num="109">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon Clown</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tibalt, Spawn of Chaos</name>
+			<text>You may activate loyalty abilities of Tibalt, Spawn of Chaos on any player&apos;s turn any time you could cast an instant.
+[+1]: Up to one target creature you control gets +1/-1 until end of turn.
+[-3]: Search your library for a card, put that card into your hand, discard a card at random, then shuffle.
+[-4]: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/218.png" num="162">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Tibalt</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tibalt&apos;s Betrayal</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+Add X mana of any one color and exile the top X cards of your library, where X is the sacrificed creature&apos;s mana value. Until the beginning of your next end step, you may play cards exiled this way.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/219.png" num="163">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Silent Grove</name>
+			<text>{T}, Pay 1 life: Add {G}. This mana can&apos;t be spent to cast noncreature spells.
+Whenever a player casts a noncreature spell, transform Silent Grove.
+---
+(Back): Audiovore</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/220_front.png" num="249a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Audiovore</related>
+		</card>
+		<card>
+			<name>Audiovore</name>
+			<text>Whenever this permanent transforms into Audiovore, it fights another target creature controlled by a player who cast a noncreature spell this turn.
+Audiovore&apos;s power and toughness are each equal to the number of noncreature cards in all graveyards.
+At the beginning of the next end step, transform Audiovore.
+---
+(Front): Silent Grove</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/220_back.png" num="249b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Lhurgoyf</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Silent Grove</related>
+		</card>
+		<card>
+			<name>Venus Mantrap</name>
+			<text>Whenever a creature enters the battlefield under your control, you may have Venus Mantrap deal damage equal to its power to that creature. Do this only once each turn.
+Whenever a creature dealt damage by Venus Mantrap this turn dies, choose one—
+• Put a +1/+1 counter on Venus Mantrap.
+• Put a vigilance counter on Venus Mantrap.
+• Put a reach counter on Venus Mantrap.
+• Put a trample counter on Venus Mantrap.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/221.png" num="202">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien Plant Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Clock Prison</name>
+			<text>Permanents can&apos;t transform.
+{0}: The Clock Prison&apos;s controller sacrifices it and takes an extra turn after this one. Any player may activate this ability but only as a sorcery. This ability costs {5} more to activate during your turn.
+{6}: Put The Clock Prison from your graveyard onto the battlefield transformed. Activate only if it&apos;s an extra turn and only as a sorcery.
+---
+(Back): Clocknook</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/222_front.png" num="236a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Clocknook</related>
+		</card>
+		<card>
+			<name>Clocknook</name>
+			<text>Changeling (This card is every creature type.)
+Whenever Clocknook enters the battlefield or attacks, exile target permanent.
+---
+(Front): The Clock Prison</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/222_back.png" num="236b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>10/10</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">The Clock Prison</related>
+		</card>
+		<card>
+			<name>Kizrath, the Dusk Prince</name>
+			<text>Flying, lifelink
+Pay 6 life: Another target creature gets +6/+6 until end of turn. Activate only once each turn.
+{5}{B}{R}, Pay 7 life: Transform Kizrath, the Dusk Prince.
+---
+(Back): Kizrath Unbound</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/223_front.png" num="222a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>4WB</manacost>
+				<cmc>6</cmc>
+				<colors>WB</colors>
+				<coloridentity>WBR</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Kizrath Unbound</related>
+		</card>
+		<card>
+			<name>Kizrath Unbound</name>
+			<text>Flying, trample, lifelink
+Pay 7 life: Another target creature gets +7/+7 until end of turn. Put a flying counter, a trample counter, and a lifelink counter on it. Activate only once each turn.
+---
+(Front): Kizrath, the Dusk Prince</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/223_back.png" num="222b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Demon Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>BR</colors>
+				<coloridentity>WBR</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Kizrath, the Dusk Prince</related>
+		</card>
+		<card>
+			<name>Ixophew, Hallows Spinner</name>
+			<text>[+1]: Until your next turn, creatures you control get +0/+1 and gain reach.
+[-2]: Destroy target artifact, enchantment, or creature with flying.
+[-6]: You get an emblem with &quot;Creatures your opponents control with power 4 or less can&apos;t attack or block and their activated abilities can&apos;t be activated.&quot;</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/224.png" num="219">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Ixophew</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Slynn, Identity Binder</name>
+			<text>Changeling (This card is every creature type.)
+Slynn, Identity Binder is every planeswalker type.
+[+1]: Each opponent loses 1 life and you gain 1 life. If there are four or more creature types among other permanents you control, draw a card.
+[-2]: Exile target creature. Its controller creates a 1/1 colorless Shapeshifter creature token with changeling.
+[-8]: Target opponent gets an emblem with &quot;Creatures you control lose all creature types and abilities and have base power and toughness 1/1.&quot;</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/225.png" num="230">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Kindred Planeswalker</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Thought Trash</name>
+			<text>Counter target spell. Target player mills two cards.</text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/226.png" num="80">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Naive Delver</name>
+			<text>At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If a noncreature, nonland card is revealed this way, put a +1/+1 counter and a flying counter on Naive Delver and transform it.
+---
+(Back): Misshapen Abomination</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/227_front.png" num="66a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Misshapen Abomination</related>
+		</card>
+		<card>
+			<name>Misshapen Abomination</name>
+			<text>Amalgamate (At the beginning of your upkeep, you may move a counter from this creature onto another target creature you control.)
+---
+(Front): Naive Delver</text>
+			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/227_back.png" num="66b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Mutant Insect Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Naive Delver</related>
+		</card>
+		<card>
+			<name>Eve&apos;s Beginning</name>
+			<text>Each player secretly chooses a player and chooses tricks or treats for that player. Each player sacrifices a creature for each time tricks was chosen for them and gains 1 life and draws a card for each time treats was chosen for them.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/228.png" num="216">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mutavault</name>
+			<text>{T}: Add {C}.
+{1}: Mutavault becomes a 2/2 creature with all creature types until end of turn. It&apos;s still a land.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/229.png" num="248">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cavern of Souls</name>
+			<text>As Cavern of Souls enters the battlefield, choose a creature type.
+{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can&apos;t be countered.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/230.png" num="247">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dream Lurker</name>
+			<text>If Dream Lurker would deal combat damage to a player, instead that player mills that many cards and you draw a card.
+Discard a card: Dream Lurker gains hexproof until end of turn. It can&apos;t be blocked this turn.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/231.png" num="46">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Victor, Sentience Imparter</name>
+			<text>{T}: Exile target card from your graveyard with a cadaver counter on it. If that card is an enchantment, add {W}. If that card is an artifact, add {U}. If that card is a creature or planeswalker, add {B}. If that card is an instant or sorcery, add {R}. If that card is a land, add {G}. Then you may transform Victor, Sentience Imparter.
+---
+(Back): Victor&apos;s Monster</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/232_front.png" num="123a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Victor&apos;s Monster</related>
+		</card>
+		<card>
+			<name>Victor&apos;s Monster</name>
+			<text>Hexproof, menace
+Victor&apos;s Monster gets +1/+1 for each card type among cards you own in exile with cadaver counters on them.
+Victor&apos;s Monster gets +1/+1 for each color among cards you own in exile with cadaver counters on them.
+---
+(Front): Victor, Sentience Imparter</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/232_back.png" num="123b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Zombie Horror</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UB</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Victor, Sentience Imparter</related>
+		</card>
+		<card>
+			<name>Meribelle, the Poltergeist</name>
+			<text>You may cast a face up Spirit card you own from exile once during each of your turns.
+Whenever you exile one or more creature cards you own from your graveyard or from the battlefield, create a 1/1 white Spirit creature token with flying. This ability triggers only once each turn.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/233.png" num="223">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hannibal, Inaugural Mayor</name>
+			<text>Vigilance
+Whenever a creature enters the battlefield under your control, you gain 1 life.
+At the beginning of the end step, if you gained 5 or more life this turn, transform Hannibal, Inaugural Mayor.
+---
+(Back): Count Hannibal</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/234_front.png" num="11a">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Count Hannibal</related>
+		</card>
+		<card>
+			<name>Count Hannibal</name>
+			<text>Flying, vigilance, lifelink
+Whenever you gain life, you may pay {X}{B}, where X is less than or equal to the amount of life you gained. If you do, target creature gets -X/-X until end of turn and you put X +1/+1 counters on target Vampire you control.
+---
+(Front): Hannibal, Inaugural Mayor</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/234_back.png" num="11b">UMB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Hannibal, Inaugural Mayor</related>
+		</card>
+		<card>
+			<name>Constantine, Chief Instigator</name>
+			<text>Whenever one or more nontoken Berserker creatures you control attack, create a 1/1 red Berserker creature token that&apos;s tapped and attacking.
+Whenever another token source you control deals damage to an opponent, Constantine, Chief Instigator deals that much damage to each opponent.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/235.png" num="212">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Montague, Crafty Survivor</name>
+			<text>Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+Whenever one or more Human creatures you control attack, up to one target attacking Human creature gains indestructible until end of turn.
+If one or more counters would be put on an attacking creature you control, twice that many of those counters are put on that creature instead.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/236.png" num="224">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>5/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thriller</name>
+			<text>Gain control of all nonlegendary creatures. Those creatures become black Zombies in addition to their other colors and types.</text>
+			<set rarity="mythic" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/237.png" num="232">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Zombie</type>
+				<maintype>Sorcery</maintype>
+				<manacost>7UB</manacost>
+				<cmc>9</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Glutmeg, Crazed Alchemist</name>
+			<text>{T}, Tap X other untapped Wizards you control: Exile target instant or sorcery card with mana value X plus 1 or less from your graveyard. Copy that card for each instant and sorcery spell you&apos;ve cast this turn. You may cast the copies without paying their mana costs.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/238.png" num="217">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eliot, the Smith of Flesh</name>
+			<text>As long as Eliot, the Smith of Flesh is in any zone other than a player&apos;s hand or library, counters remain on Mutant cards you own as they move to any zone other than a player&apos;s hand or library.
+At the beginning of your upkeep, for each card in your graveyard with a counter on it, you may move a counter from that card onto a creature you control.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/239.png" num="214">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Mutant Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dreadknot, Decapitated Fiend</name>
+			<text>When Dreadknot, Decapitated Fiend enters the battlefield, for each kind of counter among other creatures you control, put a counter of that kind on Dreadknot.
+Whenever Dreadknot attacks, it deals X damage to any target, where X is the number of counters on it.
+{1}{B}{R}: Choose a kind of counter on Dreadknot, Decapitated Fiend and put a counter of that kind on target Plant you control.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/240.png" num="213">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Plant Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodcurl, the Dread Howler</name>
+			<text>Flash
+{X}: You may put a creature card with mana value X from your hand onto the battlefield.
+{R}{G}: Transform target Human Werewolf.
+{2}{R}{G}: Wolf and Werewolf creatures you control get +1/+1 and gain trample until end of turn.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/241.png" num="208">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Putrid Blob</name>
+			<text>Deathtouch
+Whenever a creature dealt damage by Putrid Blob this turn dies, put a +1/+1 counter on Putrid Blob and exile that creature card with a slime counter on it.
+Putrid Blob has all activated abilities of creature cards in exile with slime counters on them.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/242.png" num="112">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Snapcaster Mage</name>
+			<text>Flash
+When Snapcaster Mage enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/243.png" num="75">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scream Harvester</name>
+			<text>Whenever a creature dealt damage by Scream Harvester this turn dies, choose an ability it had from among first strike, flying, deathtouch, double strike, hexproof, indestructible, lifelink, menace, reach, trample, or vigilance, and put a counter of that kind on Scream Harvester.
+{1}{R}: Scream Harvester gains first strike until end of turn.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/244.png" num="159">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Maiden of the Haunt</name>
+			<text>Flying
+As long as Maiden of the Haunt is on the battlefield or in exile haunting a creature, haunted creatures have base power and toughness 1/1 and have flying.
+Haunt (When this creature dies, exile it haunting target creature.)</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/245.png" num="25">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mass Mentality</name>
+			<text>For each token you control, create a token that&apos;s a copy of that permanent. Those tokens gain haste. Exile them at the beginning of the next end step.
+Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/246.png" num="152">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Berserker</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Roost Keeper</name>
+			<text>Flying
+Whenever you gain life, create a 1/1 black Bat creature token with flying. This ability triggers only once each turn.
+{2}{B}{B}: Roost Keeper and Bat creatures you control gain deathtouch and lifelink until end of turn.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/247.png" num="115">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nameless Persecutor</name>
+			<text>Changeling (This card is every creature type.)
+Flash
+When Nameless Persecutor enters the battlefield, exile another target creature until Nameless Persecutor leaves the battlefield.
+Creatures you control have protection from creatures that share a creature type with the exiled card.</text>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/UMB-files/img/248.png" num="27">UMB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
