@@ -1,0 +1,2186 @@
+﻿[
+    {
+        "card_name": "Blissful Unity",
+        "number": 22,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "97"
+    },
+    {
+        "card_name": "Eon Voyage",
+        "number": 59,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "243"
+    },
+    {
+        "card_name": "Desolation Prophet",
+        "number": 94,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "244"
+    },
+    {
+        "card_name": "Leeroy, Top Captain",
+        "number": 139,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "245"
+    },
+    {
+        "card_name": "Cosmic Leveler",
+        "number": 163,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "246"
+    },
+    {
+        "card_name": "Eternus, the Living Cosmos",
+        "number": 28,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "96"
+    },
+    {
+        "card_name": "Parallel Paradox",
+        "number": 72,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "98"
+    },
+    {
+        "card_name": "Shattered Prophet",
+        "number": 110,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "99"
+    },
+    {
+        "card_name": "Biome Eater",
+        "number": 123,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "218"
+    },
+    {
+        "card_name": "Unleashed Flourishing",
+        "number": 189,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "247"
+    },
+    {
+        "card_name": "Aligner Orion",
+        "number": 16,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "202"
+    },
+    {
+        "card_name": "Enter the Ship",
+        "number": 58,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "209"
+    },
+    {
+        "card_name": "Assassin's Vessel",
+        "number": 89,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "210"
+    },
+    {
+        "card_name": "Meteor Dragon",
+        "number": 142,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "217"
+    },
+    {
+        "card_name": "Enigma Voyager",
+        "number": 166,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "95"
+    },
+    {
+        "card_name": "Astral Aligner",
+        "number": 20,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "85"
+    },
+    {
+        "card_name": "Explorer's Vessel",
+        "number": 61,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "207"
+    },
+    {
+        "card_name": "Blast of Exitinction",
+        "number": 91,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "211"
+    },
+    {
+        "card_name": "Raider's Vessel",
+        "number": 145,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "214"
+    },
+    {
+        "card_name": "Intraplanar Map",
+        "number": 170,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "223"
+    },
+    {
+        "card_name": "Celestial Shower",
+        "number": 25,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "203"
+    },
+    {
+        "card_name": "Horizon Chaser",
+        "number": 62,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "87"
+    },
+    {
+        "card_name": "Cosmic Rebirther",
+        "number": 92,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "91"
+    },
+    {
+        "card_name": "Swarm the Enemy",
+        "number": 149,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "215"
+    },
+    {
+        "card_name": "Majesty of Starlight",
+        "number": 172,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "225"
+    },
+    {
+        "card_name": "End of Extinction",
+        "number": 26,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "204"
+    },
+    {
+        "card_name": "Inspired Awe",
+        "number": 67,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "90"
+    },
+    {
+        "card_name": "Foreboding Prophets",
+        "number": 97,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "92"
+    },
+    {
+        "card_name": "Tactless Raider",
+        "number": 150,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "93"
+    },
+    {
+        "card_name": "Megapede",
+        "number": 175,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "221"
+    },
+    {
+        "card_name": "Rescue Vessel",
+        "number": 39,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "206"
+    },
+    {
+        "card_name": "Master Technician",
+        "number": 68,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "89"
+    },
+    {
+        "card_name": "High Ursurper Null",
+        "number": 100,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "216"
+    },
+    {
+        "card_name": "Voidflare Artist",
+        "number": 152,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "94"
+    },
+    {
+        "card_name": "Miner's Vessel",
+        "number": 176,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "220"
+    },
+    {
+        "card_name": "Rescuer",
+        "number": 40,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "86"
+    },
+    {
+        "card_name": "Mobilization Specialist",
+        "number": 69,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "88"
+    },
+    {
+        "card_name": "Innerbase Salvager",
+        "number": 102,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "213"
+    },
+    {
+        "card_name": "Wonder of the Skypod",
+        "number": 154,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "219"
+    },
+    {
+        "card_name": "Spaceshift",
+        "number": 182,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "222"
+    },
+    {
+        "card_name": "Stardust Regent",
+        "number": 44,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "205"
+    },
+    {
+        "card_name": "Monolith Analysis",
+        "number": 70,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "208"
+    },
+    {
+        "card_name": "Insignifigance",
+        "number": 103,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "212"
+    },
+    {
+        "card_name": "Arc Flare",
+        "number": 121,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "75"
+    },
+    {
+        "card_name": "Stellar Grounds",
+        "number": 186,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "224"
+    },
+    {
+        "card_name": "Asters Unleashed",
+        "number": 19,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "Deploy the Starfleet",
+        "number": 56,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "154"
+    },
+    {
+        "card_name": "Animate Duality",
+        "number": 87,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "67"
+    },
+    {
+        "card_name": "Asteroid Blaster",
+        "number": 122,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "Apelike Anomalies",
+        "number": 156,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "79"
+    },
+    {
+        "card_name": "Eternities Oracle",
+        "number": 27,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "106"
+    },
+    {
+        "card_name": "Eternities Swimmer",
+        "number": 60,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "Crash Survivor",
+        "number": 93,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "158"
+    },
+    {
+        "card_name": "Debris Cannon",
+        "number": 127,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "74"
+    },
+    {
+        "card_name": "Astral Hunter",
+        "number": 158,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "80"
+    },
+    {
+        "card_name": "Naked Singularity",
+        "number": 31,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "Incomprehensible Species",
+        "number": 65,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "Doomrunner",
+        "number": 95,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "66"
+    },
+    {
+        "card_name": "Dust Storm",
+        "number": 129,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "166"
+    },
+    {
+        "card_name": "Careless Wanderer",
+        "number": 161,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "167"
+    },
+    {
+        "card_name": "Nebula Harnesser",
+        "number": 32,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "Record Keeper",
+        "number": 74,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "155"
+    },
+    {
+        "card_name": "Matter Drain",
+        "number": 104,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "162"
+    },
+    {
+        "card_name": "Impact Tremors",
+        "number": 138,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "164"
+    },
+    {
+        "card_name": "Habitat Charter",
+        "number": 168,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "168"
+    },
+    {
+        "card_name": "Nebula Runner",
+        "number": 34,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "151"
+    },
+    {
+        "card_name": "Research Mission",
+        "number": 76,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "Production Manager",
+        "number": 106,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "163"
+    },
+    {
+        "card_name": "Lone Adventurer",
+        "number": 140,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "72"
+    },
+    {
+        "card_name": "Hoverbase Pioneers",
+        "number": 169,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "78"
+    },
+    {
+        "card_name": "Nebula Titan",
+        "number": 35,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "152"
+    },
+    {
+        "card_name": "Squadron Captain",
+        "number": 78,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "157"
+    },
+    {
+        "card_name": "Return from Oblivion",
+        "number": 107,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "68"
+    },
+    {
+        "card_name": "Marauder Marshall",
+        "number": 141,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "69"
+    },
+    {
+        "card_name": "Mapping Route",
+        "number": 174,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "81"
+    },
+    {
+        "card_name": "Realmstrider",
+        "number": 37,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "To the Stars",
+        "number": 80,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "Scion of Null",
+        "number": 109,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "159"
+    },
+    {
+        "card_name": "Spacewalker",
+        "number": 146,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "73"
+    },
+    {
+        "card_name": "Prideforger",
+        "number": 179,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "76"
+    },
+    {
+        "card_name": "Stargate Follower",
+        "number": 45,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "Trance",
+        "number": 81,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "156"
+    },
+    {
+        "card_name": "Stardust Devourer",
+        "number": 111,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "65"
+    },
+    {
+        "card_name": "Spirited Wanderer",
+        "number": 147,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "165"
+    },
+    {
+        "card_name": "Scarhide Behemoth",
+        "number": 181,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "169"
+    },
+    {
+        "card_name": "Worldtie Manipulator",
+        "number": 49,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "Voidbreacher",
+        "number": 82,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "Unteather",
+        "number": 117,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "161"
+    },
+    {
+        "card_name": "Steelstreamer",
+        "number": 148,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "70"
+    },
+    {
+        "card_name": "Star-Blessed Hunters",
+        "number": 183,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "77"
+    },
+    {
+        "card_name": "Young Aster",
+        "number": 50,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "153"
+    },
+    {
+        "card_name": "Warp Trail",
+        "number": 84,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "Wastescape Combatant",
+        "number": 119,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "160"
+    },
+    {
+        "card_name": "Core Collapse",
+        "number": 124,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "122"
+    },
+    {
+        "card_name": "Stellar Nursery",
+        "number": 187,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "170"
+    },
+    {
+        "card_name": "Antimatter Regent",
+        "number": 17,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "Adapted Survivor",
+        "number": 51,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "Agonizing Collapse",
+        "number": 86,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "Craterhub Resident",
+        "number": 125,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "127"
+    },
+    {
+        "card_name": "Ambush Party",
+        "number": 155,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "Asterborn Oracle",
+        "number": 18,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "Aimless Drifter",
+        "number": 52,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "111"
+    },
+    {
+        "card_name": "Antimatter Blast",
+        "number": 88,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "115"
+    },
+    {
+        "card_name": "Daring Cosmonaut",
+        "number": 126,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "Apex Species",
+        "number": 157,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "129"
+    },
+    {
+        "card_name": "Basebeamer",
+        "number": 21,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "Astral Wings",
+        "number": 53,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "Biome Collision",
+        "number": 90,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "116"
+    },
+    {
+        "card_name": "Debris Navigator",
+        "number": 128,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "123"
+    },
+    {
+        "card_name": "Bioadapted Monstrosity",
+        "number": 159,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "Brightspear",
+        "number": 23,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "Breach the Horizon",
+        "number": 54,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Exhausted Renegade",
+        "number": 96,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Ergonomic Upgrades",
+        "number": 130,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "Biome Charter",
+        "number": 160,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "130"
+    },
+    {
+        "card_name": "Catastrophic Expansion",
+        "number": 24,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "104"
+    },
+    {
+        "card_name": "Catastropic Miscalculation",
+        "number": 55,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "112"
+    },
+    {
+        "card_name": "Hardened Veteran",
+        "number": 98,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "121"
+    },
+    {
+        "card_name": "Explorer of Hostile Lands",
+        "number": 131,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "Chart the Uncharted",
+        "number": 162,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "Ion Blast",
+        "number": 29,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "103"
+    },
+    {
+        "card_name": "Emergency Provisions",
+        "number": 57,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "110"
+    },
+    {
+        "card_name": "Herald of Despair",
+        "number": 99,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "Flames of Starforge",
+        "number": 132,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "128"
+    },
+    {
+        "card_name": "Dogfight",
+        "number": 164,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "132"
+    },
+    {
+        "card_name": "Leo Formation",
+        "number": 30,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "101"
+    },
+    {
+        "card_name": "Hoverbase Guard",
+        "number": 63,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "Infantile Obliviator",
+        "number": 101,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "Geode Drill",
+        "number": 133,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "Elk Formation",
+        "number": 165,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "133"
+    },
+    {
+        "card_name": "Nebula Keeper",
+        "number": 33,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "Hyperspeed Reflexes",
+        "number": 64,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "113"
+    },
+    {
+        "card_name": "Omenmaker",
+        "number": 105,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "Highforce Pilot",
+        "number": 134,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "124"
+    },
+    {
+        "card_name": "Gifts of the Nebula",
+        "number": 167,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "136"
+    },
+    {
+        "card_name": "Nova Composite",
+        "number": 36,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "102"
+    },
+    {
+        "card_name": "Insanity Instiller",
+        "number": 66,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "Salvage",
+        "number": 108,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "119"
+    },
+    {
+        "card_name": "Hijack",
+        "number": 135,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "Lifefinder",
+        "number": 171,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "138"
+    },
+    {
+        "card_name": "Recolonization Process",
+        "number": 38,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "100"
+    },
+    {
+        "card_name": "Overdesigned Construct",
+        "number": 71,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "Starfighter Adept",
+        "number": 112,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "117"
+    },
+    {
+        "card_name": "Hoverbase Captain",
+        "number": 136,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "Map the Realms",
+        "number": 173,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "131"
+    },
+    {
+        "card_name": "Splendid Reaction",
+        "number": 41,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "Pod of Skywhales",
+        "number": 73,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "107"
+    },
+    {
+        "card_name": "Stellar Imploder",
+        "number": 113,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "Immediate Deployment",
+        "number": 137,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "Nest Raider",
+        "number": 177,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "Stalwart Guardmage",
+        "number": 42,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "Research Capsule",
+        "number": 75,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "Surface Levelers",
+        "number": 114,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Mine to the Core",
+        "number": 143,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "126"
+    },
+    {
+        "card_name": "Power of the Nebulas",
+        "number": 178,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "Star-Crossed Couple",
+        "number": 43,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "Scholar of Stars",
+        "number": 77,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "114"
+    },
+    {
+        "card_name": "Tether to the Concrete",
+        "number": 115,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Minemaker",
+        "number": 144,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "Ruin by Fauna",
+        "number": 180,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "134"
+    },
+    {
+        "card_name": "Starstruck",
+        "number": 46,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "Starswimmers",
+        "number": 79,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "Touch of the Eternities",
+        "number": 116,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "Tectonic Manipulator",
+        "number": 151,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "Stardust Prowler",
+        "number": 184,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "135"
+    },
+    {
+        "card_name": "Voidfiller",
+        "number": 47,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "Voidsight Prophet",
+        "number": 83,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "Voidwarped Wanderer",
+        "number": 118,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "120"
+    },
+    {
+        "card_name": "Warminded Anomolies",
+        "number": 153,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "Starformed Centaur",
+        "number": 185,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "Voidglider",
+        "number": 48,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "105"
+    },
+    {
+        "card_name": "Wormhole Guide",
+        "number": 85,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "Whispers of the Nebula",
+        "number": 120,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Stellar Pouncer",
+        "number": 188,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Tireless Team",
+        "number": 204,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "Emma, the Traveler",
+        "number": 194,
+        "shape": "planeswalker",
+        "set": "GLX",
+        "rotated": false,
+        "position": "239"
+    },
+    {
+        "card_name": "Fleet General",
+        "number": 197,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "177"
+    },
+    {
+        "card_name": "Samut, Planar Refugee",
+        "number": 202,
+        "shape": "planeswalker",
+        "set": "GLX",
+        "rotated": false,
+        "position": "240"
+    },
+    {
+        "card_name": "Destiny, Nebula Child",
+        "number": 193,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "226"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Emptiness Forger",
+        "number": 195,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "174"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Crater Miner",
+        "number": 192,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "178"
+    },
+    {
+        "card_name": "Nebula Herald",
+        "number": 199,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "173"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Prophet of the Eclipse",
+        "number": 200,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "227"
+    },
+    {
+        "card_name": "Raven, Starfleet Captain",
+        "number": 201,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "228"
+    },
+    {
+        "card_name": "Astral Rebirth",
+        "number": 191,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "Head Battledriver",
+        "number": 198,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "172"
+    },
+    {
+        "card_name": "Envoy of the Unknown",
+        "number": 196,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "176"
+    },
+    {
+        "card_name": "Voidscape",
+        "number": 205,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "171"
+    },
+    {
+        "card_name": "Acomplished Admiral",
+        "number": 190,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "175"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "The Skyswimmer",
+        "number": 203,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "241"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Kylixid, Hedron Warden",
+        "number": 7,
+        "shape": "planeswalker",
+        "set": "GLX",
+        "rotated": false,
+        "position": "238"
+    },
+    {
+        "card_name": "Extinction Cannon",
+        "number": 214,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "242"
+    },
+    {
+        "card_name": "Collision Course",
+        "number": 2,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "233"
+    },
+    {
+        "card_name": "The Hedron Project",
+        "number": 5,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "234"
+    },
+    {
+        "card_name": "Minxx, Subreal Voyager",
+        "number": 8,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "236"
+    },
+    {
+        "card_name": "Studied Subject",
+        "number": 12,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "235"
+    },
+    {
+        "card_name": "Caged Sun",
+        "number": 213,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "229"
+    },
+    {
+        "card_name": "The Hoverbase",
+        "number": 217,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "230"
+    },
+    {
+        "card_name": "Hyperdrive Gate",
+        "number": 218,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "231"
+    },
+    {
+        "card_name": "Raider Flagship Titan",
+        "number": 223,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "237"
+    },
+    {
+        "card_name": "Wastescape Walker",
+        "number": 230,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "232"
+    },
+    {
+        "card_name": "Beatrix, Master Envoy",
+        "number": 1,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "184"
+    },
+    {
+        "card_name": "Into the Rift",
+        "number": 6,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "186"
+    },
+    {
+        "card_name": "Starscape",
+        "number": 11,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "187"
+    },
+    {
+        "card_name": "Surfer of the Stars",
+        "number": 13,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "185"
+    },
+    {
+        "card_name": "Warpspace Traveler",
+        "number": 15,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "188"
+    },
+    {
+        "card_name": "Applied Assistant",
+        "number": 207,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "82"
+    },
+    {
+        "card_name": "Biome Scouter",
+        "number": 210,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "191"
+    },
+    {
+        "card_name": "Intermine Transport",
+        "number": 219,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "189"
+    },
+    {
+        "card_name": "Shower Surveyor",
+        "number": 224,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "195"
+    },
+    {
+        "card_name": "Slum Scanner",
+        "number": 225,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "192"
+    },
+    {
+        "card_name": "Solemn Raft",
+        "number": 226,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "193"
+    },
+    {
+        "card_name": "Stealth Fighter",
+        "number": 228,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "194"
+    },
+    {
+        "card_name": "Unity Keeper",
+        "number": 229,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "83"
+    },
+    {
+        "card_name": "Weather Bunker",
+        "number": 231,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "84"
+    },
+    {
+        "card_name": "Crush of Gravity",
+        "number": 3,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "147"
+    },
+    {
+        "card_name": "Gravity Well",
+        "number": 4,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "144"
+    },
+    {
+        "card_name": "Novie Mattermaker",
+        "number": 9,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "Solemn Explorer",
+        "number": 10,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "145"
+    },
+    {
+        "card_name": "Warphole Rift",
+        "number": 14,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "146"
+    },
+    {
+        "card_name": "Annihilator Construct",
+        "number": 206,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "118"
+    },
+    {
+        "card_name": "Ascender Contruct",
+        "number": 208,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "109"
+    },
+    {
+        "card_name": "Autopilots",
+        "number": 209,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "Blaster Construct",
+        "number": 211,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "108"
+    },
+    {
+        "card_name": "Brawler Construct",
+        "number": 212,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "137"
+    },
+    {
+        "card_name": "Galactic Voyager",
+        "number": 215,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "150"
+    },
+    {
+        "card_name": "Ground Hauler",
+        "number": 216,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "148"
+    },
+    {
+        "card_name": "Manakin",
+        "number": 220,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "Newland Surveyors",
+        "number": 221,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "Nova Researcher",
+        "number": 222,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "149"
+    },
+    {
+        "card_name": "Speeder Construct",
+        "number": 227,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "125"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The Craterhub",
+        "number": 236,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "248"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Frozen Twilight",
+        "number": 243,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "179"
+    },
+    {
+        "card_name": "Federation Prisons",
+        "number": 240,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "180"
+    },
+    {
+        "card_name": "Crash Site",
+        "number": 235,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "181"
+    },
+    {
+        "card_name": "Excavated Nest",
+        "number": 239,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "182"
+    },
+    {
+        "card_name": "Astral Trail",
+        "number": 232,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "183"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Bioluminescent Cavern",
+        "number": 233,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "196"
+    },
+    {
+        "card_name": "Desolate Scape",
+        "number": 237,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "197"
+    },
+    {
+        "card_name": "Flooded Jungle",
+        "number": 241,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "198"
+    },
+    {
+        "card_name": "Frostburned Pass",
+        "number": 242,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "200"
+    },
+    {
+        "card_name": "Ravaged Surface",
+        "number": 245,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "199"
+    },
+    {
+        "card_name": "Wastescape",
+        "number": 249,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "201"
+    },
+    {
+        "card_name": "Stellar Scape",
+        "number": 246,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "190"
+    },
+    {
+        "card_name": "Biomass Reactor",
+        "number": 234,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "139"
+    },
+    {
+        "card_name": "Evolving Wilds",
+        "number": 238,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "140"
+    },
+    {
+        "card_name": "Geode Mine",
+        "number": 244,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "141"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Wastes",
+        "number": 247,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "142"
+    },
+    {
+        "card_name": "Wastes",
+        "number": 248,
+        "shape": "normal",
+        "set": "GLX",
+        "rotated": false,
+        "position": "143"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
