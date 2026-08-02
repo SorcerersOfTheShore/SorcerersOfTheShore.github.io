@@ -6,6 +6,11 @@
             "formats": "emstandard"
         },
         {
+            "set_code": "EH1",
+            "set_name": "Eternal Horizons",
+            "formats": "emeternal"
+        },
+        {
             "set_code": "EM2",
             "set_name": "Extended Multiverse Core 2",
             "formats": "emstandard"
