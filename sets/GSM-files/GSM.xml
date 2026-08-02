@@ -5,7 +5,7 @@
 			<name>GSM</name>
 			<longname>Greatest Show in the Multiverse</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-01</releasedate>
+			<releasedate>2026-08-02</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -3178,7 +3178,7 @@ Whenever this creature attacks, look at the top X card of your library, where X 
 		</card>
 		<card>
 			<name>Clarissa, Shining Star</name>
-			<text>Whenever a nonlegendary, nontoken, nonland creature you control enters, create a trace of that card into your hand, except it has size 1/1 and mana cost {1}. (Traces are cards that become copies when they enter public zones. A copy of a permanent spell becomes a token.)</text>
+			<text>Whenever a nonlegendary, nontoken, nonland creature you control enters, create a trace of that card into your hand, except it has size 1/1 and mana cost {1}. (Traces can&apos;t exist in graveyards or exile and are tokens while on the battlefield.)</text>
 			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/6_Clarissa, Shining Star.png" num="6">GSM</set>
 			<prop>
 				<layout>normal</layout>
@@ -3432,7 +3432,7 @@ You may play lands and cast spells from the top of your library.</text>
 		</card>
 		<card>
 			<name>Copyclown</name>
-			<text>{T}: Create a trace of target spell you don&apos;t control into your hand. (Traces are cards that become copies when they enter public zones.)
+			<text>{T}: Create a trace of target spell you don&apos;t control into your hand. (Traces can&apos;t exist in graveyards or exile and are tokens while on the battlefield.)
 {T}: Add one mana of any color. Spend this mana only to cast traces.</text>
 			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/42_Copyclown.png" num="42">GSM</set>
 			<prop>
@@ -3504,7 +3504,7 @@ Whenever your ringleader attacks, return target creature card with mana value le
 		<card>
 			<name>Sneering Clique</name>
 			<text>When this creature enters, you may exile a creature card from your graveyard.
-Whenever one or more cards leave your graveyard, you may create a trace of one of those cards into your hand. Do this only once each turn. (Traces are cards that become copies when they enter public zones.)</text>
+Whenever one or more cards leave your graveyard, you may create a trace of one of those cards into your hand. Do this only once each turn. (Traces can&apos;t exist in graveyards or exile and are tokens while on the battlefield.)</text>
 			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/95_Sneering Clique.png" num="95">GSM</set>
 			<prop>
 				<layout>normal</layout>
@@ -3806,9 +3806,9 @@ Destroy all artifacts and enchantments.</text>
 		</card>
 		<card>
 			<name>Talent of the Druid</name>
-			<text>Create a trace of Fog into your hand. (Traces are cards that become copies when they enter public zones. Fog is a {G} instant with &quot;Prevent all combat damage that would be dealt this turn.&quot;)
-Create a trace of Naturalize into your hand. (It&apos;s a {1}{G} instant with &quot;Destroy target artifact or enchantment.&quot;)
-Create a trace of Bounding Wold into your hand. (It&apos;s a {2}{G} 3/2 Wolf creature with flash and reach.)</text>
+			<text>Create a trace of a card named Fog into your hand. (Traces can&apos;t exist in graveyards or exile and are tokens while on the battlefield. Fog is a {G} instant with &quot;Prevent all combat damage that would be dealt this turn.&quot;)
+Create a trace of a card named Naturalize into your hand. (It&apos;s a {1}{G} instant with &quot;Destroy target artifact or enchantment.&quot;)
+Create a trace of a card named Bounding Wold into your hand. (It&apos;s a {2}{G} 3/2 Wolf creature with flash and reach.)</text>
 			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/163_Talent of the Druid.png" num="163">GSM</set>
 			<prop>
 				<layout>normal</layout>
@@ -3857,7 +3857,7 @@ Create a trace of Bounding Wold into your hand. (It&apos;s a {2}{G} 3/2 Wolf cre
 		<card>
 			<name>Siren Choirmaster</name>
 			<text>Flying
-Celebration — Whenever this creature attacks, if two or more nonland permanents entered the battlefield under your control this turn, create a trace of this card into your hand. (Traces are cards that become copies when they enter public zones.)</text>
+Celebration — Whenever this creature attacks, if two or more nonland permanents entered the battlefield under your control this turn, create a trace of this card into your hand. (Traces can&apos;t exist in graveyards or exile and are tokens while on the battlefield.)</text>
 			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/194_Siren Choirmaster.png" num="194">GSM</set>
 			<prop>
 				<layout>normal</layout>
@@ -4187,7 +4187,7 @@ Pay 4 life: Return target creature card from your graveyard to the battlefield w
 		<card>
 			<name>Stormbred Kavu</name>
 			<text>Haste
-Whenever this creature attacks, if there are three or more creature types among creatures in your menagerie, create a trace of Lightning Bolt into your hand. (Your menagerie consists of each non-Human creature you control with a single creature type. Traces are cards that become copies when they enter public zones. Lightning Bolt is a {R} instant with &quot;Lightning Bolt deals 3 damage to any target.&quot;)</text>
+Whenever this creature attacks, if there are three or more creature types among creatures in your menagerie, create a trace of a card named Lightning Bolt into your hand. (Your menagerie consists of each non-Human creature you control with a single creature type. Traces can&apos;t exist in graveyards or exile and are tokens while on the battlefield. Lightning Bolt is a {R} instant with &quot;Lightning Bolt deals 3 damage to any target.&quot;)</text>
 			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/130_Stormbred Kavu.png" num="130">GSM</set>
 			<prop>
 				<layout>normal</layout>
@@ -4730,7 +4730,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional on
 		</card>
 		<card>
 			<name>Lightning Bolt GSM</name>
-			<text>(Traces are become copies when they enter public zones.)
+			<text>(Traces can&apos;t exist in graveyards or exile and are tokens while on the battlefield.)
 Lightning Bolt deals 3 damage to any target.</text>
 			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/5t_Lightning Bolt.png" num="5">GSM</set>
 			<prop>
@@ -4748,7 +4748,7 @@ Lightning Bolt deals 3 damage to any target.</text>
 		</card>
 		<card>
 			<name>Fog GSM</name>
-			<text>(Traces are become copies when they enter public zones.)
+			<text>(Traces can&apos;t exist in graveyards or exile and are tokens while on the battlefield.)
 Prevent all combat damage that would be dealt this turn.</text>
 			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/9t_Fog.png" num="9">GSM</set>
 			<prop>
@@ -4766,7 +4766,7 @@ Prevent all combat damage that would be dealt this turn.</text>
 		</card>
 		<card>
 			<name>Naturalize GSM</name>
-			<text>(Traces are become copies when they enter public zones.)
+			<text>(Traces can&apos;t exist in graveyards or exile and are tokens while on the battlefield.)
 Destroy target artifact or enchantment.</text>
 			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/10t_Naturalize.png" num="10">GSM</set>
 			<prop>
@@ -4784,7 +4784,7 @@ Destroy target artifact or enchantment.</text>
 		</card>
 		<card>
 			<name>Bounding Wolf GSM</name>
-			<text>(Traces are become copies when they enter public zones.)
+			<text>(Traces can&apos;t exist in graveyards or exile and are tokens while on the battlefield.)
 Flash
 Reach</text>
 			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/7t_Bounding Wolf.png" num="7">GSM</set>

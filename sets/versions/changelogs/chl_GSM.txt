@@ -1,4 +1,62 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Clarissa, Shining Star
+rules_text: Whenever a nonlegendary, nontoken, nonland creature you control enters, create a trace of that card into your hand, except it has size 1/1 and mana cost {1}. [i](Traces are cards that become copies when they enter public zones. A copy of a permanent spell becomes a token.)[/i] => Whenever a nonlegendary, nontoken, nonland creature you control enters, create a trace of that card into your hand, except it has size 1/1 and mana cost {1}. [i](Traces can't exist in graveyards or exile and are tokens while on the battlefield.)[/i]
+
+Copyclown
+rules_text: {T}: Create a trace of target spell you don't control into your hand. [i](Traces are cards that become copies when they enter public zones.)[/i]
+{T}: Add one mana of any color. Spend this mana only to cast traces. => {T}: Create a trace of target spell you don't control into your hand. [i](Traces can't exist in graveyards or exile and are tokens while on the battlefield.)[/i]
+{T}: Add one mana of any color. Spend this mana only to cast traces.
+
+Sneering Clique
+rules_text: When this creature enters, you may exile a creature card from your graveyard.
+Whenever one or more cards leave your graveyard, you may create a trace of one of those cards into your hand. Do this only once each turn. [i](Traces are cards that become copies when they enter public zones.)[/i] => When this creature enters, you may exile a creature card from your graveyard.
+Whenever one or more cards leave your graveyard, you may create a trace of one of those cards into your hand. Do this only once each turn. [i](Traces can't exist in graveyards or exile and are tokens while on the battlefield.)[/i]
+
+Talent of the Druid
+rules_text: Create a trace of Fog into your hand. [i](Traces are cards that become copies when they enter public zones. Fog is a {G} instant with “Prevent all combat damage that would be dealt this turn.”)[/i]
+Create a trace of Naturalize into your hand. [i](It's a {1}{G} instant with “Destroy target artifact or enchantment.”)[/i]
+Create a trace of Bounding Wold into your hand. [i](It's a {2}{G} 3/2 Wolf creature with flash and reach.)[/i] => Create a trace of a card named Fog into your hand. [i](Traces can't exist in graveyards or exile and are tokens while on the battlefield. Fog is a {G} instant with “Prevent all combat damage that would be dealt this turn.”)[/i]
+Create a trace of a card named Naturalize into your hand. [i](It's a {1}{G} instant with “Destroy target artifact or enchantment.”)[/i]
+Create a trace of a card named Bounding Wold into your hand. [i](It's a {2}{G} 3/2 Wolf creature with flash and reach.)[/i]
+
+Siren Choirmaster
+rules_text: Flying
+[i]Celebration[/i] — Whenever this creature attacks, if two or more nonland permanents entered the battlefield under your control this turn, create a trace of this card into your hand. [i](Traces are cards that become copies when they enter public zones.)[/i] => Flying
+[i]Celebration[/i] — Whenever this creature attacks, if two or more nonland permanents entered the battlefield under your control this turn, create a trace of this card into your hand. [i](Traces can't exist in graveyards or exile and are tokens while on the battlefield.)[/i]
+
+Stormbred Kavu
+rules_text: Haste
+Whenever this creature attacks, if there are three or more creature types among creatures in your menagerie, create a trace of Lightning Bolt into your hand. [i](Your menagerie consists of each non-Human creature you control with a single creature type. Traces are cards that become copies when they enter public zones. Lightning Bolt is a {R} instant with “Lightning Bolt deals 3 damage to any target.”)[/i] => Haste
+Whenever this creature attacks, if there are three or more creature types among creatures in your menagerie, create a trace of a card named Lightning Bolt into your hand. [i](Your menagerie consists of each non-Human creature you control with a single creature type. Traces can't exist in graveyards or exile and are tokens while on the battlefield. Lightning Bolt is a {R} instant with “Lightning Bolt deals 3 damage to any target.”)[/i]
+
+Lightning Bolt
+rules_text: [i](Traces are become copies when they enter public zones.)[/i]
+Lightning Bolt deals 3 damage to any target. => [i](Traces can't exist in graveyards or exile and are tokens while on the battlefield.)[/i]
+Lightning Bolt deals 3 damage to any target.
+
+Fog
+rules_text: [i](Traces are become copies when they enter public zones.)[/i]
+Prevent all combat damage that would be dealt this turn. => [i](Traces can't exist in graveyards or exile and are tokens while on the battlefield.)[/i]
+Prevent all combat damage that would be dealt this turn.
+
+Naturalize
+rules_text: [i](Traces are become copies when they enter public zones.)[/i]
+Destroy target artifact or enchantment. => [i](Traces can't exist in graveyards or exile and are tokens while on the battlefield.)[/i]
+Destroy target artifact or enchantment.
+
+Bounding Wolf
+rules_text: [i](Traces are become copies when they enter public zones.)[/i]
+Flash
+Reach => [i](Traces can't exist in graveyards or exile and are tokens while on the battlefield.)[/i]
+Flash
+Reach
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
