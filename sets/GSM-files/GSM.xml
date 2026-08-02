@@ -3806,9 +3806,13 @@ Destroy all artifacts and enchantments.</text>
 		</card>
 		<card>
 			<name>Talent of the Druid</name>
-			<text>Create a trace of a card named Fog into your hand. (Traces can&apos;t exist in graveyards or exile and are tokens while on the battlefield. Fog is a {G} instant with &quot;Prevent all combat damage that would be dealt this turn.&quot;)
-Create a trace of a card named Naturalize into your hand. (It&apos;s a {1}{G} instant with &quot;Destroy target artifact or enchantment.&quot;)
-Create a trace of a card named Bounding Wold into your hand. (It&apos;s a {2}{G} 3/2 Wolf creature with flash and reach.)</text>
+			<text>Create a trace of cards named Fog, Naturalize, and Bounding Wolf into your hand. (Traces can&apos;t exist in graveyards or exile and are tokens while on the battlefield.)
+[b]Fog {G}[/b]| Instant
+Prevent all combat damage that would be dealt this turn.
+[b]Naturalize[/b] {1}{G} | Instant
+Destroy target artifact or enchantment.
+[b]Bounding Wolf[/b] {2}{G} | 3/2 Creature — Wolf
+Flash, reach</text>
 			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/163_Talent of the Druid.png" num="163">GSM</set>
 			<prop>
 				<layout>normal</layout>
@@ -4187,7 +4191,9 @@ Pay 4 life: Return target creature card from your graveyard to the battlefield w
 		<card>
 			<name>Stormbred Kavu</name>
 			<text>Haste
-Whenever this creature attacks, if there are three or more creature types among creatures in your menagerie, create a trace of a card named Lightning Bolt into your hand. (Your menagerie consists of each non-Human creature you control with a single creature type. Traces can&apos;t exist in graveyards or exile and are tokens while on the battlefield. Lightning Bolt is a {R} instant with &quot;Lightning Bolt deals 3 damage to any target.&quot;)</text>
+Whenever this creature attacks, if there are three or more creature types among creatures in your menagerie, create a trace of a card named Lightning Bolt into your hand. (Your menagerie consists of each non-Human creature you control with a single creature type. Traces can&apos;t exist in graveyards or exile and are tokens while on the battlefield.)
+[b]Lightning Bolt[/b] {R} | Instant
+Lightning Bolt deals 3 damage to any target.</text>
 			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/130_Stormbred Kavu.png" num="130">GSM</set>
 			<prop>
 				<layout>normal</layout>
