@@ -1,4 +1,20 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Game Knights
+rules_text: When this creature enters, choose one—
+• Create a 1/1 Bard creature token that's all colors.
+• If you control three or more creatures, you get {V} [i](a ticket counter)[/i]. => When this creature enters, you get {V} [i](a ticket counter)[/i] if you control three or more creatures. Then create a 1/1 Bard creature token that's all colors. [i](Regardless of it you got {V} this way.)[/i]
+
+Fiery Skydancer
+rules_text: Flying, haste
+Attacking creatures you control get +1/+0. => Flying, haste
+Whenever you attack, creatures you control get +1/+0.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

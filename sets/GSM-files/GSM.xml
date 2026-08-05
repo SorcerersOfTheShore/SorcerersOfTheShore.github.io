@@ -5,7 +5,7 @@
 			<name>GSM</name>
 			<longname>Greatest Show in the Multiverse</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-02</releasedate>
+			<releasedate>2026-08-04</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -82,9 +82,7 @@ Your ringleader gets +1/+0.</text>
 		</card>
 		<card>
 			<name>Game Knights</name>
-			<text>When this creature enters, choose one—
-• Create a 1/1 Bard creature token that&apos;s all colors.
-• If you control three or more creatures, you get {V} (a ticket counter).</text>
+			<text>When this creature enters, you get {V} (a ticket counter) if you control three or more creatures. Then create a 1/1 Bard creature token that&apos;s all colors. (Regardless of it you got {V} this way.)</text>
 			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/14_Game Knights.png" num="14">GSM</set>
 			<prop>
 				<layout>normal</layout>
@@ -2928,7 +2926,7 @@ Spells you cast cost {1} less to cast as long as an opponent lost life this turn
 		<card>
 			<name>Fiery Skydancer</name>
 			<text>Flying, haste
-Attacking creatures you control get +1/+0.</text>
+Whenever you attack, creatures you control get +1/+0.</text>
 			<set rarity="uncommon" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/209_Fiery Skydancer.png" num="209">GSM</set>
 			<prop>
 				<layout>normal</layout>
