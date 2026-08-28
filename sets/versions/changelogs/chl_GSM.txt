@@ -1,4 +1,99 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Ticket Stash added.
+
+
+Test the Skies
+rules_text: Choose one—
+• Destroy target artifact or enchantment.
+• Instate a ringleader. It gains flying and vigilance until end of turn. [i](Choose a creature you control to become or remain your ringleader.)[/i] => Choose one —
+• Destroy target artifact or enchantment.
+• Instate a ringleader. It gains flying and vigilance until end of turn. [i](Choose a creature you control to become or remain your ringleader.)[/i]
+
+Laughing Matter
+rules_text: Choose one—
+• Each opponent sacrifices a creature of their choice.
+• Each opponent sacrifices a planeswalker of their choice.
+• Each opponent sacrifices their ringleader. => Choose one —
+• Each opponent sacrifices a creature of their choice.
+• Each opponent sacrifices a planeswalker of their choice.
+• Each opponent sacrifices their ringleader.
+
+First Drop
+rules_text: Choose one—
+• First Drop deals 2 damage to target creature or planeswalker.
+• Target attacking creature gets +2/+2 and gains trample until end of turn. => Choose one —
+• First Drop deals 2 damage to target creature or planeswalker.
+• Target attacking creature gets +2/+2 and gains trample until end of turn.
+
+Stage Mishap
+rules_text: Choose one—
+• Stage Mishap deals 4 damage to target creature or planeswalker.
+• Destroy target artifact. => Choose one —
+• Stage Mishap deals 4 damage to target creature or planeswalker.
+• Destroy target artifact.
+
+Lift the Veil
+rules_text: Choose one—
+• Destroy target enchantment or planeswalker.
+• Look at the top three cards of your library. Put one of those cards into your hand, one on top of your library, and one on the bottom of your library. => Choose one —
+• Destroy target enchantment or planeswalker.
+• Look at the top three cards of your library. Put one of those cards into your hand, one on top of your library, and one on the bottom of your library.
+
+Command the Nightshow
+rules_text: Choose two—
+• Create a 1/1 black and green Snake creature token with deathtouch.
+• Create a 3/1 black and red Lizard creature token with menace.
+• Create a Food token.
+• Create a Treasure token. => Choose two —
+• Create a 1/1 black and green Snake creature token with deathtouch.
+• Create a 3/1 black and red Lizard creature token with menace.
+• Create a Food token.
+• Create a Treasure token.
+
+Towering Gigaspire
+
+Sneering Clique
+rules_text: When this creature enters, you may exile a creature card from your graveyard.
+Whenever one or more cards leave your graveyard, you may create a trace of one of those cards into your hand. Do this only once each turn. [i](Traces can't exist in graveyards or exile and are tokens while on the battlefield.)[/i] => When this creature enters, you may exile a creature card from your graveyard.
+Whenever one or more cards leave your graveyard, you may choose one of those cards. If you do, create a trace of that card. Do this only once each turn. [i](Traces can't exist in graveyards or exile and are tokens while on the battlefield.)[/i]
+
+Weave the Manastreams
+rules_text: Choose up to X—
+• Create a Manalith token. [i](A {3} artifact with “{T}: Add one mana of any color.”)[/i]
+• Create a Utopia Tree token. [i](A {1}{G} 0/2 Plant creature with “{T}: Add one mana of any color.”)[/i]
+• Create a Fertile Ground token. [i](A {1}{G} Aura enchantment with enchant land and “Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.”)[/i] => Choose up to X —
+• Create a Manalith token. [i](A {3} artifact with “{T}: Add one mana of any color.”)[/i]
+• Create a Utopia Tree token. [i](A {1}{G} 0/2 Plant creature with “{T}: Add one mana of any color.”)[/i]
+• Create a Fertile Ground token. [i](A {1}{G} Aura enchantment with enchant land and “Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.”)[/i]
+
+Seize the Opportunity
+rules_text: Choose up to X. You control target opponent during their next of each of those phases.
+• Beginning phase
+• First main phase
+• Combat phase
+• Postcombat main phase
+• Ending phase
+Exile Seize the Opportunity. => Choose up to X. You control target opponent during their next of each of the chosen phases.
+• Beginning phase
+• First main phase
+• Combat phase
+• Postcombat main phase
+• Ending phase
+Exile Seize the Opportunity.
+
+Horatio, the Showrunner
+rules_text: When Horatio enters, exile up to three cards from your graveyard.
+[+1]: You may copy a card with mana value 2 or less exiled with Horatio. You may cast the copy without paying its mana cost. [i](A copy of a permanent spell becomes a token.)[/i]
+[-3]: Copy a card with mana value 3 or {4} exiled with Horatio. You may cast the copy without paying its mana cost.
+[-7]: Copy each card exiled with Horatio. You may cast the copies without paying their mana costs. => When Horatio enters, exile up to three nonland cards from your graveyard.
+[+1]: You may copy a card with mana value 2 or less exiled with Horatio. You may cast the copy without paying its mana cost. [i](A copy of a permanent spell becomes a token.)[/i]
+[-3]: Copy a card with mana value 3 or {4} exiled with Horatio. You may cast the copy without paying its mana cost.
+[-7]: Copy each card exiled with Horatio. You may cast the copies without paying their mana costs.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 No changes.

@@ -1,0 +1,3174 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Ambassador of the Protectors",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Giant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/0.png"
+			}
+		},
+		{
+			"name": "Anger to Remorse",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/1.png"
+			}
+		},
+		{
+			"name": "Battledriver Giant",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Giant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/2.png"
+			}
+		},
+		{
+			"name": "Caller of the Protectors",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/3.png"
+			}
+		},
+		{
+			"name": "Cast to Nothingness",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/4.png"
+			}
+		},
+		{
+			"name": "Communual Offering",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/5.png"
+			}
+		},
+		{
+			"name": "Courrier of Hope",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/6.png"
+			}
+		},
+		{
+			"name": "Dawnwaker",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Giant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/7.png"
+			}
+		},
+		{
+			"name": "Edgecrosser",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Creature — Giant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/8.png"
+			}
+		},
+		{
+			"name": "Elistor, Exalted One",
+			"rarity": "mythic",
+			"mana_cost": "{8}{W}{W}",
+			"type": "Legendary Creature — Giant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/9.png"
+			}
+		},
+		{
+			"name": "Eternal Prison",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/10.png"
+			}
+		},
+		{
+			"name": "Follower of Footsteps",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Giant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/11.png"
+			}
+		},
+		{
+			"name": "Gather the Devoted",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/12.png"
+			}
+		},
+		{
+			"name": "Giant's Steppe Seekers",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/13.png"
+			}
+		},
+		{
+			"name": "Guiding Light",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/14.png"
+			}
+		},
+		{
+			"name": "Honored Protector",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Giant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/15.png"
+			}
+		},
+		{
+			"name": "Hushmaker",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/16.png"
+			}
+		},
+		{
+			"name": "Keeper of the Splendid",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/17.png"
+			}
+		},
+		{
+			"name": "Loa, The All-Caller",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/18.png"
+			}
+		},
+		{
+			"name": "The Masked Healer",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/19.png"
+			}
+		},
+		{
+			"name": "Mighty Eagle",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/20.png"
+			}
+		},
+		{
+			"name": "Neverending Persistence",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/21.png"
+			}
+		},
+		{
+			"name": "Presence of Greatness",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/22.png"
+			}
+		},
+		{
+			"name": "Prosperous Hope",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/23.png"
+			}
+		},
+		{
+			"name": "Pulai, Esteemed Honorer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/24.png"
+			}
+		},
+		{
+			"name": "Radiant Mentor",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/25.png"
+			}
+		},
+		{
+			"name": "Readied Protection",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/26.png"
+			}
+		},
+		{
+			"name": "Relic of Xiphaes",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/27.png"
+			}
+		},
+		{
+			"name": "Render Insignificant",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/28.png"
+			}
+		},
+		{
+			"name": "Restless Wanderer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Giant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/29.png"
+			}
+		},
+		{
+			"name": "Seeker of Greatness",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/30.png"
+			}
+		},
+		{
+			"name": "Stalwart Instructor",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/31.png"
+			}
+		},
+		{
+			"name": "Stalwart Solidarity",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/32.png"
+			}
+		},
+		{
+			"name": "Steadfast Protector",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Giant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/33.png"
+			}
+		},
+		{
+			"name": "Tireless Traveler",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/34.png"
+			}
+		},
+		{
+			"name": "Triumph Against Ferocity",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/35.png"
+			}
+		},
+		{
+			"name": "Triumphant Efforts",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/36.png"
+			}
+		},
+		{
+			"name": "Wingminded Warpriest",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/37.png"
+			}
+		},
+		{
+			"name": "Adalrad, Concoctopus",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Octopus Shaman",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/38.png"
+			}
+		},
+		{
+			"name": "Arvis, the Tidewaker",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Shark",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/39.png"
+			}
+		},
+		{
+			"name": "Beneath the Tides",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/40.png"
+			}
+		},
+		{
+			"name": "Bident of Kiora",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Enchantment Artifact",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/41.png"
+			}
+		},
+		{
+			"name": "Breach the Surface",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/42.png"
+			}
+		},
+		{
+			"name": "Command the Deep",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/43.png"
+			}
+		},
+		{
+			"name": "Contingency Plan",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/44.png"
+			}
+		},
+		{
+			"name": "Coralhide Wurm",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Wurm",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/45.png"
+			}
+		},
+		{
+			"name": "Crafter of Relics",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/46.png"
+			}
+		},
+		{
+			"name": "Crafty Octopod",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Octopus",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/47.png"
+			}
+		},
+		{
+			"name": "Drown Out",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/48.png"
+			}
+		},
+		{
+			"name": "Enigma Field",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Enchantment",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/49.png"
+			}
+		},
+		{
+			"name": "Eon Swallower",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Leviathan",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/50.png"
+			}
+		},
+		{
+			"name": "Evergrowing Kraken",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Kraken",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/51.png"
+			}
+		},
+		{
+			"name": "Exalted Griffin",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Griffin",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/52.png"
+			}
+		},
+		{
+			"name": "Glimpse the Deep-Keeper",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/53.png"
+			}
+		},
+		{
+			"name": "Glorious Reward",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/54.png"
+			}
+		},
+		{
+			"name": "Grip of Tentacles",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/55.png"
+			}
+		},
+		{
+			"name": "Keeper of the Sunken",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Shark",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/56.png"
+			}
+		},
+		{
+			"name": "Limitless Insight",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/57.png"
+			}
+		},
+		{
+			"name": "Lucid Seer",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/58.png"
+			}
+		},
+		{
+			"name": "Murkwater Lurker",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/59.png"
+			}
+		},
+		{
+			"name": "Normungan, Shelled Scourge",
+			"rarity": "mythic",
+			"mana_cost": "{8}{U}{U}",
+			"type": "Legendary Creature — Trilobite",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/60.png"
+			}
+		},
+		{
+			"name": "Nuvan, the Deep-Favored",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/61.png"
+			}
+		},
+		{
+			"name": "Octopod Manipulator",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Octopus",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/62.png"
+			}
+		},
+		{
+			"name": "Plunge Sanity",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/63.png"
+			}
+		},
+		{
+			"name": "Protected by the Deep",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/64.png"
+			}
+		},
+		{
+			"name": "Relic of Abussaee",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/65.png"
+			}
+		},
+		{
+			"name": "Rethink",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/66.png"
+			}
+		},
+		{
+			"name": "Sanity Drowner",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Kraken",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/67.png"
+			}
+		},
+		{
+			"name": "Scavenger of Shipwrecks",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Shark",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/68.png"
+			}
+		},
+		{
+			"name": "See the Inevitable",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/69.png"
+			}
+		},
+		{
+			"name": "Spawn of the Depths",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Leviathan",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/70.png"
+			}
+		},
+		{
+			"name": "Summit of Revelation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/71.png"
+			}
+		},
+		{
+			"name": "Sweep the Shores",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/72.png"
+			}
+		},
+		{
+			"name": "Tome Implanter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/73.png"
+			}
+		},
+		{
+			"name": "Tribute of Sanity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/74.png"
+			}
+		},
+		{
+			"name": "Windward Seer",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/75.png"
+			}
+		},
+		{
+			"name": "Wisdom Quantifier",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/76.png"
+			}
+		},
+		{
+			"name": "Agony Caster",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/77.png"
+			}
+		},
+		{
+			"name": "Arisen Insanity",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/78.png"
+			}
+		},
+		{
+			"name": "Call to Life",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/79.png"
+			}
+		},
+		{
+			"name": "Carrion Scrounger",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Satyr Cleric",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/80.png"
+			}
+		},
+		{
+			"name": "Commune With the Forbidden",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/81.png"
+			}
+		},
+		{
+			"name": "Cycle's End",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/82.png"
+			}
+		},
+		{
+			"name": "Deathchaser Serpent",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Serpent",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/83.png"
+			}
+		},
+		{
+			"name": "Doom to Inferiority",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/84.png"
+			}
+		},
+		{
+			"name": "Edge of the Beyond",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/85.png"
+			}
+		},
+		{
+			"name": "Embrace Oblivion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/86.png"
+			}
+		},
+		{
+			"name": "Essence Etcher",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/87.png"
+			}
+		},
+		{
+			"name": "Etchweaver",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/88.png"
+			}
+		},
+		{
+			"name": "Exemplary Follower",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/89.png"
+			}
+		},
+		{
+			"name": "False Caller",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Satyr Shaman",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/90.png"
+			}
+		},
+		{
+			"name": "Follower of the Inevitable",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/91.png"
+			}
+		},
+		{
+			"name": "Gravecrawler Wurm",
+			"rarity": "common",
+			"mana_cost": "{6}{B}",
+			"type": "Creature — Zombie Wurm",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/92.png"
+			}
+		},
+		{
+			"name": "Grim Revelation",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/93.png"
+			}
+		},
+		{
+			"name": "Heartless Winnower",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/94.png"
+			}
+		},
+		{
+			"name": "Induce Despair",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/95.png"
+			}
+		},
+		{
+			"name": "Infernal Edict",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/96.png"
+			}
+		},
+		{
+			"name": "Invoke the Harbinger",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/97.png"
+			}
+		},
+		{
+			"name": "Invoker of the Past",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Satyr Cleric",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/98.png"
+			}
+		},
+		{
+			"name": "Lace With Potency",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/99.png"
+			}
+		},
+		{
+			"name": "Malrin, Slaughter-Regent",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Skeleton Giant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/100.png"
+			}
+		},
+		{
+			"name": "Mark of Oblivion",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/101.png"
+			}
+		},
+		{
+			"name": "Nightmare's Thirst",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/102.png"
+			}
+		},
+		{
+			"name": "Patron of Blood",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/103.png"
+			}
+		},
+		{
+			"name": "Relic of Exodais",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/104.png"
+			}
+		},
+		{
+			"name": "Rise Again",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/105.png"
+			}
+		},
+		{
+			"name": "Ritual Keeper",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/106.png"
+			}
+		},
+		{
+			"name": "Ritualist of the Forbidden",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/107.png"
+			}
+		},
+		{
+			"name": "Sanguine Devotion",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/108.png"
+			}
+		},
+		{
+			"name": "Scion of Oblivion",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/109.png"
+			}
+		},
+		{
+			"name": "Uncover the Vault",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/110.png"
+			}
+		},
+		{
+			"name": "Unseal the Vault",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/111.png"
+			}
+		},
+		{
+			"name": "Vengeant Reaver",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Skeleton Giant",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/112.png"
+			}
+		},
+		{
+			"name": "Weight of Insignificance",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/113.png"
+			}
+		},
+		{
+			"name": "Willing Vessel",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/114.png"
+			}
+		},
+		{
+			"name": "Aria of Ashes",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/115.png"
+			}
+		},
+		{
+			"name": "Assert Dominance",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/116.png"
+			}
+		},
+		{
+			"name": "Axehead Shark",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Shark",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/117.png"
+			}
+		},
+		{
+			"name": "Battlesweeper Giant",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Giant",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/118.png"
+			}
+		},
+		{
+			"name": "Brutal Conflict",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/119.png"
+			}
+		},
+		{
+			"name": "Churn the Tides",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/120.png"
+			}
+		},
+		{
+			"name": "Cinder Spree",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/121.png"
+			}
+		},
+		{
+			"name": "Crushing Weight",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/122.png"
+			}
+		},
+		{
+			"name": "Disciple of Eos",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/123.png"
+			}
+		},
+		{
+			"name": "Dominate the Shallows",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/124.png"
+			}
+		},
+		{
+			"name": "Electrified Predator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Shark",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/125.png"
+			}
+		},
+		{
+			"name": "Embers of Creation",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/126.png"
+			}
+		},
+		{
+			"name": "Frenzied Callings",
+			"rarity": "common",
+			"mana_cost": "{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/127.png"
+			}
+		},
+		{
+			"name": "Frenzied Follower",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Satyr Warrior",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/128.png"
+			}
+		},
+		{
+			"name": "Furybringer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Giant",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/129.png"
+			}
+		},
+		{
+			"name": "Grinning Ignus",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/130.png"
+			}
+		},
+		{
+			"name": "Havoc Rush",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/131.png"
+			}
+		},
+		{
+			"name": "Huro, the Ash-Reader",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/132.png"
+			}
+		},
+		{
+			"name": "Imbue with Fury",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/133.png"
+			}
+		},
+		{
+			"name": "Intimidation Tactics",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/134.png"
+			}
+		},
+		{
+			"name": "Keeper of Great Flames",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Giant",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/135.png"
+			}
+		},
+		{
+			"name": "Massive Scale",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/136.png"
+			}
+		},
+		{
+			"name": "Melt to Material",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/137.png"
+			}
+		},
+		{
+			"name": "Molten Concoction",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/138.png"
+			}
+		},
+		{
+			"name": "Preparer of Rites",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/139.png"
+			}
+		},
+		{
+			"name": "Pressence of the Mighty",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/140.png"
+			}
+		},
+		{
+			"name": "Pyremaker",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/141.png"
+			}
+		},
+		{
+			"name": "Pyrewise Master",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/142.png"
+			}
+		},
+		{
+			"name": "Reckless Battledriver",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Giant",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/143.png"
+			}
+		},
+		{
+			"name": "Relentless Mako",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Shark",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/144.png"
+			}
+		},
+		{
+			"name": "Relic of Eos",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/145.png"
+			}
+		},
+		{
+			"name": "Ruinator Scourge",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Serpent Dragon",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/146.png"
+			}
+		},
+		{
+			"name": "Ruthless Invoker",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/147.png"
+			}
+		},
+		{
+			"name": "Schooling Serpent",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Serpent",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/148.png"
+			}
+		},
+		{
+			"name": "Squash",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/149.png"
+			}
+		},
+		{
+			"name": "Vargad, the Golden Titan",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Legendary Artifact Creature — Giant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/150.png"
+			}
+		},
+		{
+			"name": "Viscous Mangler",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Kraken",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/151.png"
+			}
+		},
+		{
+			"name": "Voltaic Titan",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Elemental Giant",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/152.png"
+			}
+		},
+		{
+			"name": "Act of the Ancients",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/153.png"
+			}
+		},
+		{
+			"name": "Animist Tracker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/154.png"
+			}
+		},
+		{
+			"name": "Archdruid",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}{G}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/155.png"
+			}
+		},
+		{
+			"name": "Blind Bashing",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/156.png"
+			}
+		},
+		{
+			"name": "Brilliant Communion",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/157.png"
+			}
+		},
+		{
+			"name": "Call for Biotace",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/158.png"
+			}
+		},
+		{
+			"name": "Daunting Titan",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Elemental Giant",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/159.png"
+			}
+		},
+		{
+			"name": "Defender of the Vastlands",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Giant",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/160.png"
+			}
+		},
+		{
+			"name": "Director of Rebirth",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/161.png"
+			}
+		},
+		{
+			"name": "Druid of New Life",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/162.png"
+			}
+		},
+		{
+			"name": "End the End",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/163.png"
+			}
+		},
+		{
+			"name": "Essence-Flooded Serpent",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Serpent",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/164.png"
+			}
+		},
+		{
+			"name": "Evoke the Elements",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/165.png"
+			}
+		},
+		{
+			"name": "Flourishing Giant",
+			"rarity": "common",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature — Giant",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/166.png"
+			}
+		},
+		{
+			"name": "Followed Protector",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elemental Giant",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/167.png"
+			}
+		},
+		{
+			"name": "Grapple with the Past",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/168.png"
+			}
+		},
+		{
+			"name": "Greater Land Serpent",
+			"rarity": "common",
+			"mana_cost": "{6}{G}",
+			"type": "Creature — Wurm",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/169.png"
+			}
+		},
+		{
+			"name": "Harbinger of the Great Ones",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/170.png"
+			}
+		},
+		{
+			"name": "Invoker of the Undergrowth",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/171.png"
+			}
+		},
+		{
+			"name": "Manyheaded Serpent",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Serpent Hydra",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/172.png"
+			}
+		},
+		{
+			"name": "Manyminded Deathbloom",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Plant Kraken",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/173.png"
+			}
+		},
+		{
+			"name": "Master Reshaper",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/174.png"
+			}
+		},
+		{
+			"name": "Ravage the Canopy",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/175.png"
+			}
+		},
+		{
+			"name": "Relic of Biotace",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/176.png"
+			}
+		},
+		{
+			"name": "Ruthless Contest",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/177.png"
+			}
+		},
+		{
+			"name": "Seaweaver Serpent",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Serpent",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/178.png"
+			}
+		},
+		{
+			"name": "Serene Animist",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/179.png"
+			}
+		},
+		{
+			"name": "Serpent of the Grove",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Serpent",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/180.png"
+			}
+		},
+		{
+			"name": "Skyward Giant",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Giant",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/181.png"
+			}
+		},
+		{
+			"name": "Spellgorger Tyrano",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/182.png"
+			}
+		},
+		{
+			"name": "Sylvan Scrying",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/183.png"
+			}
+		},
+		{
+			"name": "U'Kala, Revered Protector",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Legendary Creature — Giant",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/184.png"
+			}
+		},
+		{
+			"name": "Undying Undergrowth",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/185.png"
+			}
+		},
+		{
+			"name": "Vital Infusion",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/186.png"
+			}
+		},
+		{
+			"name": "Vitalizing Boon",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/187.png"
+			}
+		},
+		{
+			"name": "Wildwood Waker",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/188.png"
+			}
+		},
+		{
+			"name": "Worldtender",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/189.png"
+			}
+		},
+		{
+			"name": "Autochthon Wurm",
+			"rarity": "rare",
+			"mana_cost": "{10}{G}{G}{G}{W}{W}",
+			"type": "Creature — Wurm",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/190.png"
+			}
+		},
+		{
+			"name": "Doomsnap, the Tide-Eater",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}{G}",
+			"type": "Legendary Creature — Leviathan",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/191.png"
+			}
+		},
+		{
+			"name": "E'Sol, Radiant One",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Legendary Planeswalker — E'Sol",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/192.png"
+			}
+		},
+		{
+			"name": "Gern, the Quakemaker",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Legendary Creature — Giant",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/193.png"
+			}
+		},
+		{
+			"name": "Gorod, the Walking City",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{G}{W}",
+			"type": "Legendary Creature — Dinosaur",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/194.png"
+			}
+		},
+		{
+			"name": "Gulcux, Acolyte of Ends",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Planeswalker — Gulcux",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/195.png"
+			}
+		},
+		{
+			"name": "Hekmaj, the Hatemaker",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Satyr Shaman",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/196.png"
+			}
+		},
+		{
+			"name": "Icknick, Life-Invoker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/197.png"
+			}
+		},
+		{
+			"name": "Kiora, Caller of the Deep",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Planeswalker — Kiora",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/198.png"
+			}
+		},
+		{
+			"name": "Marine, Kraken Breeder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/199.png"
+			}
+		},
+		{
+			"name": "Mt. Skyshred",
+			"rarity": "rare",
+			"mana_cost": "{6}{R}{G}",
+			"type": "Legendary Creature — Elemental",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/200.png"
+			}
+		},
+		{
+			"name": "Nerak, Herald of Processions",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/201.png"
+			}
+		},
+		{
+			"name": "O'Lime, Reefkeeper",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Shark",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/202.png"
+			}
+		},
+		{
+			"name": "Ruyel, Tribute Keeper",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Legendary Creature — Serpent",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/203.png"
+			}
+		},
+		{
+			"name": "Semaj, Eternity-Seer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/204.png"
+			}
+		},
+		{
+			"name": "Animate Offering",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Treasure Golem",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/205.png"
+			}
+		},
+		{
+			"name": "Awakened Attendant",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/206.png"
+			}
+		},
+		{
+			"name": "Beacon of Greatness",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/207.png"
+			}
+		},
+		{
+			"name": "Behemoth Maul",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/208.png"
+			}
+		},
+		{
+			"name": "Cityback Golem",
+			"rarity": "uncommon",
+			"mana_cost": "{8}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/209.png"
+			}
+		},
+		{
+			"name": "Cursed Relic",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Treasure",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/210.png"
+			}
+		},
+		{
+			"name": "Endless Spoils",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/211.png"
+			}
+		},
+		{
+			"name": "Great Sentinel",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/212.png"
+			}
+		},
+		{
+			"name": "Idol of Inevitability",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/213.png"
+			}
+		},
+		{
+			"name": "Living Landmass",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Bird Golem",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/214.png"
+			}
+		},
+		{
+			"name": "Obelisk of Origin",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/215.png"
+			}
+		},
+		{
+			"name": "Pinnacle of Worship",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/216.png"
+			}
+		},
+		{
+			"name": "Springleaf Drum",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/217.png"
+			}
+		},
+		{
+			"name": "Staff of the Ancients",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/218.png"
+			}
+		},
+		{
+			"name": "Thought Replicator",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/219.png"
+			}
+		},
+		{
+			"name": "Tireless Worshiper",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/220.png"
+			}
+		},
+		{
+			"name": "Tome of the Ancients",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/221.png"
+			}
+		},
+		{
+			"name": "Voltaic Wurm",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Wurm",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/222.png"
+			}
+		},
+		{
+			"name": "Wayfarer's Bauble",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/223.png"
+			}
+		},
+		{
+			"name": "Worldcrawler Golem",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/224.png"
+			}
+		},
+		{
+			"name": "Bed of the Sun",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "229",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/225_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/225_front.png"
+			}
+		},
+		{
+			"name": "Carved Peak",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "230",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/226_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/226_front.png"
+			}
+		},
+		{
+			"name": "Cascading Fountain",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "231",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/227_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/227_front.png"
+			}
+		},
+		{
+			"name": "Churning Depths",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "232",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/228_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/228_front.png"
+			}
+		},
+		{
+			"name": "Cradle of Evergrowth",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "233",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/229_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/229_front.png"
+			}
+		},
+		{
+			"name": "Enduring Elevation",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "234",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/230_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/230_front.png"
+			}
+		},
+		{
+			"name": "Everlasting Typhoon",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "235",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/231_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/231_front.png"
+			}
+		},
+		{
+			"name": "Flowering Grove",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "236",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/232_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/232_front.png"
+			}
+		},
+		{
+			"name": "Followed Path",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "237",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/233_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/233_front.png"
+			}
+		},
+		{
+			"name": "Frozen Wastes",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "238",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/234_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/234_front.png"
+			}
+		},
+		{
+			"name": "Gargantuan Grave",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "239",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/235_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/235_front.png"
+			}
+		},
+		{
+			"name": "Gnarled Waves",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "240",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/236_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/236_front.png"
+			}
+		},
+		{
+			"name": "Gorged Trench",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "241",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/237_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/237_front.png"
+			}
+		},
+		{
+			"name": "Great Den",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "242",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/238_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/238_front.png"
+			}
+		},
+		{
+			"name": "Hall of Temptations",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "243",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/239_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/239_front.png"
+			}
+		},
+		{
+			"name": "Head of the Woods",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "244",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/240_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/240_front.png"
+			}
+		},
+		{
+			"name": "Heart of the World",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "245",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/241_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/241_front.png"
+			}
+		},
+		{
+			"name": "Maw of the Deep",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "246",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/242_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/242_front.png"
+			}
+		},
+		{
+			"name": "Monument to the Skybound",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "247",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/243_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/243_front.png"
+			}
+		},
+		{
+			"name": "Murky Waters",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/244_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/244_front.png"
+			}
+		},
+		{
+			"name": "Nexus of the Beginning",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "249",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/245_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/245_front.png"
+			}
+		},
+		{
+			"name": "Path of Ruin",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "250",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/246_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/246_front.png"
+			}
+		},
+		{
+			"name": "Path of Thorns",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "251",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/247_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/247_front.png"
+			}
+		},
+		{
+			"name": "Pool of Blood",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "252",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/248_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/248_front.png"
+			}
+		},
+		{
+			"name": "Pool of Vitality",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "253",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/249_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/249_front.png"
+			}
+		},
+		{
+			"name": "Predator's Den",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "254",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/250_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/250_front.png"
+			}
+		},
+		{
+			"name": "Ravaged Vista",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "255",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/251_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/251_front.png"
+			}
+		},
+		{
+			"name": "Sacred Valley",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "256",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/252_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/252_front.png"
+			}
+		},
+		{
+			"name": "Scourged Grounds",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "257",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/253_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/253_front.png"
+			}
+		},
+		{
+			"name": "Seafloor of Shipwrecks",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "258",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/254_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/254_front.png"
+			}
+		},
+		{
+			"name": "Signs of Protection",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "259",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/255_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/255_front.png"
+			}
+		},
+		{
+			"name": "The Soul Cages",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "260",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/256_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/256_front.png"
+			}
+		},
+		{
+			"name": "Throne of Amplalo",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/257.png"
+			}
+		},
+		{
+			"name": "Throne of Bones",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "262",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/258_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/258_front.png"
+			}
+		},
+		{
+			"name": "Tomb of the Slain",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "263",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/259_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/259_front.png"
+			}
+		},
+		{
+			"name": "Vault of the End",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "264",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/260_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/260_front.png"
+			}
+		},
+		{
+			"name": "Volcanic Edge",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "265",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/261_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/261_front.png"
+			}
+		},
+		{
+			"name": "Total Devotion",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Enchantment",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/262.png"
+			}
+		},
+		{
+			"name": "Chord of Calling",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}{G}",
+			"type": "Instant",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/263.png"
+			}
+		},
+		{
+			"name": "Amulet of Vigor",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://SorcerersOfTheShore.github.io/sets/AMP-files/img/264.png"
+			}
+		}
+	]
+
+[rare(1)]
+	5 Anger to Remorse
+	5 Edgecrosser
+	5 Elistor, Exalted One
+	5 Hushmaker
+	5 Loa, The All-Caller
+	5 The Masked Healer
+	5 Presence of Greatness
+	5 Prosperous Hope
+	5 Pulai, Esteemed Honorer
+	5 Stalwart Instructor
+	5 Tireless Traveler
+	5 Adalrad, Concoctopus
+	5 Arvis, the Tidewaker
+	5 Bident of Kiora
+	5 Command the Deep
+	5 Coralhide Wurm
+	5 Enigma Field
+	5 Eon Swallower
+	5 Limitless Insight
+	5 Lucid Seer
+	5 Normungan, Shelled Scourge
+	5 Nuvan, the Deep-Favored
+	5 Wisdom Quantifier
+	5 Agony Caster
+	5 Arisen Insanity
+	5 Cycle's End
+	5 Doom to Inferiority
+	5 Essence Etcher
+	5 Etchweaver
+	5 Grim Revelation
+	5 Malrin, Slaughter-Regent
+	5 Patron of Blood
+	5 Sanguine Devotion
+	5 Uncover the Vault
+	5 Aria of Ashes
+	5 Cinder Spree
+	5 Disciple of Eos
+	5 Embers of Creation
+	5 Huro, the Ash-Reader
+	5 Intimidation Tactics
+	5 Keeper of Great Flames
+	5 Massive Scale
+	5 Relentless Mako
+	5 Ruinator Scourge
+	5 Vargad, the Golden Titan
+	5 Archdruid
+	5 Blind Bashing
+	5 Daunting Titan
+	5 Director of Rebirth
+	5 End the End
+	5 Essence-Flooded Serpent
+	5 Master Reshaper
+	5 Spellgorger Tyrano
+	5 U'Kala, Revered Protector
+	5 Worldtender
+	5 Autochthon Wurm
+	5 E'Sol, Radiant One
+	5 Gulcux, Acolyte of Ends
+	5 Kiora, Caller of the Deep
+	5 Mt. Skyshred
+	5 Awakened Attendant
+	5 Beacon of Greatness
+	5 Obelisk of Origin
+	5 Thought Replicator
+	5 Bed of the Sun
+	5 Cradle of Evergrowth
+	5 Enduring Elevation
+	5 Everlasting Typhoon
+	5 Gorged Trench
+	5 Heart of the World
+	5 Maw of the Deep
+	5 Nexus of the Beginning
+	5 Path of Ruin
+	5 Predator's Den
+	5 Sacred Valley
+	5 Scourged Grounds
+	5 The Soul Cages
+	5 Throne of Amplalo
+	5 Throne of Bones
+	5 Tomb of the Slain
+	5 Vault of the End
+	5 Total Devotion
+	5 Chord of Calling
+	5 Amulet of Vigor
+[uncommon(3)]
+	5 Ambassador of the Protectors
+	5 Communual Offering
+	5 Eternal Prison
+	5 Keeper of the Splendid
+	5 Neverending Persistence
+	5 Restless Wanderer
+	5 Stalwart Solidarity
+	5 Wingminded Warpriest
+	5 Evergrowing Kraken
+	5 Glimpse the Deep-Keeper
+	5 Glorious Reward
+	5 Keeper of the Sunken
+	5 See the Inevitable
+	5 Summit of Revelation
+	5 Tome Implanter
+	5 Tribute of Sanity
+	5 Call to Life
+	5 Edge of the Beyond
+	5 Embrace Oblivion
+	5 Exemplary Follower
+	5 False Caller
+	5 Follower of the Inevitable
+	5 Nightmare's Thirst
+	5 Unseal the Vault
+	5 Brutal Conflict
+	5 Churn the Tides
+	5 Electrified Predator
+	5 Furybringer
+	5 Havoc Rush
+	5 Melt to Material
+	5 Preparer of Rites
+	5 Pyrewise Master
+	5 Act of the Ancients
+	5 Animist Tracker
+	5 Brilliant Communion
+	5 Defender of the Vastlands
+	5 Druid of New Life
+	5 Manyheaded Serpent
+	5 Sylvan Scrying
+	5 Undying Undergrowth
+	5 Doomsnap, the Tide-Eater
+	5 Gern, the Quakemaker
+	5 Gorod, the Walking City
+	5 Hekmaj, the Hatemaker
+	5 Icknick, Life-Invoker
+	5 Marine, Kraken Breeder
+	5 Nerak, Herald of Processions
+	5 O'Lime, Reefkeeper
+	5 Ruyel, Tribute Keeper
+	5 Semaj, Eternity-Seer
+	5 Animate Offering
+	5 Behemoth Maul
+	5 Cityback Golem
+	5 Cursed Relic
+	5 Endless Spoils
+	5 Living Landmass
+	5 Springleaf Drum
+	5 Tome of the Ancients
+	5 Voltaic Wurm
+	5 Worldcrawler Golem
+	5 Carved Peak
+	5 Cascading Fountain
+	5 Churning Depths
+	5 Flowering Grove
+	5 Followed Path
+	5 Frozen Wastes
+	5 Gargantuan Grave
+	5 Gnarled Waves
+	5 Great Den
+	5 Hall of Temptations
+	5 Head of the Woods
+	5 Monument to the Skybound
+	5 Murky Waters
+	5 Path of Thorns
+	5 Pool of Blood
+	5 Pool of Vitality
+	5 Ravaged Vista
+	5 Seafloor of Shipwrecks
+	5 Signs of Protection
+	5 Volcanic Edge
+[common(10)]
+	5 Battledriver Giant
+	5 Caller of the Protectors
+	5 Cast to Nothingness
+	5 Courrier of Hope
+	5 Dawnwaker
+	5 Follower of Footsteps
+	5 Gather the Devoted
+	5 Giant's Steppe Seekers
+	5 Guiding Light
+	5 Honored Protector
+	5 Mighty Eagle
+	5 Radiant Mentor
+	5 Readied Protection
+	5 Relic of Xiphaes
+	5 Render Insignificant
+	5 Seeker of Greatness
+	5 Steadfast Protector
+	5 Triumph Against Ferocity
+	5 Triumphant Efforts
+	5 Beneath the Tides
+	5 Breach the Surface
+	5 Contingency Plan
+	5 Crafter of Relics
+	5 Crafty Octopod
+	5 Drown Out
+	5 Exalted Griffin
+	5 Grip of Tentacles
+	5 Murkwater Lurker
+	5 Octopod Manipulator
+	5 Plunge Sanity
+	5 Protected by the Deep
+	5 Relic of Abussaee
+	5 Rethink
+	5 Sanity Drowner
+	5 Scavenger of Shipwrecks
+	5 Spawn of the Depths
+	5 Sweep the Shores
+	5 Windward Seer
+	5 Carrion Scrounger
+	5 Commune With the Forbidden
+	5 Deathchaser Serpent
+	5 Gravecrawler Wurm
+	5 Heartless Winnower
+	5 Induce Despair
+	5 Infernal Edict
+	5 Invoke the Harbinger
+	5 Invoker of the Past
+	5 Lace With Potency
+	5 Mark of Oblivion
+	5 Relic of Exodais
+	5 Rise Again
+	5 Ritual Keeper
+	5 Ritualist of the Forbidden
+	5 Scion of Oblivion
+	5 Vengeant Reaver
+	5 Weight of Insignificance
+	5 Willing Vessel
+	5 Assert Dominance
+	5 Axehead Shark
+	5 Battlesweeper Giant
+	5 Crushing Weight
+	5 Dominate the Shallows
+	5 Frenzied Callings
+	5 Frenzied Follower
+	5 Grinning Ignus
+	5 Imbue with Fury
+	5 Molten Concoction
+	5 Pressence of the Mighty
+	5 Pyremaker
+	5 Reckless Battledriver
+	5 Relic of Eos
+	5 Ruthless Invoker
+	5 Schooling Serpent
+	5 Squash
+	5 Viscous Mangler
+	5 Voltaic Titan
+	5 Call for Biotace
+	5 Evoke the Elements
+	5 Flourishing Giant
+	5 Followed Protector
+	5 Grapple with the Past
+	5 Greater Land Serpent
+	5 Harbinger of the Great Ones
+	5 Invoker of the Undergrowth
+	5 Manyminded Deathbloom
+	5 Ravage the Canopy
+	5 Relic of Biotace
+	5 Ruthless Contest
+	5 Seaweaver Serpent
+	5 Serene Animist
+	5 Serpent of the Grove
+	5 Skyward Giant
+	5 Vital Infusion
+	5 Vitalizing Boon
+	5 Wildwood Waker
+	5 Great Sentinel
+	5 Idol of Inevitability
+	5 Pinnacle of Worship
+	5 Staff of the Ancients
+	5 Tireless Worshiper
+	5 Wayfarer's Bauble

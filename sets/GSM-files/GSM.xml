@@ -5,7 +5,7 @@
 			<name>GSM</name>
 			<longname>Greatest Show in the Multiverse</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-06</releasedate>
+			<releasedate>2026-08-28</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -255,7 +255,7 @@ Your ringleader gets +0/+1.</text>
 		</card>
 		<card>
 			<name>Test the Skies</name>
-			<text>Choose one—
+			<text>Choose one —
 • Destroy target artifact or enchantment.
 • Instate a ringleader. It gains flying and vigilance until end of turn. (Choose a creature you control to become or remain your ringleader.)</text>
 			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/34_Test the Skies.png" num="34">GSM</set>
@@ -762,7 +762,7 @@ Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, 
 		</card>
 		<card>
 			<name>Laughing Matter</name>
-			<text>Choose one—
+			<text>Choose one —
 • Each opponent sacrifices a creature of their choice.
 • Each opponent sacrifices a planeswalker of their choice.
 • Each opponent sacrifices their ringleader.</text>
@@ -1007,7 +1007,7 @@ Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain 
 		</card>
 		<card>
 			<name>First Drop</name>
-			<text>Choose one—
+			<text>Choose one —
 • First Drop deals 2 damage to target creature or planeswalker.
 • Target attacking creature gets +2/+2 and gains trample until end of turn.</text>
 			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/112_First Drop.png" num="112">GSM</set>
@@ -1025,7 +1025,7 @@ Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain 
 		</card>
 		<card>
 			<name>Stage Mishap</name>
-			<text>Choose one—
+			<text>Choose one —
 • Stage Mishap deals 4 damage to target creature or planeswalker.
 • Destroy target artifact.</text>
 			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/128_Stage Mishap.png" num="128">GSM</set>
@@ -1652,7 +1652,7 @@ Enchanted permanent is an enchantment and loses all other card types. (It still 
 		</card>
 		<card>
 			<name>Lift the Veil</name>
-			<text>Choose one—
+			<text>Choose one —
 • Destroy target enchantment or planeswalker.
 • Look at the top three cards of your library. Put one of those cards into your hand, one on top of your library, and one on the bottom of your library.</text>
 			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/184_Lift the Veil.png" num="184">GSM</set>
@@ -2045,7 +2045,7 @@ Counter target spell if the amount of mana spent to cast that spell was less tha
 		</card>
 		<card>
 			<name>Command the Nightshow</name>
-			<text>Choose two—
+			<text>Choose two —
 • Create a 1/1 black and green Snake creature token with deathtouch.
 • Create a 3/1 black and red Lizard creature token with menace.
 • Create a Food token.
@@ -3502,7 +3502,7 @@ Whenever your ringleader attacks, return target creature card with mana value le
 		<card>
 			<name>Sneering Clique</name>
 			<text>When this creature enters, you may exile a creature card from your graveyard.
-Whenever one or more cards leave your graveyard, you may create a trace of one of those cards into your hand. Do this only once each turn. (Traces can&apos;t exist in graveyards or exile and are tokens while on the battlefield.)</text>
+Whenever one or more cards leave your graveyard, you may choose one of those cards. If you do, create a trace of that card. Do this only once each turn. (Traces can&apos;t exist in graveyards or exile and are tokens while on the battlefield.)</text>
 			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/95_Sneering Clique.png" num="95">GSM</set>
 			<prop>
 				<layout>normal</layout>
@@ -4030,7 +4030,7 @@ If Blocksteel Colossus would be put into a graveyard from anywhere, reveal Block
 		</card>
 		<card>
 			<name>Weave the Manastreams</name>
-			<text>Choose up to X—
+			<text>Choose up to X —
 • Create a Manalith token. (A {3} artifact with &quot;{T}: Add one mana of any color.&quot;)
 • Create a Utopia Tree token. (A {1}{G} 0/2 Plant creature with &quot;{T}: Add one mana of any color.&quot;)
 • Create a Fertile Ground token. (A {1}{G} Aura enchantment with enchant land and &quot;Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.&quot;)</text>
@@ -4259,7 +4259,7 @@ Celebration — At the beginning of combat on your turn, if two or more nonland 
 		</card>
 		<card>
 			<name>Seize the Opportunity</name>
-			<text>Choose up to X. You control target opponent during their next of each of those phases.
+			<text>Choose up to X. You control target opponent during their next of each of the chosen phases.
 • Beginning phase
 • First main phase
 • Combat phase
@@ -4360,7 +4360,7 @@ Exile Seize the Opportunity.</text>
 		</card>
 		<card>
 			<name>Horatio, the Showrunner</name>
-			<text>When Horatio enters, exile up to three cards from your graveyard.
+			<text>When Horatio enters, exile up to three nonland cards from your graveyard.
 [+1]: You may copy a card with mana value 2 or less exiled with Horatio. You may cast the copy without paying its mana cost. (A copy of a permanent spell becomes a token.)
 [-3]: Copy a card with mana value 3 or {4} exiled with Horatio. You may cast the copy without paying its mana cost.
 [-7]: Copy each card exiled with Horatio. You may cast the copies without paying their mana costs.</text>
@@ -4381,7 +4381,7 @@ Exile Seize the Opportunity.</text>
 		<card>
 			<name>Horse GSM</name>
 			<text>Whenever this creature attacks, you gain 1 life.</text>
-			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/2t_Horse.png" num="2">GSM</set>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/3t_Horse.png" num="3">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4398,7 +4398,7 @@ Exile Seize the Opportunity.</text>
 		<card>
 			<name>Bird GSM</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/4t_Bird.png" num="4">GSM</set>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/5t_Bird.png" num="5">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4415,7 +4415,7 @@ Exile Seize the Opportunity.</text>
 		<card>
 			<name>Monkey GSM</name>
 			<text>Haste</text>
-			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/6t_Monkey.png" num="6">GSM</set>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/7t_Monkey.png" num="7">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4432,7 +4432,7 @@ Exile Seize the Opportunity.</text>
 		<card>
 			<name>Spider GSM</name>
 			<text>Reach</text>
-			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/11t_Spider.png" num="11">GSM</set>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/12t_Spider.png" num="12">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4449,7 +4449,7 @@ Exile Seize the Opportunity.</text>
 		<card>
 			<name>Homunculus GSM</name>
 			<text>Whenever this creature attacks, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
-			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/13t_Homunculus.png" num="13">GSM</set>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/14t_Homunculus.png" num="14">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4466,7 +4466,7 @@ Exile Seize the Opportunity.</text>
 		<card>
 			<name>Lizard GSM</name>
 			<text>Menace</text>
-			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/19t_Lizard.png" num="19">GSM</set>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/20t_Lizard.png" num="20">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4483,7 +4483,7 @@ Exile Seize the Opportunity.</text>
 		<card>
 			<name>Cat GSM</name>
 			<text>Trample</text>
-			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/15t_Cat.png" num="15">GSM</set>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/16t_Cat.png" num="16">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4500,7 +4500,7 @@ Exile Seize the Opportunity.</text>
 		<card>
 			<name>Dog GSM</name>
 			<text>Vigilance</text>
-			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/16t_Dog.png" num="16">GSM</set>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/17t_Dog.png" num="17">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4517,7 +4517,7 @@ Exile Seize the Opportunity.</text>
 		<card>
 			<name>Snake GSM</name>
 			<text>Deathtouch</text>
-			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/21t_Snake.png" num="21">GSM</set>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/22t_Snake.png" num="22">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4534,7 +4534,7 @@ Exile Seize the Opportunity.</text>
 		<card>
 			<name>Otter GSM</name>
 			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
-			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/20t_Otter.png" num="20">GSM</set>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/21t_Otter.png" num="21">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4551,7 +4551,7 @@ Exile Seize the Opportunity.</text>
 		<card>
 			<name>Fox GSM</name>
 			<text></text>
-			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/17t_Fox.png" num="17">GSM</set>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/18t_Fox.png" num="18">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4568,7 +4568,7 @@ Exile Seize the Opportunity.</text>
 		<card>
 			<name>Bard GSM</name>
 			<text>This creature is all colors.</text>
-			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/14t_Bard.png" num="14">GSM</set>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/15t_Bard.png" num="15">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4585,7 +4585,7 @@ Exile Seize the Opportunity.</text>
 		<card>
 			<name>Throwing Ball GSM</name>
 			<text>Flying, haste; decayed (This creature can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/24t_Throwing Ball.png" num="24">GSM</set>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/25t_Throwing Ball.png" num="25">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4619,7 +4619,7 @@ Exile Seize the Opportunity.</text>
 [+1]: Mill two cards. You may put a card milled this way into your hand. If you do, you lose 1 life unless that card was a Bird, Jothi, or Yklev card.
 [-1]: Put a +1/+1 counter on target creature. It gains indestructible until end of turn.
 [-6]: You get an emblem with &quot;At the beginning of your end step, create a Jothi, Part of the Family token, except it&apos;s not legendary, doesn&apos;t enter with loyalty counters, and is a 1/1 Bird creature with flying.&quot;</text>
-			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/18t_Jothi, Part of the Family.png" num="18">GSM</set>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/19t_Jothi, Part of the Family.png" num="19">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4637,7 +4637,7 @@ Exile Seize the Opportunity.</text>
 			<name>Manalith GSM</name>
 			<text>{T}: Add one mana of any color.
 (This token&apos;s mana cost is {3}.)</text>
-			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/23t_Manalith.png" num="23">GSM</set>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/24t_Manalith.png" num="24">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4654,7 +4654,7 @@ Exile Seize the Opportunity.</text>
 			<text>Enchant land
 Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.
 (This token&apos;s mana cost is {1}{G}.)</text>
-			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/8t_Fertile Ground.png" num="8">GSM</set>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/9t_Fertile Ground.png" num="9">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4671,7 +4671,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional on
 			<name>Utopia Tree GSM</name>
 			<text>{T}: Add one mana of any color.
 (This token&apos;s mana cost is {1}{G}.)</text>
-			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/12t_Utopia Tree.png" num="12">GSM</set>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/13t_Utopia Tree.png" num="13">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4688,7 +4688,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional on
 		<card>
 			<name>Toy Soldier GSM</name>
 			<text></text>
-			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/3t_Toy Soldier.png" num="3">GSM</set>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/4t_Toy Soldier.png" num="4">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4705,7 +4705,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional on
 		<card>
 			<name>Treasure GSM</name>
 			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/25t_Treasure.png" num="25">GSM</set>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/26t_Treasure.png" num="26">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4720,7 +4720,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional on
 		<card>
 			<name>Food GSM</name>
 			<text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
-			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/22t_Food.png" num="22">GSM</set>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/23t_Food.png" num="23">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4736,7 +4736,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional on
 			<name>Lightning Bolt GSM</name>
 			<text>(Traces can&apos;t exist in graveyards or exile and are tokens while on the battlefield.)
 Lightning Bolt deals 3 damage to any target.</text>
-			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/5t_Lightning Bolt.png" num="5">GSM</set>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/6t_Lightning Bolt.png" num="6">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4754,7 +4754,7 @@ Lightning Bolt deals 3 damage to any target.</text>
 			<name>Fog GSM</name>
 			<text>(Traces can&apos;t exist in graveyards or exile and are tokens while on the battlefield.)
 Prevent all combat damage that would be dealt this turn.</text>
-			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/9t_Fog.png" num="9">GSM</set>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/10t_Fog.png" num="10">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4772,7 +4772,7 @@ Prevent all combat damage that would be dealt this turn.</text>
 			<name>Naturalize GSM</name>
 			<text>(Traces can&apos;t exist in graveyards or exile and are tokens while on the battlefield.)
 Destroy target artifact or enchantment.</text>
-			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/10t_Naturalize.png" num="10">GSM</set>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/11t_Naturalize.png" num="11">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4791,7 +4791,7 @@ Destroy target artifact or enchantment.</text>
 			<text>(Traces can&apos;t exist in graveyards or exile and are tokens while on the battlefield.)
 Flash
 Reach</text>
-			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/7t_Bounding Wolf.png" num="7">GSM</set>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/8t_Bounding Wolf.png" num="8">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4804,6 +4804,21 @@ Reach</text>
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Ticket Stash GSM</name>
+			<text></text>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/2t_Ticket Stash.png" num="2">GSM</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
 			<token>1</token>
 		</card>
 	</cards>

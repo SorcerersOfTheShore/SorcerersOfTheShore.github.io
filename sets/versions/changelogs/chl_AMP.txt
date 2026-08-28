@@ -1,4 +1,1143 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Aria of Ashes added.
+Brutal Conflict added.
+Electrified Predator added.
+Vargad, the Golden Titan added.
+Obelisk of Origin added.
+Thought Replicator added.
+
+Voltaic Predator removed.
+Relentless Conflict removed.
+Vargad , the Golden Titan removed.
+Ancient Aria removed.
+Pinnacle of Origin removed.
+Thought Replication removed.
+
+Ambassador of the Protectors
+rules_text: Whenever Ambassador of the Protectors or another Giant enters the battlefield under your control, put a +1/+1 counter on target creature you control. If that Giant has mana value 6 or greater, you may instead put a +1/+1 counter on each creature you control. => Whenever this creature or another Giant you control enters, put a +1/+1 counter on target creature you control. If that Giant has mana value 6 or greater, you may instead put a +1/+1 counter on each creature you control.
+
+Anger to Remorse
+
+Battledriver Giant
+
+Caller of the Protectors
+rules_text: Giant spells you cast cost {1} less to cast.
+[i]Apex[/i]—Caller of the Protectors gets +2/+1 as long as you control a creature with mana value 6 or greater. => Giant spells you cast cost {1} less to cast.
+[i]Apex[/i]—This creature gets +2/+1 as long as you control a creature with mana value 6 or greater.
+
+Cast to Nothingness
+
+Communual Offering
+
+Courrier of Hope
+rules_text: Flying
+Whenever another creature enters the battlefield under your control, you gain 1 life. => Flying
+Whenever another creature you control enters, you gain 1 life.
+
+Dawnwaker
+rules_text: When Dawnwaker enters the battlefield, creatures you control get +1/+1 and gain vigilance until end of turn. => When this creature enters, creatures you control get +1/+1 and gain vigilance until end of turn.
+
+Edgecrosser
+rules_text: When Edgecrosser enters the battlefield, each player returns all Giant creature cards from their graveyard to the battlefield. => When this creature enters, each player returns all Giant creature cards from their graveyard to the battlefield.
+
+Elistor, Exalted One
+
+Eternal Prison
+rules_text: When Eternal Prison enters the battlefield, exile target nonland permanent an opponent controls until Eternal Prison leaves the battlefield.
+[i]Apex[/i]—Eternal Prison has indestructible as long as you control a creature with mana value 6 or greater. => When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+[i]Apex[/i]—This enchantment has indestructible as long as you control a creature with mana value 6 or greater.
+
+Follower of Footsteps
+rules_text: [i]Apex[/i]—Follower of Footsteps enters the battlefield with a +1/+1 counter on it if you control a creature with mana value 6 or greater. => [i]Apex[/i]—This creature enters with a +1/+1 counter on it if you control a creature with mana value 6 or greater.
+
+Giant's Steppe Seekers
+rules_text: [i]Apex[/i]—At the beginning of your upkeep, if you control a creature with mana value 6 or greater, put a +1/+1 counter on Giant's Steppe Seekers. => [i]Apex[/i]—At the beginning of your end step, if you control a creature with mana value 6 or greater, put a +1/+1 counter on this creature.
+
+Guiding Light
+rules_text: Enchant creature
+When Guiding Light enters the battlefield, create a 1/1 white Cleric creature token.
+Whenever enchanted creature becomes tapped, put a +1/+1 counter on it. => Enchant creature
+When this enchantment enters, create a 1/1 white Cleric creature token.
+Whenever enchanted creature becomes tapped, put a +1/+1 counter on it.
+
+Honored Protector
+rules_text: When Honored Protector enters the battlefield, create two 1/1 white Cleric creature tokens. => When this creature enters, create two 1/1 white Cleric creature tokens.
+
+Hushmaker
+
+Keeper of the Splendid
+rules_text: Keeper of the Splendid enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.
+Whenever you cast another spell, you gain 1 life for each color of mana spent to cast that spell. => This creature enters with a +1/+1 counter on it for each color of mana spent to cast it.
+Whenever you cast another spell, you gain 1 life for each color of mana spent to cast that spell.
+
+Loa, The All-Caller
+rules_text: When Loa, The All-Caller enters the battlefield, you may search your library for a Giant card, reveal it, then shuffle and put that card on top.
+{1}, {T}: Until end of turn, Giant spells you cast cost {R}{G}{W} less to cast. This effect reduces only the amount of colored mana you pay. => When Loa enters, you may search your library for a Giant card, reveal it, then shuffle and put that card on top.
+{1}, {T}: Until end of turn, Giant spells you cast cost {R}{G}{W} less to cast. This effect reduces only the amount of colored mana you pay.
+
+The Masked Healer
+
+Mighty Eagle
+
+Neverending Persistence
+
+Presence of Greatness
+
+Prosperous Hope
+
+Pulai, Esteemed Honorer
+rules_text: Whenever Pulai, Esteemed Honorer becomes tapped, put a +1/+1 counter on it.
+Whenever a creature Pulai convoked enters the battlefield, create a 1/1 white Cleric creature token. => Whenever Pulai becomes tapped, put a +1/+1 counter on it.
+Whenever a creature Pulai convoked enters, create a 1/1 white Cleric creature token.
+
+Radiant Mentor
+rules_text: When Radiant Mentor dies, you gain 2 life and create a 1/1 white Cleric creature token. => When this creature dies, you gain 2 life and create a 1/1 white Cleric creature token.
+
+Readied Protection
+
+Relic of Xiphaes
+rules_text: When Relic of Xiphaes enters the battlefield, you gain 3 life.
+{T}: Add {W}. => When this artifact enters, you gain 3 life.
+{T}: Add {W}.
+
+Render Insignificant
+
+Restless Wanderer
+
+Seeker of Greatness
+rules_text: When Seeker of Greatness enters the battlefield, you may search your library for a basic Plains card, put it onto the battlefield tapped, then shuffle. => When this creature enters, you may search your library for a basic Plains card, put it onto the battlefield tapped, then shuffle.
+
+Stalwart Instructor
+rules_text: Whenever Stalwart Instructor becomes tapped, untap all other creatures you control. => Whenever this creature becomes tapped, untap all other creatures you control.
+
+Stalwart Solidarity
+
+Steadfast Protector
+
+Tireless Traveler
+
+Triumph Against Ferocity
+rules_text: Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Creatures you control gain indestructible until end of turn. Put a +1/+1 counter on each creature that convoked Triumph Against Ferocity. => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Creatures you control gain indestructible until end of turn. Put a +1/+1 counter on each creature that convoked this spell.
+
+Triumphant Efforts
+
+Wingminded Warpriest
+rules_text: Flying
+Whenever Wingminded Warpriest becomes tapped, creatures you control get +1/+0 until end of turn. => Flying
+Whenever this creature becomes tapped, creatures you control get +1/+0 until end of turn.
+
+Adalrad, Concoctopus
+rules_text: When Adalrad, Concoctopus enters the battlefield, target player mills eight cards.
+{1}{U}: Exile target instant or sorcery card from a graveyard.
+{7}{U}, {T}, Put Adalrad on the bottom of its owner's library: For each nonalnd card exiled with Adalrad, you may cast that card without paying its mana cost. => When Adalrad enters, target player mills eight cards.
+{1}{U}: Exile target instant or sorcery card from a graveyard.
+{7}{U}, {T}, Put Adalrad on the bottom of its owner's library: For each nonalnd card exiled with Adalrad, you may cast that card without paying its mana cost.
+
+Arvis, the Tidewaker
+rules_text: Each land is an Island in addition to its other land types.
+Whenever another sea monster enters the battlefield under you control, create a 1/1 blue Fish creature token. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+{U}{U}{U}{U}{U}{U}{U}{U}: Fish and sea monster creatures you control can't be blocked this turn. => Each land is an Island in addition to its other types.
+Whenever another sea monster you control enters, control, create a 1/1 blue Fish creature token. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+{U}{U}{U}{U}{U}{U}{U}{U}: Fish and sea monster creatures you control can't be blocked this turn. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+
+Bident of Kiora
+
+Breach the Surface
+
+Command the Deep
+
+Contingency Plan
+
+Coralhide Wurm
+rules_text: Flash
+Coralhide Wurm can't be countered.
+Ward {6} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {6}.)[/i] => Flash
+This spell can't be countered.
+Ward {6} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {6}.)[/i]
+
+Crafter of Relics
+rules_text: When Crafter of Relics enters the battlefield, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => When this creature enters, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Crafty Octopod
+
+Drown Out
+
+Enigma Field
+
+Eon Swallower
+rules_text: Eon Swallower doesn't untap during its controller's untap step.
+Untap Eon Swallower during each other player's untap step.
+Whenever Eon Swallower deals combat damage to a player, that player skips their next turn. => This creature doesn't untap during its controller's untap step.
+Untap this creature during each other player's untap step.
+Whenever this creature deals combat damage to a player, that player skips their next turn.
+
+Evergrowing Kraken
+rules_text: Whenever another sea monster enters the battlefield under your control, create a 1/1 blue Tentacle creature token. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+Evergrowing Kraken gets +0/+1 for each tentacle you control. => Whenever another non-Tentacle sea monster you control enters, create a 1/1 blue Tentacle creature token. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+This creature gets +0/+1 for each Tentacle you control.
+
+Exalted Griffin
+rules_text: Flying
+[i]Apex[/i]—Exalted Griffin gets +2/+1 as long as you control a creature with mana value 6 or greater. => Flying
+[i]Apex[/i]—This creature gets +2/+1 as long as you control a creature with mana value 6 or greater.
+
+Glimpse the Deep-Keeper
+
+Glorious Reward
+
+Grip of Tentacles
+rules_text: Enchant creature
+When Grip of Tentacles enters the battlefield, if you control a sea monster, tap enchanted creature. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+Enchanted creature doesn't untap during its controller's untap step. => Enchant creature
+When this Aura enters, if you control a sea monster, tap enchanted creature. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+Enchanted creature doesn't untap during its controller's untap step.
+
+Keeper of the Sunken
+rules_text: When Keeper of the Sunken enters the battlefield, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Treasures you control have “{T}, Sacrifice this artifact: Add two mana of any one color. Spend this mana only to cast sea monster spells.” [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i] => When this creature enters, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Treasures you control have “{T}, Sacrifice this artifact: Add two mana of any one color. Spend this mana only to cast sea monster spells.” [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+
+Limitless Insight
+
+Lucid Seer
+rules_text: {2}{U}, Exile Lucid Seer from your graveyard: Choose one—
+• Target player mills four cards.
+• Draw a card.
+• Create a 1/1 blue Fish creature token.
+• Put target instant or sorcery card from your graveyard on top of your library. => {2}{U}, Exile this card from your graveyard: Choose one—
+• Target player mills four cards.
+• Draw a card.
+• Create a 1/1 blue Fish creature token.
+• Put target instant or sorcery card from your graveyard on top of your library.
+
+Murkwater Lurker
+rules_text: [i]Apex[/i]—Murkwater Lurker has hexproof as long as you control another creature with mana value 6 or greater. => [i]Apex[/i]—This creature has hexproof as long as you control another creature with mana value 6 or greater.
+
+Normungan, Shelled Scourge
+rules_text: This spell can't be countered.
+Normungan, Shelled Scourge, Crabs, and other Trilobites you control are sea monsters.
+When Normungan enters the battlefield, create a 0/2 blue Trilobite creature token for each Island you control.
+Sacrifice another sea monster: Target creature gains hexproof until end of turn. => This spell can't be countered.
+Normungan, Crabs, and other Trilobites you control are sea monsters. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+When Normungan enters, create a 0/2 blue Trilobite creature token for each Island you control.
+Sacrifice another sea monster: Target creature gains hexproof until end of turn. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+
+Nuvan, the Deep-Favored
+
+Octopod Manipulator
+rules_text: {T}: Untap another target permanent you control. => {T}: Untap target permanent you control not named Octopod Manipulator.
+
+Plunge Sanity
+
+Protected by the Deep
+
+Relic of Abussaee
+rules_text: When Relic of Abussaee enters the battlefield, scry 2.
+{T}: Add {U}. => When this artifact enters, scry 2.
+{T}: Add {U}.
+
+Rethink
+
+Sanity Drowner
+rules_text: Whenever Sanity Drowner or another sea monster enters the battlefield under your control, target player mills two cards. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i] => Whenever this creature or another sea monster you control enters, target player mills two cards. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+
+Scavenger of Shipwrecks
+rules_text: Scavenger of Shipwrecks gets +2/+0 as long as you control an artifact. => Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+This creature gets +2/+0 as long as you control an artifact.
+
+See the Inevitable
+rules_text: Counter target spell.
+{1}{U}{U}, Exile See the Inevitable from your graveyard: Draw a card. => Counter target spell.
+{1}{U}{U}, Exile this card from your graveyard: Draw a card.
+
+Spawn of the Depths
+rules_text: Flash
+{U}, Discard Spawn of the Depths: Create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => Flash
+{U}, Discard this card: Create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Summit of Revelation
+
+Sweep the Shores
+
+Tome Implanter
+
+Tribute of Sanity
+rules_text: When Tribute of Sanity enters the battlefield, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Whenever an artifact enters the battlefield under your control or an artifact you control leaves the battlefield, you may pay {1}. If you do, target player mills two cards. => When this enchantment enters the battlefield, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Whenever an artifact you control enters or leaves the battlefield, you may pay {1}. If you do, target player mills two cards.
+
+Windward Seer
+rules_text: Flying
+{1}{U}, Exile Windward Seer from your graveyard: Draw a card. => Flying
+{1}{U}, Exile this card from your graveyard: Draw a card.
+pt: 3/3 => 3/4
+
+Wisdom Quantifier
+
+Agony Caster
+rules_text: Whenever Agony Caster becomes tapped, target creature gets -X/-X until end of turn, where X is Agony Caster's power. => Whenever this creature becomes tapped, target creature gets -X/-X until end of turn, where X is this creature's power.
+
+Arisen Insanity
+rules_text: Mill two cards. When you do, destroy up to one target creature or planeswalker with mana value less than the number of cards in your graveyard.
+{3}{B}{B}, Exile Arisen Insanity from your graveyard: Put target creature or planeswalker card from a graveyard onto the battlefield under your control. Activate only as a sorcery. => Mill two cards. When you do, destroy up to one target creature or planeswalker with mana value less than the number of cards in your graveyard.
+{3}{B}{B}, Exile this card from your graveyard: Put target creature or planeswalker card from a graveyard onto the battlefield under your control. Activate only as a sorcery.
+
+Call to Life
+
+Carrion Scrounger
+rules_text: When Carrion Scrounger enters the battlefield, mill two cards.
+[i]Apex[/i]—Carrion Scrounger gets +2/+1 as long as you control a creature with mana value 6 or greater. => When this creature enters, mill two cards.
+[i]Apex[/i]—This creature gets +2/+1 as long as you control a creature with mana value 6 or greater.
+
+Commune With the Forbidden
+
+Cycle's End
+
+Deathchaser Serpent
+rules_text: Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Whenever a creature you control dies or an artifact you control is put into your graveyard from the battlefield, put a +1/+1 counter on Deathchaser Serpent. => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Whenever a creature you control dies or an artifact you control is put into your graveyard from the battlefield, put a +1/+1 counter on this creature.
+
+Doom to Inferiority
+
+Edge of the Beyond
+
+Embrace Oblivion
+
+Essence Etcher
+rules_text: Essence Etcher's power and toughness are each equal to 1 plus your starting life total minus your life total.
+When Essence Etcher enters the battlefield, if it has toughness 0 or less, search your library for a card, put that card into your hand, then shuffle. => This creature's power and toughness are each equal to 1 plus your starting life total minus your life total.
+When this creature enters, if it has toughness 0 or less, search your library for a card, put that card into your hand, then shuffle.
+
+Etchweaver
+
+Exemplary Follower
+rules_text: When Exemplary Follower dies, choose one—
+• You gain 2 life.
+• Create a 1/1 white Cleric creature token.
+• Create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => When this creature dies, choose one—
+• You gain 2 life.
+• Create a 1/1 white Cleric creature token.
+• Create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+False Caller
+rules_text: Whenever False Caller becomes tapped, target player discards a card. => Whenever this creature becomes tapped, target player discards a card.
+
+Follower of the Inevitable
+rules_text: At the beginning of your end step, if three or more permanents you control left the battlefield this turn, create a 1/1 white Cleric creature token.
+{2}{B}, Sacrifice an artifact or creature: You gain 1 life and draw a card. => At the beginning of your end step, if three or more permanents you controlled left the battlefield this turn, create a 1/1 white Cleric creature token.
+{2}{B}, Sacrifice an artifact or creature: You gain 1 life and draw a card.
+
+Gravecrawler Wurm
+rules_text: Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+When Gravecrawler Wurm enters the battlefield, you may sacrifice another artifact or creature. If you do, put two +1/+1 counters on Gravecrawler Wurm. => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+When this creature enters, you may sacrifice another artifact or creature. If you do, put two +1/+1 counters on this creature.
+
+Grim Revelation
+rules_text: Whenever you sacrifice a permanent, put a rite counter on Grim Revelation.
+At the beginning of your upkeep, if there are 13 or more rite counters on Grim Revelation, you win the game. => Whenever you sacrifice a permanent, put a rite counter on this enchantment.
+At the beginning of your upkeep, if there are 13 or more rite counters on this enchantment, you win the game.
+
+Heartless Winnower
+
+Induce Despair
+
+Infernal Edict
+
+Invoke the Harbinger
+
+Invoker of the Past
+rules_text: When Invoker of the Past enters the battlefield, you may exile a card from your graveyard. If you do, choose one—
+• Create a 1/1 white Cleric creature token.
+• Create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => When this creature enters, you may exile a card from your graveyard. If you do, choose one—
+• Create a 1/1 white Cleric creature token.
+• Create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Lace With Potency
+
+Malrin, Slaughter-Regent
+rules_text: Menace
+Whenever a creature an opponent controls dies, create a 1/1 black Skeleton creature token.
+Sacrifice three permanents: Return Malrin, Slaughter-Regent from your graveyard to your hand. => Menace
+Whenever a creature an opponent controls dies, create a 1/1 black Skeleton creature token.
+Sacrifice three permanents: Return Malrin from your graveyard to your hand.
+
+Mark of Oblivion
+
+Nightmare's Thirst
+
+Patron of Blood
+
+Relic of Exodais
+rules_text: When Relic of Exodais enters the battlefield, each opponent loses 1 life and you gain 1 life.
+{T}: Add {B}. => When this artifact enters, each opponent loses 1 life and you gain 1 life.
+{T}: Add {B}.
+
+Rise Again
+
+Ritual Keeper
+rules_text: When Ritual Keeper enters the battlefield, create a 1/1 white Cleric creature token.
+{1}{B}, Sacrifice an artifact or creature: Put a +1/+1 counter on Ritual Keeper. You gain 1 life. => When this creature enters, create a 1/1 white Cleric creature token.
+{1}{B}, Sacrifice an artifact or creature: Put a +1/+1 counter on this creature. You gain 1 life.
+
+Ritualist of the Forbidden
+rules_text: {B}, Exile Ritualist of the Forbidden from your graveyard: Create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => {B}, Exile this card from your graveyard: Create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Sanguine Devotion
+
+Scion of Oblivion
+rules_text: Menace
+Whenever Scion of Oblivion attacks, you may sacrifice an artifact or creature. If you do, Scion of Oblivion gets +2/+2 until end of turn. => Menace
+Whenever this creature attacks, you may sacrifice another artifact or creature. If you do, this creature gets +2/+2 until end of turn.
+pt: 4/3 => 4/2
+
+Uncover the Vault
+rules_text: Choose a card name. Reveal cards from the top of your library until a card with that name is revealed. If it is, you lose life equal to the number of cards revealed this way, put the rest of the revealed cards into your graveyard, and put the card with the chosen name into your hand. Otherwise, shuffle. => Choose a card name. Reveal cards from the top of your library until a card with the chosen name is revealed. If you reveal a card with the chosen name, you lose life equal to the number of cards revealed this way, put the rest of the revealed cards into your graveyard, and put the card with the chosen name into your hand. Otherwise, shuffle.
+
+Unseal the Vault
+
+Vengeant Reaver
+rules_text: Menace
+{B}, Discard Vengeant Reaver: Create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => Menace
+{B}, Discard this card: Create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Weight of Insignificance
+
+Willing Vessel
+rules_text: Whenever Willing Vessel becomes tapped, each opponent loses 1 life and you gain 1 life. => Whenever this creature becomes tapped, each opponent loses 1 life and you gain 1 life.
+
+Assert Dominance
+
+Axehead Shark
+rules_text: Menace
+[i]Apex[/i]—Axehead Shark gets +2/+1 as long as you control a creature with mana value 6 or greater. => Menace
+[i]Apex[/i]—This creature gets +2/+1 as long as you control a creature with mana value 6 or greater.
+
+Battlesweeper Giant
+rules_text: {1}{R}: Battlesweeper Giant gains your choice of trample, menace, or haste until end of turn. => {1}{R}: This creature gains your choice of trample, menace, or haste until end of turn.
+
+Churn the Tides
+rules_text: Choose one—
+• Choose a creature type. For each creature you control of the chosen type, exile the top card of your library.
+• For each sea monster you control, exile the top card of your library. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+Until the end of your next turn, you may play cards exiled with Churn the Tides. => Choose one—
+• Choose a creature type. For each creature you control of the chosen type, exile the top card of your library.
+• For each sea monster you control, exile the top card of your library. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+Until the end of your next turn, you may play cards exiled with this spell.
+
+Cinder Spree
+rules_text: Sacrifice an artifact: Cinder Spree deals 1 damage to any target.
+At the beginning of your end step, sacrifice Cinder Spree. => Sacrifice an artifact: This enchantment deals 1 damage to any target.
+At the beginning of your end step, sacrifice this enchantment.
+
+Crushing Weight
+
+Disciple of Eos
+rules_text: Haste
+Whenever Disciple of Eos attacks, exile the top card of your library.
+Whenever Disciple of Eos deals combat damage to a player, you may play cards exiled with Disciple of Eos until end of turn. => Haste
+Whenever this creature attacks, exile the top card of your library.
+Whenever this creature deals combat damage to a player, you may play cards exiled with this creature until end of turn.
+
+Dominate the Shallows
+rules_text: This spell costs {2} less to cast if it targets a sea monster you control. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+Enchant creature
+When Dominate the Shallows enters the battlefield, enchanted creature fights up to one target creature you don't control.
+Enchanted creature gets +1/+1. => This spell costs {2} less to cast if it targets a sea monster you control. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+Enchant creature
+When this Aura enters, enchanted creature fights up to one target creature you don't control.
+Enchanted creature gets +1/+1.
+
+Embers of Creation
+
+Frenzied Callings
+
+Frenzied Follower
+rules_text: [i]Apex[/i]—Frenzied Follower has menace as long as you control a creature with mana value 6 or greater. => [i]Apex[/i]—This creature has menace as long as you control a creature with mana value 6 or greater.
+
+Furybringer
+rules_text: Furybringer enters the battlefield with three +1/+1 counters on it.
+[i]Apex[/i]—{T}: Put a +1/+1 counter on Furybringer. Then put another +1/+1 counter on Furybringer if you control a creature with mana value 6 or greater. Activate only as a sorcery.
+{T}, Remove any number of +1/+1 counters from Furybringer: Add {R} for each +1/+1 counter removed this way. => This creature enters with three +1/+1 counters on it.
+[i]Apex[/i]—{T}: Put a +1/+1 counter on this creature. Put two +1/+1 counters on this creature instead if you control a creature with mana value 6 or greater. Activate only as a sorcery.
+{T}, Remove any number of +1/+1 counters from this creature: Add {R} for each +1/+1 counter removed this way.
+
+Grinning Ignus
+rules_text: {R}, Return Grinning Ignus to its owner's hand: Add {C}{C}{R}. Activate only as a sorcery. => {R}, Return this creature to its owner's hand: Add {C}{C}{R}. Activate only as a sorcery.
+
+Havoc Rush
+rules_text: When Havoc Rush enters the battlefield, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+At the beginning of combat on your turn, target creature gets +1/+0 until end of turn for each artifact and/or creature you've sacrificed this turn. => When this enchantment enters, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+At the beginning of combat on your turn, target creature gets +1/+0 until end of turn for each artifact and/or creature you've sacrificed this turn.
+
+Huro, the Ash-Reader
+rules_text: Whenever a creature or planeswalker an opponent controls is dealt excess noncombat damage, you may discard your hand. If you do, draw cards equal to the excess.
+{X}{R}{R}, {T}: Huro, the Ash-Reader deals X damage to target creature or planeswalker. Activate only as a sorcery. => Whenever a creature or planeswalker an opponent controls is dealt excess noncombat damage, you may discard your hand. If you do, draw cards equal to the excess.
+{X}{R}{R}, {T}: This creature deals X damage to target creature or planeswalker. Activate only as a sorcery.
+
+Imbue with Fury
+rules_text: [i]Apex[/i]—Target creature you control gets +3/+0 until end of turn. If you control a creature with mana value 6 or greater, instead that creature gets +3/+3 and gains trample until end of turn. => [i]Apex[/i]—Target creature you control gets +3/+0 and gains trample until end of turn. If you control a creature with mana value 6 or greater, instead that creature gets +3/+3 and gains trample until end of turn.
+
+Intimidation Tactics
+rules_text: Whenever Intimidation Tactics or a creature you control with mana value 6 or greater enters the battlefield under your control, gain control of target creature you don't control until end of turn. Untap that creature. It gains haste until end of turn. => Whenever this enchantment or a creature you control with mana value 6 or greater enters, gain control of target creature you don't control until end of turn. Untap that creature. It gains haste until end of turn.
+
+Keeper of Great Flames
+rules_text: Whenever another nontoken Giant enters the battlefield under your control, create a token that's a copy of that creature, except the token isn't legendary if that creature is legendary. That token gains haste. Exile it at the beginning of the next end step. => Whenever another nontoken you control Giant enters, create a token that's a copy of that creature, except the token isn't legendary. That token gains haste. Exile it at the beginning of the next end step.
+
+Massive Scale
+rules_text: Enchant creature
+Enchanted creature gets +2/+2, has menace, and has mana value X, where X is 6 plus its base mana value.
+Whenever a creature with mana value 6 or greater enters the battlefield under your control, you may return Massive Scale from your graveyard to your hand. => Enchant creature
+Enchanted creature gets +2/+2, has menace, and has mana value X, where X is 6 plus its base mana value.
+Whenever a creature with mana value 6 or greater enters the battlefield under your control, you may return this card from your graveyard to your hand.
+
+Melt to Material
+
+Molten Concoction
+
+Preparer of Rites
+rules_text: Whenever a land enters the battlefield under your control, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => [i]Landfall[/i]—Whenever a land you control enters, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Pressence of the Mighty
+
+Pyremaker
+rules_text: When Pyremaker enters the battlefield, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+{T}, Sacrifice an artifact or creature: Add {R}{R}. => When this creature enters, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+{T}, Sacrifice an artifact or creature: Add {R}{R}.
+
+Pyrewise Master
+rules_text: Trample
+Whenever Pyrewise Master deals combat damage to a player, Giant spells you cast cost {X} less to cast this turn, where X is the amount of damage dealt.
+[i]Apex[/i]—Pyrewise Master gets +2/+2 as long as you control a creature with mana value 6 or greater. => Trample
+Whenever this creature deals combat damage to a player, Giant spells you cast cost {X} less to cast this turn, where X is the amount of damage dealt.
+[i]Apex[/i]—This creature gets +2/+2 as long as you control a creature with mana value 6 or greater.
+
+Reckless Battledriver
+rules_text: [i]Apex[/i]—Reckless Battledriver can't block unless you control a creature with mana value 6 or greater. => [i]Apex[/i]—This creature can't block unless you control a creature with mana value 6 or greater.
+
+Relentless Mako
+rules_text: Haste
+Whenever Relentless Mako attacks, it fights another target creature. => Haste
+Whenever this creature attacks, it fights up to one other target creature.
+pt: 4/2 => 4/3
+
+Relic of Eos
+rules_text: When Relic of Eos enters the battlefield, it deals 2 damage to target opponent.
+{T}: Add add {R}. => When this artifact enters, it deals 2 damage to target opponent.
+{T}: Add add {R}.
+
+Ruinator Scourge
+rules_text: Whenever Ruinator Scourge or another sea monster you control attacks, add {R}. [i](You lose that mana at the end of the declare attackers step. Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+{R}: Target sea monster gets +1/+0 until end of turn.
+{R}{R}{R}{R}: Destroy target artifact. => Whenever this creature or another sea monster you control attacks, add {R}. [i](You lose that mana at the end of the declare attackers step. Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+{R}: Target sea monster gets +1/+0 until end of turn.
+{R}{R}{R}{R}: Destroy target artifact.
+
+Ruthless Invoker
+rules_text: When Ruthless Invoker enters the battlefield, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Whenever you sacrifice a permanent, Ruthless Invoker gets +1/+1 until end of turn. => When this creature enters, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Whenever you sacrifice a permanent, this creature gets +1/+1 until end of turn.
+
+Schooling Serpent
+rules_text: [i]Apex[/i]—Schooling Serpent gets +2/+2 as long as you control another creature with mana value 6 or greater. => [i]Apex[/i]—This creature gets +2/+2 as long as you control another creature with mana value 6 or greater.
+
+Squash
+
+Viscous Mangler
+rules_text: {R}, Sacrifice an artifact or creature: Viscous Mangler gets +2/+0 until end of turn. => {R}, Sacrifice an artifact or creature: This creature gets +2/+0 until end of turn.
+
+Voltaic Titan
+rules_text: Whenever Voltaic Titan attacks, exile the top card of your library. You may play that card this turn. => Whenever this creature attacks, exile the top card of your library. You may play that card this turn.
+
+Act of the Ancients
+
+Animist Tracker
+rules_text: Whenever Animist Tracker becomes tapped, you may put a land card from your hand onto the battlefield. => Whenever this creature becomes tapped, you may put a land card from your hand onto the battlefield.
+
+Archdruid
+rules_text: This spell costs {G} less to cast for each Druid you control.
+When Archdruid enters the battlefield, you gain 1 life for each creature you control.
+Tap two untapped Druids you control: Search your library for a Forest card, put that card onto the battlefield tapped, then shuffle. Activate only as a sorcery. => This spell costs {G} less to cast for each Druid you control.
+When this creature enters, you gain 1 life for each creature you control.
+Tap two untapped Druids you control: Search your library for a Forest card, put that card onto the battlefield tapped, then shuffle. Activate only as a sorcery.
+
+Blind Bashing
+
+Brilliant Communion
+rules_text: Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Whenever a creature you control becomes tapped, put a +1/+1 counter on it. => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+When this enchantment enters, put a +1/+1 counter on each tapped creature you control.
+Whenever a creature you control becomes tapped, put a +1/+1 counter on it.
+
+Call for Biotace
+
+Daunting Titan
+rules_text: Daunting Titan and other creatures you control can't be blocked by creatures with lesser mana value. => This creature and other creatures you control can't be blocked by creatures with lesser mana value.
+
+Defender of the Vastlands
+rules_text: Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+When Defender of the Vastlands enters the battlefield, you may have it fight target creature you don't control. => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+When this creature enters, you may have it fight target creature you don't control.
+
+Director of Rebirth
+rules_text: {1}{G}, {T}, Sacrifice a creature: Search your library for a creature or land card and exile it. Until end of turn, you may cast a spell from among cards exiled with Director of Rebirth with mana value equal to 1 plus the sacrificed creature's mana value without paying its mana cost. Activate only as a sorcery. [i](You may cast the back face of a modal double-faced card this way.)[/i] => {1}{G}, {T}, Sacrifice a creature: Search your library for a creature or land card and exile it. Until end of turn, you may cast a spell with mana value equal to 1 plus the sacrificed creature's mana value from among cards exiled with this creature without paying its mana cost. Activate only as a sorcery. [i](You may cast the back face of a modal double-faced card this way.)[/i]
+pt: 2/2 => 2/3
+
+Druid of New Life
+rules_text: Trample
+Whenever you gain life, put a +1/+1 counter on Druid of New Life. => Trample
+Whenever you gain life, put a +1/+1 counter on this creature.
+
+End the End
+rules_text: Permanents your opponents control lose hexproof and indestructible until end of turn. 
+Until end of turn, whenever a permanent dealt noncombat damage by a creature you control this turn dies, draw a card.
+Target creature you control fights target creature you don't control. => Permanents your opponents control lose hexproof and indestructible until end of turn. 
+Until end of turn, whenever a permanent dealt noncombat damage by a creature you control this turn dies, draw a card.
+Choose a creature you control and a creature you don't control. Those creatures fight.
+
+Essence-Flooded Serpent
+rules_text: This spell costs {X} less to cast, where X is the amount of life you gained this turn.
+At the beginning of your upkeep, you gain 1 life.
+Essence-Flooded Serpent can't be blocked by creatures with power less than the amount of life you gained this turn. => This spell costs {X} less to cast, where X is the amount of life you gained this turn.
+At the beginning of your upkeep, you gain 1 life.
+This creature can't be blocked by creatures with power less than the amount of life you gained this turn.
+
+Evoke the Elements
+
+Flourishing Giant
+rules_text: Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+When Flourishing Giant enters the battlefield, put two +1/+1 counters on target creature you control. => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+When this creature enters, put two +1/+1 counters on target creature you control.
+
+Followed Protector
+
+Grapple with the Past
+
+Greater Land Serpent
+
+Harbinger of the Great Ones
+rules_text: {T}: Add one mana of any color.
+[i]Apex[/i]—Harbinger of the Great Ones gets +2/+1 as long as you control a creature with mana value 6 or greater. => {T}: Add one mana of any color.
+[i]Apex[/i]—This creature gets +2/+1 as long as you control a creature with mana value 6 or greater.
+
+Invoker of the Undergrowth
+rules_text: When Invoker of the Undergrowth enters the battlefield, create a 0/1 green Plant creature token.
+{G}, Exile Invoker of the Undergrowth from your graveyard: Create a 0/1 green Plant creature token. => When this creature enters, create a 0/1 green Plant creature token.
+{G}, Exile this card from your graveyard: Create a 0/1 green Plant creature token.
+
+Manyheaded Serpent
+type: Creature — Hydra Serpent => Creature — Serpent Hydra
+rules_text: When Manyheaded Serpent enters the battlefield, create two 1/1 green Serpent creature tokens.
+At the beginning of your end step, if you control three or more tapped creatures, create a 1/1 green Serpent creature token. => When this creature enters, create two 1/1 green Serpent creature tokens.
+At the beginning of your end step, if you control three or more tapped creatures, create a 1/1 green Serpent creature token.
+
+Manyminded Deathbloom
+rules_text: Manyminded Deathbloom enters the battlefield with a +1/+1 counter on it for each other creature you control. => This creature enters with a +1/+1 counter on it for each other creature you control.
+
+Master Reshaper
+rules_text: {G}, {T}, Return a land you control to its owner's hand: Put a land card from your hand onto the battlefield. => {G}, {T}, Return a land you control to its owner's hand: You may put a land card from your hand onto the battlefield.
+
+Ravage the Canopy
+cost: {1}{G} => {G}
+
+Relic of Biotace
+rules_text: When Relic of Biotace enters the battlefield, put a +1/+1 counter on target creature you control.
+{T}: Add {G}. => When this artifact enters, put a +1/+1 counter on target creature you control.
+{T}: Add {G}.
+
+Ruthless Contest
+
+Seaweaver Serpent
+rules_text: When Seaweaver Serpent enters the battlefield, put a +1/+1 counter on target sea monster you control. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i] => When this creature enters, put a +1/+1 counter on target sea monster you control. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+
+Serene Animist
+rules_text: Whenever Serene Animist becomes tapped, you gain life equal to its power. => Whenever this creature becomes tapped, you gain life equal to its power.
+
+Serpent of the Grove
+
+Skyward Giant
+
+Spellgorger Tyrano
+rules_text: This spell can't be countered.
+Trample
+Trample while fighting
+Whenever a creature or creature spell you control becomes the target of a spell or ability you don't control, that spell's controller may have this creature fight a creature they control. If this creature didn't fight this way, it deals damage equal to its power to that spell's controller. => This spell can't be countered.
+Trample
+Trample while fighting [i](This creature can deal excess damage it deals during a fight to the controller of the creature it's fighting.)[/i]
+Ward—A creature you control fights this creature.
+
+Sylvan Scrying
+
+U'Kala, Revered Protector
+
+Undying Undergrowth
+rules_text: Undying Undergrowth can't block.
+You may cast Undying Undergrowth from your graveyard if you have gained 3 or more life this turn. => Haste
+This creature can't block.
+You may cast this card from your graveyard if you have gained 3 or more life this turn.
+pt: 3/3 => 4/3
+
+Vital Infusion
+
+Vitalizing Boon
+rules_text: Enchant creature
+When Vitalizing Boon enters the battlefield, you gain life equal to enchanted creature's mana value.
+Enchanted creature gets +2/+2 and has trample. => Enchant creature
+When this Aura enters, you gain life equal to enchanted creature's mana value.
+Enchanted creature gets +2/+2 and has trample.
+
+Wildwood Waker
+
+Worldtender
+
+Autochthon Wurm
+
+Doomsnap, the Tide-Eater
+rules_text: When Doomsnap, the Tide-Eater enters the battlefield, it fights up to one target creature you don't control.
+Whenever a creature or planeswalker an opponent controls is dealt excess noncombat damage by Doomsnap or another creature you control, Doomsnap deals damage equal to the excess to that permanent's controller. => When Doomsnap enters, it fights up to one target creature you don't control.
+Whenever a creature or planeswalker an opponent controls is dealt excess noncombat damage by Doomsnap or another creature you control, Doomsnap deals damage equal to the excess to that permanent's controller.
+
+E'Sol, Radiant One
+rules_text: As long as it's your turn, E'Sol, Radiant One is a Giant creature with indestructible that's still a planeswalker. He has power and toughness equal to the highest mana value among permanents you control.
+Prevent all damage that would be dealt to E'Sol, Radiant One during your turn.
+[+2]: Exile the top card of your library. You may play that card until end of turn and it costs {2} less to cast.
+[-4]: E'Sol, Radiant One gains lifelink until end of turn. If he's a creature, he deals damage equal to his power to target creature you don't control. => As long as it's your turn, E'Sol is a Giant creature with indestructible that's still a planeswalker. He has power and toughness are each equal to the highest mana value among permanents you control.
+Prevent all damage that would be dealt to E'Sol during your turn.
+[+2]: Exile the top card of your library. You may play that card until end of turn and it costs {2} less to cast.
+[-4]: E'Sol, Radiant One gains lifelink until end of turn. If he's a creature, he deals damage equal to his power to target creature you don't control.
+special_text: As long as it's your turn, E'Sol, Radiant One is a Giant creature with indestructible that's still a planeswalker. He has power and toughness equal to the highest mana value among permanents you control.
+Prevent all damage that would be dealt to E'Sol, Radiant One during your turn.
+[+2]: Exile the top card of your library. You may play that card until end of turn and it costs {2} less to cast.
+[-4]: E'Sol, Radiant One gains lifelink until end of turn. If he's a creature, he deals damage equal to his power to target creature you don't control. => As long as it's your turn, E'Sol is a Giant creature with indestructible that's still a planeswalker. He has power and toughness are each equal to the highest mana value among permanents you control.
+Prevent all damage that would be dealt to E'Sol during your turn.
+[+2]: Exile the top card of your library. You may play that card until end of turn and it costs {2} less to cast.
+[-4]: E'Sol, Radiant One gains lifelink until end of turn. If he's a creature, he deals damage equal to his power to target creature you don't control.
+
+Gern, the Quakemaker
+rules_text: Vigilance
+[i]Apex[/i]—At the beginning of your upkeep, if you control another creature with mana value 6 or greater, you may discard a card. If you do, draw a card. If the discarded card is a Giant, instead exile it and you may play that card until the end of your next turn. => Vigilance
+[i]Apex[/i]—At the beginning of your end step, if you control another creature with mana value 6 or greater, you may discard a card. If you do, draw a card. If the discarded card is a Giant, instead exile it and you may play that card until the end of your next turn.
+
+Gorod, the Walking City
+rules_text: Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Vigilance
+Gorod, the Walking City's power and toughness are each equal to twice the number of creatures you control. => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Vigilance
+Gorod's power and toughness are each equal to twice the number of creatures you control.
+
+Gulcux, Acolyte of Ends
+rules_text: [+1]: Reveal the top three cards of your library. You may put a creature or land card from among them into your hand. Put the rest into your graveyard.
+[-X]: Return target creature or land card with mana value X from your graveyard to the battlefield. [i](The mana value of a double-faced card is the mana value of its front face.)[/i]
+[-7]: Destroy all nonland permanents. You get an emblem with “At the beginning of your upkeep, you may return a creature or land card from your graveyard to the battlefield.” => [+1]: Mill two cards. You may put a permanent card from among the milled cards into your hand. You gain 2 life.
+[-X]: Return target creature or land card with mana value X from your graveyard to the battlefield.
+[-7]: Destroy all nonland permanents. You get an emblem with “At the beginning of your upkeep, you may return a creature or land card from your graveyard to the battlefield.”
+special_text: [+1]: Reveal the top three cards of your library. You may put a creature or land card from among them into your hand. Put the rest into your graveyard.
+[-X]: Return target creature or land card with mana value X from your graveyard to the battlefield. [i](The mana value of a double-faced card is the mana value of its front face.)[/i]
+[-7]: Destroy all nonland permanents. You get an emblem with “At the beginning of your upkeep, you may return a creature or land card from your graveyard to the battlefield.” => [+1]: Mill two cards. You may put a permanent card from among the milled cards into your hand. You gain 2 life.
+[-X]: Return target creature or land card with mana value X from your graveyard to the battlefield.
+[-7]: Destroy all nonland permanents. You get an emblem with “At the beginning of your upkeep, you may return a creature or land card from your graveyard to the battlefield.”
+
+Hekmaj, the Hatemaker
+rules_text: Whenever another creature you control dies, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+{B}{R}, Sacrifice an artifact or creature: Target creature you control fights target creature you don't control. => Whenever another creature you control dies, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+{B}{R}, Sacrifice an artifact or creature: Target creature you control fights target creature you don't control. Activate only as a sorcery.
+
+Icknick, Life-Invoker
+rules_text: Whenever Icknick, Life-Invoker becomes tapped, you gain life equal to its power.
+Whenever you gain life, put a +1/+1 counter on Icknick. => Whenever Icknick becomes tapped, you gain life equal to its power.
+Whenever you gain life, put a +1/+1 counter on Icknick.
+
+Kiora, Caller of the Deep
+rules_text: Sea monster spells you cast cost {1} less to cast.
+[+1]: Untap target permanent you control. You may return that permanent to its owner's hand.
+[-1]: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+[-10]: Search your library for any number of sea monster cards and any number of land cards, reveal them, put them into your hand, then shuffle. Add five {G} and five {U}. => Sea monster spells you cast cost {1} less to cast.
+[+1]: Untap target permanent you control. You may return that permanent to its owner's hand..
+[-1]: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+[-10]: Search your library for any number of sea monster cards and any number of land cards, reveal them, put them into your hand, then shuffle. Add five {G} and five {U}.
+special_text: Sea monster spells you cast cost {1} less to cast.
+[+1]: Untap target permanent you control. You may return that permanent to its owner's hand.
+[-1]: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+[-10]: Search your library for any number of sea monster cards and any number of land cards, reveal them, put them into your hand, then shuffle. Add five {G} and five {U}. => Sea monster spells you cast cost {1} less to cast.
+[+1]: Untap target permanent you control. You may return that permanent to its owner's hand..
+[-1]: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+[-10]: Search your library for any number of sea monster cards and any number of land cards, reveal them, put them into your hand, then shuffle. Add five {G} and five {U}.
+
+Marine, Kraken Breeder
+rules_text: Whenever a sea monster enters the battlefield under your control, draw a card. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+{T}: Add {G}{U}. Spend this mana only to cast sea monster spells. => Whenever a sea monster you control enters, draw a card. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+{T}: Add {G}{U}. Spend this mana only to cast sea monster spells. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+
+Mt. Skyshred
+rules_text: You may pay {R}{G} rather than this spell's mana cost. If you do, it enters the battlefield tapped with five slumber counters on it.
+As long as Mt. Skyshred has a slumber counter on it, it's a land. [i](It's not a creature.)[/i]
+Whenever Mt. Skyshred becomes tapped, you may remove a slumber counter for it.
+{T}: Add {R} or {G}. => You may pay {R}{G} rather than this spell's mana cost. If you do, it enters tapped with five slumber counters on it.
+As long as Mt. Skyshred has a slumber counter on it, it's a land. [i](It's not a creature.)[/i]
+Whenever Mt. Skyshred becomes tapped, you may remove a slumber counter for it.
+{T}: Add {R} or {G}.
+
+Nerak, Herald of Processions
+rules_text: Whenever Nerak, Herald of Processions becomes tapped, create a 1/1 white Cleric creature token.
+At the beginning of your end step, if you control three or more tapped tokens or if three or more creature tokens you control left the battlefield this turn, each opponent loses 2 life and you gain 2 life. => Whenever Nerak becomes tapped, create a 1/1 white Cleric creature token.
+At the beginning of your end step, if you control three or more tapped creatures or three or more creatures you controlled left the battlefield this turn, each opponent loses 2 life and you gain 2 life.
+
+O'Lime, Reefkeeper
+rules_text: If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+[i]Apex[/i]—O'Lime, Reefkeeper and other creatures you control get +1/+1 as long as you control a creature with mana value 6 or greater. => If an effect would create one or more tokens under your control, create those tokens plus an additional token that's a copy of one of those tokens.
+[i]Apex[/i]—Creatures you control get +1/+1 as long as you control a creature with mana value 6 or greater.
+
+Ruyel, Tribute Keeper
+rules_text: When Ruyel, Tribute Keeper enters the battlefield, it deals X damage to target creature or planeswalker, where X is the number of artifacts put into your graveyard from the battlefield this turn.
+Whenever an artifact enters the battlefield under your control for the first time each turn, you may draw a card. If you do, discard a card. => When Ruyel enters, it deals X damage to target creature or planeswalker, where X is the number of artifacts put into your graveyard from the battlefield this turn.
+Whenever one or more artifacts you control enter, you may draw a card. If you do and this isn't the first time this ability has resolved this turn, discard a card.
+
+Semaj, Eternity-Seer
+rules_text: At the beginning of your upkeep, you may sacrifice an artifact or creature. If you do, look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.
+{2}{U}{B}, {T}, Sacrifice Semaj, Eternity-Seer: Return target creature card from your graveyard to the battlefield. => At the beginning of your upkeep, you may sacrifice an artifact or creature. If you do, mill two cards. You may put a card from among the cards milled this way into your hand.
+{2}{U}{B}, {T}, Sacrifice Semaj: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.
+
+Animate Offering
+rules_text: Animate Offering enters the battlefield tapped.
+{T}, Sacrifice Animate Offering: Add one mana of any color.
+{1}, {T}, Sacrifice Animate Offering: Draw a card. => This creature enters tapped.
+{T}, Sacrifice this creature: Add one mana of any color.
+{1}, {T}, Sacrifice this creature: Draw a card.
+
+Awakened Attendant
+rules_text: [i]Apex[/i]—At the beginning of your upkeep, if you control a creature with mana value 6 or greater, create a token that's a copy of Awakened Attendant. => [i]Apex[/i]—At the beginning of your end step, if you control a creature with mana value 6 or greater, create a token that's a copy of this creature.
+
+Beacon of Greatness
+
+Behemoth Maul
+rules_text: Equipped creature gets +1/+1 and has trample.
+Whenever a creature with mana value 6 or greater enters the battlefield under your control, you may attach Behemoth Maul to it.
+Equip {3} => Equipped creature gets +1/+1 and has trample.
+Whenever a creature with mana value 6 or greater you control enters, you may attach this Equipment to it.
+Equip {3}
+
+Cityback Golem
+rules_text: Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Tap an untapped creature you control: Cityback Golem gains your choice of reach, trample, or vigilance until end of turn. => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Tap an untapped creature you control: This creature gains your choice of reach, trample, or vigilance until end of turn.
+
+Cursed Relic
+rules_text: Cursed Relic enters the battlefield tapped.
+{T}, Sacrifice Cursed Relic: Add one mana of any color.
+{4}, {T}, Sacrifice Cursed Relic: Destroy target creature or planeswalker. => This artifact enters tapped.
+{T}, Sacrifice this artifact: Add one mana of any color.
+{4}, {T}, Sacrifice this artifact: Destroy target creature or planeswalker. Activate only as a sorcery.
+
+Endless Spoils
+
+Great Sentinel
+
+Idol of Inevitability
+rules_text: {T}: Target player mills a card.
+When Idol of Inevitability dies, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => {T}: Target player mills a card.
+When this creature dies, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Living Landmass
+
+Pinnacle of Worship
+rules_text: [i]Apex[/i]—At the beginning of your upkeep, if you control a creature with mana value 6 or greater, you gain 1 life.
+{T}: Add one mana of any color. => {T}: Add one mana of any color.
+[i]Apex[/i]—{T}: Scry 1. You gain 1 life. Activate only if you control a creature with mana value 6 or greater.
+
+Springleaf Drum
+
+Staff of the Ancients
+cost: {1} => {2}
+
+Tireless Worshiper
+
+Tome of the Ancients
+
+Voltaic Wurm
+rules_text: As Voltaic Wurm enters the battlefield, you may sacrifice any number of creatures and/or artifacts. Voltaic Wurm enters the battlefield with twice that many +1/+1 counters on it. => As this creature enters, you may sacrifice any number of creatures and/or artifacts. This creature enters with twice that many +1/+1 counters on it.
+
+Wayfarer's Bauble
+rules_text: {2}, {T}, Sacrifice Wayfarer's Bauble: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. => {2}, {T}, Sacrifice this artifact: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+
+Worldcrawler Golem
+rules_text: When Worldcrawler Golem dies, create two 1/1 white Cleric creature tokens. => When this creature dies, create two 1/1 white Cleric creature tokens.
+
+Bed of the Sun
+rules_text: {2}{W}: Put Bed of the Sun from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Bed of the Sun enters the battlefield tapped.
+{T}: Add {W}. => {2}{W}: Put Bed of the Sun from your hand onto the battlefield. [i](It enters this land.)[/i]
+Bed of the Sun enters tapped.
+{T}: Add {W}.
+
+Carved Peak
+rules_text: {2}{R}: Put Carved Peak from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Carved Peak enters the battlefield tapped.
+{T}: Add {R}. => {2}{R}: Put this card from your hand onto the battlefield. [i](It enters as this land.)[/i]
+This land enters tapped.
+{T}: Add {R}.
+
+Cascading Fountain
+rules_text: {2}{U}: Put Cascading Fountain from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Cascading Fountain enters the battlefield tapped.
+{T}: Add {U}. => {2}{U}: Put this card from your hand onto the battlefield. [i](It enters as this land.)[/i]
+This land enters tapped.
+{T}: Add {U}.
+
+Churning Depths
+rules_text: {2}{U}: Put Churning Depths from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Churning Depths enters the battlefield tapped.
+{T}: Add {U}. => {2}{U}: Put this card from your hand onto the battlefield. [i](It enters as this land.)[/i]
+This land enters tapped.
+{T}: Add {U}.
+
+Cradle of Evergrowth
+rules_text: {2}{G}: Put Cradle of Evergrowth from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Cradle of Evergrowth enters the battlefield tapped.
+{T}: Add {G}. => {2}{G}: Put Cradle of Evergrowth from your hand onto the battlefield. [i](It enters as this land.)[/i]
+Cradle of Evergrowth enters tapped.
+{T}: Add {G}.
+
+Enduring Elevation
+rules_text: {2}{G}: Put Enduring Elevation from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Enduring Elevation enters the battlefield tapped.
+{T}: Add {G}. => {2}{G}: Put Enduring Elevation from your hand onto the battlefield. [i](It enters as this land.)[/i]
+Enduring Elevation enters tapped.
+{T}: Add {G}.
+
+Everlasting Typhoon
+rules_text: {2}{U}: Put Everlasting Typhoon from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Everlasting Typhoon enters the battlefield tapped.
+{T}: Add {U}. => {2}{U}: Put Everlasting Typhoon from your hand onto the battlefield. [i](It enters as this land.)[/i]
+Everlasting Typhoon enters tapped.
+{T}: Add {U}.
+
+Flowering Grove
+rules_text: {2}{G}: Put Flowering Grove from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Flowering Grove enters the battlefield tapped.
+{T}: Add {G}. => {2}{G}: Put this card from your hand onto the battlefield. [i](It enters as this land.)[/i]
+This land enters tapped.
+{T}: Add {G}.
+
+Followed Path
+rules_text: {2}{W}: Put Followed Path from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Followed Path enters the battlefield tapped.
+{T}: Add {W}. => {2}{W}: Put this card from your hand onto the battlefield. [i](It enters as this land.)[/i]
+This land enters tapped.
+{T}: Add {W}.
+
+Frozen Wastes
+rules_text: {2}{U}: Put Frozen Wastes from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Frozen Wastes enters the battlefield tapped.
+{T}: Add {U}. => {2}{U}: Put this card from your hand onto the battlefield. [i](It enters as this land.)[/i]
+This land enters tapped.
+{T}: Add {U}.
+
+Gargantuan Grave
+rules_text: {2}{B}: Put Gargantuan Grave from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Gargantuan Grave enters the battlefield tapped.
+{T}: Add {B}. => {2}{B}: Put this card from your hand onto the battlefield. [i](It enters as this land.)[/i]
+This land enters tapped.
+{T}: Add {B}.
+
+Gnarled Waves
+rules_text: {2}{R}: Put Gnarled Waves from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Gnarled Waves enters the battlefield tapped.
+{T}: Add {R}. => {2}{R}: Put this card from your hand onto the battlefield. [i](It enters as this land.)[/i]
+This land enters tapped.
+{T}: Add {R}.
+
+Gorged Trench
+rules_text: {2}{U}: Put Gorged Trench from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Gorged Trench enters the battlefield tapped.
+{T}: Add {U}. => {2}{U}: Put Gorged Trench from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Gorged Trench enters tapped.
+{T}: Add {U}.
+
+Great Den
+rules_text: {2}{W}: Put Great Den from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Great Den enters the battlefield tapped.
+{T}: Add {W}. => {2}{W}: Put this card from your hand onto the battlefield. [i](It enters as this land.)[/i]
+This land enters tapped.
+{T}: Add {W}.
+
+Hall of Temptations
+rules_text: {2}{B}: Put Hall of Temptations from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Hall of Temptations enters the battlefield tapped.
+{T}: Add {B}. => {2}{B}: Put this card from your hand onto the battlefield. [i](It enters as this land.)[/i]
+This land enters tapped.
+{T}: Add {B}.
+
+Head of the Woods
+rules_text: {2}{G}: Put Head of the Woods from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Head of the Woods enters the battlefield tapped.
+{T}: Add {G}. => {2}{G}: Put this card from your hand onto the battlefield. [i](It enters as this land.)[/i]
+This land enters tapped.
+{T}: Add {G}.
+
+Heart of the World
+rules_text: {2}{G}: Put Heart of the World from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Heart of the World enters the battlefield tapped.
+{T}: Add {G}.
+{T}: Return Heart of the World to its owner's hand. => {2}{G}: Put Heart of the World from your hand onto the battlefield. [i](It enter as this land.)[/i]
+Heart of the World enters tapped.
+{T}: Add {G}.
+{T}: Return Heart of the World to its owner's hand.
+
+Maw of the Deep
+rules_text: {2}{U}: Put Maw of the Deep from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Maw of the Deep enters the battlefield tapped.
+{T}: Add {U}.
+{T}: Return Maw of the Deep to its owner's hand. => {2}{U}: Put Maw of the Deep from your hand onto the battlefield. [i](It enters as this land.)[/i]
+Maw of the Deep enters tapped.
+{T}: Add {U}.
+{T}: Return Maw of the Deep to its owner's hand.
+
+Monument to the Skybound
+rules_text: {2}{W}: Put Monument to the Skybound from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Monument to the Skybound enters the battlefield tapped.
+{T}: Add {W}. => {2}{W}: Put this card from your hand onto the battlefield. [i](It enters as this land.)[/i]
+This land enters tapped.
+{T}: Add {W}.
+
+Murky Waters
+rules_text: {2}{B}: Put Murky Waters from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Murky Waters enters the battlefield tapped.
+{T}: Add {B}. => {2}{B}: Put this card from your hand onto the battlefield. [i](It enters as this land.)[/i]
+This land enters tapped.
+{T}: Add {B}.
+
+Nexus of the Beginning
+rules_text: {2}{R}: Put Nexus of the Beginning from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Nexus of the Beginning enters the battlefield tapped.
+{T}: Add {R}.
+{T}: Return Nexus of the Beginning to its owner's hand. => {2}{R}: Put Nexus of the Beginning from your hand onto the battlefield. [i](It enters as this land.)[/i]
+Nexus of the Beginning enters tapped.
+{T}: Add {R}.
+{T}: Return Nexus of the Beginning to its owner's hand.
+
+Path of Ruin
+rules_text: {3}: Put Path of Ruin from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Path of Ruin enters the battlefield tapped.
+{T}: Add {C}. => {3}: Put Path of Ruin from your hand onto the battlefield. [i](It enters as this land.)[/i]
+Path of Ruin enters tapped.
+{T}: Add {C}.
+
+Path of Thorns
+rules_text: {2}{G}: Put Path of Thorns from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Path of Thorns enters the battlefield tapped.
+{T}: Add {G}. => {2}{G}: Put this card from your hand onto the battlefield. [i](It enters as this land.)[/i]
+This land enters tapped.
+{T}: Add {G}.
+
+Pool of Blood
+rules_text: {2}{B}: Put Pool of Blood from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Pool of Blood enters the battlefield tapped.
+{T}: Add {B}. => {2}{B}: Put this card from your hand onto the battlefield. [i](It enters as this land.)[/i]
+This land enters tapped.
+{T}: Add {B}.
+
+Pool of Vitality
+rules_text: {2}{G}: Put Pool of Vitality from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Pool of Vitality enters the battlefield tapped.
+{T}: Add {G}. => {2}{G}: Put this card from your hand onto the battlefield. [i](It enters as this land.)[/i]
+This land enters tapped.
+{T}: Add {G}.
+
+Predator's Den
+rules_text: {2}{R}: Put Predator's Den from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Predator's Den enters the battlefield tapped.
+{T}: Add {R}. => {2}{R}: Put Predator's Den from your hand onto the battlefield. [i](It enters as this land.)[/i]
+Predator's Den enters tapped.
+{T}: Add {R}.
+
+Ravaged Vista
+rules_text: {2}{R}: Put Ravaged Vista from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Ravaged Vista enters the battlefield tapped.
+{T}: Add {R}. => {2}{R}: Put this card from your hand onto the battlefield. [i](It enters as this land.)[/i]
+This land enters tapped.
+{T}: Add {R}.
+
+Sacred Valley
+rules_text: {2}{W}: Put Sacred Valley from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Sacred Valley enters the battlefield tapped.
+{T}: Add {W}. => {2}{W}: Put Sacred Valley from your hand onto the battlefield. [i](It enters as this land.)[/i]
+Sacred Valley enters tapped.
+{T}: Add {W}.
+
+Scourged Grounds
+rules_text: {2}{R}: Put Scourged Grounds from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Scourged Grounds enters the battlefield tapped.
+{T}: Add {R}. => {2}{R}: Put Scourged Grounds from your hand onto the battlefield. [i](It enters as this land.)[/i]
+Scourged Grounds enters tapped.
+{T}: Add {R}.
+
+Seafloor of Shipwrecks
+rules_text: {2}{U}: Put Seafloor of Shipwrecks from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Seafloor of Shipwrecks enters the battlefield tapped.
+{T}: Add {U}. => {2}{U}: Put this card from your hand onto the battlefield. [i](It enters as this land.)[/i]
+This land enters tapped.
+{T}: Add {U}.
+
+Signs of Protection
+rules_text: {2}{W}: Put Signs of Protection from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Signs of Protection enters the battlefield tapped.
+{T}: Add {W}. => {2}{W}: Put this card from your hand onto the battlefield. [i](It enters as this land.)[/i]
+This land enters tapped.
+{T}: Add {W}.
+
+The Soul Cages
+rules_text: {2}{B}: Put The Soul Cages from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+The Soul Cages enters the battlefield tapped.
+{T}: Add {B}. => {2}{B}: Put The Soul Cages from your hand onto the battlefield. [i](It enters as this land.)[/i]
+The Soul Cages enters tapped.
+{T}: Add {B}.
+
+Throne of Amplalo
+
+Throne of Bones
+rules_text: {2}{B}: Put Throne of Bones from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Throne of Bones enters the battlefield tapped.
+{T}: Add {B}. => {2}{B}: Put Throne of Bones from your hand onto the battlefield. [i](It enters as this land.)[/i]
+Throne of Bones enters tapped.
+{T}: Add {B}.
+
+Tomb of the Slain
+rules_text: {2}{W}: Put Tomb of the Slain from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Tomb of the Slain enters the battlefield tapped.
+{T}: Add {W}.
+{T}: Return Tomb of the Slain to its owner's hand. => {2}{W}: Put Tomb of the Slain from your hand onto the battlefield. [i](It enters as this land.)[/i]
+Tomb of the Slain enters tapped.
+{T}: Add {W}.
+{T}: Return Tomb of the Slain to its owner's hand.
+
+Vault of the End
+rules_text: {2}{B}: Put Vault of the End from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Vault of the End enters the battlefield tapped.
+{T}: Add {B}.
+{T}: Return Vault of the End to its owner's hand. => {2}{B}: Put Vault of the End from your hand onto the battlefield. [i](It enters as this land.)[/i]
+Vault of the End enters tapped.
+{T}: Add {B}.
+{T}: Return Vault of the End to its owner's hand.
+
+Volcanic Edge
+rules_text: {2}{R}: Put Volcanic Edge from your hand onto the battlefield. [i](It enters the battlefield as this land.)[/i]
+Volcanic Edge enters the battlefield tapped.
+{T}: Add {R}. => {2}{R}: Put this card from your hand onto the battlefield. [i](It enters as this land.)[/i]
+This land enters tapped.
+{T}: Add {R}.
+
+Total Devotion
+
+Chord of Calling
+
+Amulet of Vigor
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
