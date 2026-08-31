@@ -5,7 +5,7 @@
 			<name>GSM</name>
 			<longname>Greatest Show in the Multiverse</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-28</releasedate>
+			<releasedate>2026-08-31</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1096,7 +1096,7 @@ Create a 3/1 black and red Lizard creature token with menace. It gains haste unt
 		<card>
 			<name>Any Volunteers</name>
 			<text>Gain control of target creature or planeswalker until end of turn. Untap that permanent. It gains haste until end of turn.</text>
-			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/101_Any Volunteers.png" num="101">GSM</set>
+			<set rarity="common" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/102_Any Volunteers.png" num="102">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3281,7 +3281,7 @@ When this creature enters, you get {V} (a ticket counter) for each creature you 
 		</card>
 		<card>
 			<name>Stop the Show</name>
-			<text>Cast this spell only if a player has cast two or more spells this turn.
+			<text>Cast this spell only if an opponent has cast two or more spells this turn.
 End the turn. (Exile all spells and abilities from the stack, including this card. The player whose turn it is discards down to their maximum hand size. Damage wears off, and &quot;this turn&quot; and &quot;until end of turn&quot; effects end.)</text>
 			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/32_Stop the Show.png" num="32">GSM</set>
 			<prop>
@@ -3610,7 +3610,7 @@ Whenever this creature deals combat damage to a player, exile the top card of yo
 		<card>
 			<name>Andrie, Ride Tycoon</name>
 			<text>When Andrie enters, randomly choose another creature you control and a creature you don&apos;t control. Exchange control of those creatures.</text>
-			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/102_Andrie, Ride Tycoon.png" num="102">GSM</set>
+			<set rarity="rare" picurl="https://SorcerersOfTheShore.github.io/sets/GSM-files/img/101_Andrie, Ride Tycoon.png" num="101">GSM</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

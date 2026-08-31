@@ -1,4 +1,15 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Stop the Show
+rules_text: Cast this spell only if a player has cast two or more spells this turn.
+End the turn. [i](Exile all spells and abilities from the stack, including this card. The player whose turn it is discards down to their maximum hand size. Damage wears off, and “this turn” and “until end of turn” effects end.)[/i] => Cast this spell only if an opponent has cast two or more spells this turn.
+End the turn. [i](Exile all spells and abilities from the stack, including this card. The player whose turn it is discards down to their maximum hand size. Damage wears off, and “this turn” and “until end of turn” effects end.)[/i]
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Ticket Stash added.

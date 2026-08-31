@@ -625,9 +625,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "101",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://SorcerersOfTheShore.github.io/sets/GSM-files/img/101_Any Volunteers.png"
+				"en": "https://SorcerersOfTheShore.github.io/sets/GSM-files/img/102_Any Volunteers.png"
 			}
 		},
 		{
@@ -2065,9 +2065,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "102",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://SorcerersOfTheShore.github.io/sets/GSM-files/img/102_Andrie, Ride Tycoon.png"
+				"en": "https://SorcerersOfTheShore.github.io/sets/GSM-files/img/101_Andrie, Ride Tycoon.png"
 			}
 		},
 		{
