@@ -1,4 +1,149 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Arvis, the Tidewaker
+rules_text: Each land is an Island in addition to its other types.
+Whenever another sea monster you control enters, control, create a 1/1 blue Fish creature token. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+{U}{U}{U}{U}{U}{U}{U}{U}: Fish and sea monster creatures you control can't be blocked this turn. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i] => Each land is an Island in addition to its other types.
+Whenever another Shark or sea monster you control enters, control, create a 1/1 blue Fish creature token. [i](Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)[/i]
+{U}{U}{U}{U}{U}{U}{U}{U}: Fish, Sharks, and sea monster creatures you control can't be blocked this turn. [i](Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)[/i]
+
+Bident of Kiora
+rules_text: Whenever a creature you control deals combat damage to a player, you may draw a card. If that creature is a sea monster, you may also put a loyalty counter on each Kiora you control. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+{5}{U}, {T}: Search your library for a sea monster, nonbasic land, or Kiora planeswalker card, reveal it, put it into your hand, then shuffle. => Whenever a creature you control deals combat damage to a player, you may draw a card. If that creature is a Shark or sea monster, you may also put a loyalty counter on each Kiora you control. [i](Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)[/i]
+{5}{U}, {T}: Search your library for a Shark, sea monster, nonbasic land, or Kiora planeswalker card, reveal it, put it into your hand, then shuffle.
+
+Command the Deep
+rules_text: This spell costs {1} less to cast for each sea monster you control. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+Gain control of target permanent. => This spell costs {1} less to cast for each Shark you control and each sea monster you control. [i](Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)[/i]
+Gain control of target permanent.
+
+Evergrowing Kraken
+rules_text: Whenever another non-Tentacle sea monster you control enters, create a 1/1 blue Tentacle creature token. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+This creature gets +0/+1 for each Tentacle you control. => Whenever another non-Tentacle Shark or sea monster you control enters, create a 1/1 blue Tentacle creature token. [i](Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)[/i]
+This creature gets +0/+1 for each Tentacle you control.
+
+Glimpse the Deep-Keeper
+rules_text: Look at the top five cards of your library. You may reveal up to one sea monster card, up to one nonbasic land card, and up to one artifact card from among them. Put two cards revealed this way into your hand the rest on the bottom of your library in a random order. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i] => Look at the top five cards of your library. You may reveal up to one Shark or sea monster card, up to one nonbasic land card, and up to one artifact card from among them. Put two cards revealed this way into your hand the rest on the bottom of your library in a random order. [i](Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)[/i]
+
+Grip of Tentacles
+rules_text: Enchant creature
+When this Aura enters, if you control a sea monster, tap enchanted creature. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+Enchanted creature doesn't untap during its controller's untap step. => Enchant creature
+When this Aura enters, if you control a Shark or sea monster, tap enchanted creature. [i](Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)[/i]
+Enchanted creature doesn't untap during its controller's untap step.
+
+Keeper of the Sunken
+rules_text: When this creature enters, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Treasures you control have “{T}, Sacrifice this artifact: Add two mana of any one color. Spend this mana only to cast sea monster spells.” [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i] => When this creature enters, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Treasures you control have “{T}, Sacrifice this artifact: Add two mana of any one color. Spend this mana only to cast Shark spells or sea monster spells.” [i](Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)[/i]
+
+Normungan, Shelled Scourge
+rules_text: This spell can't be countered.
+Normungan, Crabs, and other Trilobites you control are sea monsters. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+When Normungan enters, create a 0/2 blue Trilobite creature token for each Island you control.
+Sacrifice another sea monster: Target creature gains hexproof until end of turn. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i] => This spell can't be countered.
+Normungan, Crabs, Sharks, and other Trilobites you control are sea monsters. [i](In addition to Krakens, Leviathans, Octopuses, Serpents, and Whales.)[/i]
+When Normungan enters, create a 0/2 blue Trilobite creature token for each Island you control.
+Sacrifice another sea monster: Target creature gains hexproof until end of turn.
+
+Nuvan, the Deep-Favored
+rules_text: Whenever a sea monster enters the battlefield under your control, you may pay {3}. If you do and {U} was spent this way, draw a card. If you do and {R} was spent this way, that creature deals damage equal to its power to each opponent. If you do and {G} was spent this way, you gain life equal to its power. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters. Do each applicable effect if {U}{R}, {R}{G}, {G}{U}, or {G}{U}{R} was spent.)[/i] => Whenever a Shark or sea monster you control enters, you may pay {3}. If you do and {U} was spent this way, draw a card. If you do and {R} was spent this way, that creature deals damage equal to its power to each opponent. If you do and {G} was spent this way, you gain life equal to its power. [i](Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters. Do each applicable effect if {U}{R}, {R}{G}, {G}{U}, or {G}{U}{R} was spent.)[/i]
+
+Sanity Drowner
+rules_text: Whenever this creature or another sea monster you control enters, target player mills two cards. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i] => Whenever this creature or another Shark or sea monster you control enters, target player mills two cards. [i](Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)[/i]
+
+Churn the Tides
+rules_text: Choose one—
+• Choose a creature type. For each creature you control of the chosen type, exile the top card of your library.
+• For each sea monster you control, exile the top card of your library. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+Until the end of your next turn, you may play cards exiled with this spell. => Choose one—
+• Choose a creature type. For each creature you control of the chosen type, exile the top card of your library.
+• For each Shark and sea monster you control, exile the top card of your library. [i](Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)[/i]
+Until the end of your next turn, you may play cards exiled with this spell.
+
+Dominate the Shallows
+rules_text: This spell costs {2} less to cast if it targets a sea monster you control. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+Enchant creature
+When this Aura enters, enchanted creature fights up to one target creature you don't control.
+Enchanted creature gets +1/+1. => This spell costs {2} less to cast if it targets a Shark or sea monster you control. [i](Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)[/i]
+Enchant creature
+When this Aura enters, enchanted creature fights up to one target creature you don't control.
+Enchanted creature gets +1/+1.
+
+Ruinator Scourge
+rules_text: Whenever this creature or another sea monster you control attacks, add {R}. [i](You lose that mana at the end of the declare attackers step. Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+{R}: Target sea monster gets +1/+0 until end of turn.
+{R}{R}{R}{R}: Destroy target artifact. => Whenever this creature or another Shark or sea monster you control attacks, add {R}. [i](You lose that mana at the end of the declare attackers step. Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)[/i]
+{R}: Target sea monster gets +1/+0 until end of turn.
+{R}{R}{R}{R}: Destroy target artifact.
+
+Seaweaver Serpent
+rules_text: When this creature enters, put a +1/+1 counter on target sea monster you control. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i] => When this creature enters, put a +1/+1 counter on target Shark or sea monster you control. [i](Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)[/i]
+
+Kiora, Caller of the Deep
+rules_text: Sea monster spells you cast cost {1} less to cast.
+[+1]: Untap target permanent you control. You may return that permanent to its owner's hand..
+[-1]: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+[-10]: Search your library for any number of sea monster cards and any number of land cards, reveal them, put them into your hand, then shuffle. Add five {G} and five {U}. => Shark and sea monster spells you cast cost {1} less to cast.
+[+1]: Untap target permanent you control. You may return that permanent to its owner's hand..
+[-1]: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+[-10]: Search your library for any number of sea monster cards and any number of land cards, reveal them, put them into your hand, then shuffle. Add five {G} and five {U}.
+special_text: Sea monster spells you cast cost {1} less to cast.
+[+1]: Untap target permanent you control. You may return that permanent to its owner's hand..
+[-1]: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+[-10]: Search your library for any number of sea monster cards and any number of land cards, reveal them, put them into your hand, then shuffle. Add five {G} and five {U}. => Shark and sea monster spells you cast cost {1} less to cast.
+[+1]: Untap target permanent you control. You may return that permanent to its owner's hand..
+[-1]: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+[-10]: Search your library for any number of sea monster cards and any number of land cards, reveal them, put them into your hand, then shuffle. Add five {G} and five {U}.
+
+Marine, Kraken Breeder
+rules_text: Whenever a sea monster you control enters, draw a card. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i]
+{T}: Add {G}{U}. Spend this mana only to cast sea monster spells. [i](Krakens, Leviathans, Octopuses, Serpents, and Sharks are sea monsters.)[/i] => Whenever a Shark or sea monster you control enters, draw a card. [i](Krakens, Leviathans, Octopuses, Serpents, and Whales are sea monsters.)[/i]
+{T}: Add {G}{U}. Spend this mana only to cast Shark or sea monster spells.
+
+Bed of the Sun
+
+Cascading Fountain
+
+Everlasting Typhoon
+
+Flowering Grove
+
+Followed Path
+
+Frozen Wastes
+
+Gorged Trench
+
+Great Den
+
+Maw of the Deep
+
+Path of Ruin
+
+Path of Thorns
+
+Pool of Blood
+
+Predator's Den
+
+Ravaged Vista
+
+Sacred Valley
+
+Seafloor of Shipwrecks
+
+Signs of Protection
+
+The Soul Cages
+
+Throne of Bones
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Aria of Ashes added.

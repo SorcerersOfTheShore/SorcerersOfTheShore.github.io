@@ -1956,7 +1956,7 @@
     {
         "card_name": "Bed of the Sun",
         "number": 229,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "225"
@@ -1972,7 +1972,7 @@
     {
         "card_name": "The Soul Cages",
         "number": 260,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "256"
@@ -1980,7 +1980,7 @@
     {
         "card_name": "Predator's Den",
         "number": 254,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "250"
@@ -1996,7 +1996,7 @@
     {
         "card_name": "Sacred Valley",
         "number": 256,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "252"
@@ -2004,7 +2004,7 @@
     {
         "card_name": "Gorged Trench",
         "number": 241,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "237"
@@ -2012,7 +2012,7 @@
     {
         "card_name": "Throne of Bones",
         "number": 262,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "258"
@@ -2036,7 +2036,7 @@
     {
         "card_name": "Followed Path",
         "number": 237,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "233"
@@ -2044,7 +2044,7 @@
     {
         "card_name": "Cascading Fountain",
         "number": 231,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "227"
@@ -2068,7 +2068,7 @@
     {
         "card_name": "Flowering Grove",
         "number": 236,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "232"
@@ -2076,7 +2076,7 @@
     {
         "card_name": "Great Den",
         "number": 242,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "238"
@@ -2124,7 +2124,7 @@
     {
         "card_name": "Frozen Wastes",
         "number": 238,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "234"
@@ -2140,7 +2140,7 @@
     {
         "card_name": "Ravaged Vista",
         "number": 255,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "251"
@@ -2148,7 +2148,7 @@
     {
         "card_name": "Path of Thorns",
         "number": 251,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "247"
@@ -2156,7 +2156,7 @@
     {
         "card_name": "Signs of Protection",
         "number": 259,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "255"
@@ -2164,7 +2164,7 @@
     {
         "card_name": "Seafloor of Shipwrecks",
         "number": 258,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "254"
@@ -2172,7 +2172,7 @@
     {
         "card_name": "Pool of Blood",
         "number": 252,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "248"
@@ -2211,7 +2211,7 @@
     {
         "card_name": "Path of Ruin",
         "number": 250,
-        "shape": "transform double faced",
+        "shape": "modal double faced",
         "set": "AMP",
         "rotated": false,
         "position": "246"
